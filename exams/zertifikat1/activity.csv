@@ -1,0 +1,4401 @@
+,country_region_code,sub_region_1,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline
+275,DE,Baden-Württemberg,2020-02-15,6,1.0
+276,DE,Baden-Württemberg,2020-02-16,23,43.0
+277,DE,Baden-Württemberg,2020-02-17,0,-1.0
+278,DE,Baden-Württemberg,2020-02-18,4,3.0
+279,DE,Baden-Württemberg,2020-02-19,2,0.0
+280,DE,Baden-Württemberg,2020-02-20,6,0.0
+281,DE,Baden-Württemberg,2020-02-21,1,1.0
+282,DE,Baden-Württemberg,2020-02-22,2,-2.0
+283,DE,Baden-Württemberg,2020-02-23,9,36.0
+284,DE,Baden-Württemberg,2020-02-24,11,-1.0
+285,DE,Baden-Württemberg,2020-02-25,-1,-5.0
+286,DE,Baden-Württemberg,2020-02-26,-5,-3.0
+287,DE,Baden-Württemberg,2020-02-27,-10,-2.0
+288,DE,Baden-Württemberg,2020-02-28,0,10.0
+289,DE,Baden-Württemberg,2020-02-29,-5,3.0
+290,DE,Baden-Württemberg,2020-03-01,9,20.0
+291,DE,Baden-Württemberg,2020-03-02,0,8.0
+292,DE,Baden-Württemberg,2020-03-03,-1,5.0
+293,DE,Baden-Württemberg,2020-03-04,0,1.0
+294,DE,Baden-Württemberg,2020-03-05,-9,-3.0
+295,DE,Baden-Württemberg,2020-03-06,-7,0.0
+296,DE,Baden-Württemberg,2020-03-07,-1,-1.0
+297,DE,Baden-Württemberg,2020-03-08,17,25.0
+298,DE,Baden-Württemberg,2020-03-09,1,2.0
+299,DE,Baden-Württemberg,2020-03-10,-9,-2.0
+300,DE,Baden-Württemberg,2020-03-11,-3,2.0
+301,DE,Baden-Württemberg,2020-03-12,-9,5.0
+302,DE,Baden-Württemberg,2020-03-13,-9,20.0
+303,DE,Baden-Württemberg,2020-03-14,-22,7.0
+304,DE,Baden-Württemberg,2020-03-15,-7,22.0
+305,DE,Baden-Württemberg,2020-03-16,-7,22.0
+306,DE,Baden-Württemberg,2020-03-17,-25,10.0
+307,DE,Baden-Württemberg,2020-03-18,-36,4.0
+308,DE,Baden-Württemberg,2020-03-19,-46,-3.0
+309,DE,Baden-Württemberg,2020-03-20,-51,-2.0
+310,DE,Baden-Württemberg,2020-03-21,-74,-30.0
+311,DE,Baden-Württemberg,2020-03-22,-74,-31.0
+312,DE,Baden-Württemberg,2020-03-23,-56,-18.0
+313,DE,Baden-Württemberg,2020-03-24,-60,-20.0
+314,DE,Baden-Württemberg,2020-03-25,-60,-21.0
+315,DE,Baden-Württemberg,2020-03-26,-61,-19.0
+316,DE,Baden-Württemberg,2020-03-27,-59,-16.0
+317,DE,Baden-Württemberg,2020-03-28,-66,-25.0
+318,DE,Baden-Württemberg,2020-03-29,-79,-49.0
+319,DE,Baden-Württemberg,2020-03-30,-52,-17.0
+320,DE,Baden-Württemberg,2020-03-31,-54,-15.0
+321,DE,Baden-Württemberg,2020-04-01,-52,-16.0
+322,DE,Baden-Württemberg,2020-04-02,-53,-13.0
+323,DE,Baden-Württemberg,2020-04-03,-57,-12.0
+324,DE,Baden-Württemberg,2020-04-04,-63,-19.0
+325,DE,Baden-Württemberg,2020-04-05,-60,-2.0
+326,DE,Baden-Württemberg,2020-04-06,-42,-8.0
+327,DE,Baden-Württemberg,2020-04-07,-45,-4.0
+328,DE,Baden-Württemberg,2020-04-08,-44,8.0
+329,DE,Baden-Württemberg,2020-04-09,-41,15.0
+330,DE,Baden-Württemberg,2020-04-10,-81,-92.0
+331,DE,Baden-Württemberg,2020-04-11,-57,-4.0
+332,DE,Baden-Württemberg,2020-04-12,-69,-20.0
+333,DE,Baden-Württemberg,2020-04-13,-77,-92.0
+334,DE,Baden-Württemberg,2020-04-14,-44,1.0
+335,DE,Baden-Württemberg,2020-04-15,-45,-11.0
+336,DE,Baden-Württemberg,2020-04-16,-54,-4.0
+337,DE,Baden-Württemberg,2020-04-17,-56,-5.0
+338,DE,Baden-Württemberg,2020-04-18,-66,-17.0
+339,DE,Baden-Württemberg,2020-04-19,-59,5.0
+340,DE,Baden-Württemberg,2020-04-20,-45,-10.0
+341,DE,Baden-Württemberg,2020-04-21,-49,-9.0
+342,DE,Baden-Württemberg,2020-04-22,-49,-11.0
+343,DE,Baden-Württemberg,2020-04-23,-50,-7.0
+344,DE,Baden-Württemberg,2020-04-24,-52,-7.0
+345,DE,Baden-Württemberg,2020-04-25,-58,-12.0
+346,DE,Baden-Württemberg,2020-04-26,-52,15.0
+347,DE,Baden-Württemberg,2020-04-27,-44,-15.0
+348,DE,Baden-Württemberg,2020-04-28,-51,-13.0
+349,DE,Baden-Württemberg,2020-04-29,-50,-2.0
+350,DE,Baden-Württemberg,2020-04-30,-39,18.0
+351,DE,Baden-Württemberg,2020-05-01,-83,-92.0
+352,DE,Baden-Württemberg,2020-05-02,-50,-2.0
+353,DE,Baden-Württemberg,2020-05-03,-54,22.0
+354,DE,Baden-Württemberg,2020-05-04,-32,-8.0
+355,DE,Baden-Württemberg,2020-05-05,-38,-9.0
+356,DE,Baden-Württemberg,2020-05-06,-36,-8.0
+357,DE,Baden-Württemberg,2020-05-07,-35,-6.0
+358,DE,Baden-Württemberg,2020-05-08,-37,-3.0
+359,DE,Baden-Württemberg,2020-05-09,-41,-4.0
+360,DE,Baden-Württemberg,2020-05-10,-48,23.0
+361,DE,Baden-Württemberg,2020-05-11,-40,-18.0
+362,DE,Baden-Württemberg,2020-05-12,-32,-5.0
+363,DE,Baden-Württemberg,2020-05-13,-39,-12.0
+364,DE,Baden-Württemberg,2020-05-14,-36,-7.0
+365,DE,Baden-Württemberg,2020-05-15,-35,-4.0
+366,DE,Baden-Württemberg,2020-05-16,-39,-9.0
+367,DE,Baden-Württemberg,2020-05-17,-40,37.0
+368,DE,Baden-Württemberg,2020-05-18,-14,-6.0
+369,DE,Baden-Württemberg,2020-05-19,-18,-1.0
+370,DE,Baden-Württemberg,2020-05-20,-10,32.0
+371,DE,Baden-Württemberg,2020-05-21,-54,-87.0
+372,DE,Baden-Württemberg,2020-05-22,-19,3.0
+373,DE,Baden-Württemberg,2020-05-23,-42,-15.0
+374,DE,Baden-Württemberg,2020-05-24,-34,25.0
+375,DE,Baden-Württemberg,2020-05-25,-15,-5.0
+376,DE,Baden-Württemberg,2020-05-26,-20,-6.0
+377,DE,Baden-Württemberg,2020-05-27,-18,-6.0
+378,DE,Baden-Württemberg,2020-05-28,-20,-1.0
+379,DE,Baden-Württemberg,2020-05-29,-19,4.0
+380,DE,Baden-Württemberg,2020-05-30,-27,1.0
+381,DE,Baden-Württemberg,2020-05-31,-22,36.0
+382,DE,Baden-Württemberg,2020-06-01,-41,-87.0
+383,DE,Baden-Württemberg,2020-06-02,-7,13.0
+384,DE,Baden-Württemberg,2020-06-03,-15,-4.0
+385,DE,Baden-Württemberg,2020-06-04,-22,-5.0
+386,DE,Baden-Württemberg,2020-06-05,-24,-5.0
+387,DE,Baden-Württemberg,2020-06-06,-32,-11.0
+388,DE,Baden-Württemberg,2020-06-07,-34,10.0
+389,DE,Baden-Württemberg,2020-06-08,-7,-7.0
+390,DE,Baden-Württemberg,2020-06-09,-16,-5.0
+391,DE,Baden-Württemberg,2020-06-10,-8,22.0
+392,DE,Baden-Württemberg,2020-06-11,-52,-89.0
+393,DE,Baden-Württemberg,2020-06-12,-6,4.0
+394,DE,Baden-Württemberg,2020-06-13,-26,-12.0
+395,DE,Baden-Württemberg,2020-06-14,-42,-11.0
+396,DE,Baden-Württemberg,2020-06-15,-10,-1.0
+397,DE,Baden-Württemberg,2020-06-16,-13,-1.0
+398,DE,Baden-Württemberg,2020-06-17,-18,-7.0
+399,DE,Baden-Württemberg,2020-06-18,-11,-3.0
+400,DE,Baden-Württemberg,2020-06-19,-15,-1.0
+401,DE,Baden-Württemberg,2020-06-20,-20,-6.0
+402,DE,Baden-Württemberg,2020-06-21,-5,36.0
+403,DE,Baden-Württemberg,2020-06-22,-5,-3.0
+404,DE,Baden-Württemberg,2020-06-23,-7,-2.0
+405,DE,Baden-Württemberg,2020-06-24,-8,-3.0
+406,DE,Baden-Württemberg,2020-06-25,-11,-3.0
+407,DE,Baden-Württemberg,2020-06-26,-16,-3.0
+408,DE,Baden-Württemberg,2020-06-27,-20,-6.0
+409,DE,Baden-Württemberg,2020-06-28,-17,20.0
+410,DE,Baden-Württemberg,2020-06-29,-3,1.0
+411,DE,Baden-Württemberg,2020-06-30,0,3.0
+412,DE,Baden-Württemberg,2020-07-01,-3,-2.0
+413,DE,Baden-Württemberg,2020-07-02,-8,0.0
+414,DE,Baden-Württemberg,2020-07-03,-5,2.0
+415,DE,Baden-Württemberg,2020-07-04,-13,-5.0
+416,DE,Baden-Württemberg,2020-07-05,0,31.0
+417,DE,Baden-Württemberg,2020-07-06,2,2.0
+418,DE,Baden-Württemberg,2020-07-07,1,1.0
+419,DE,Baden-Württemberg,2020-07-08,-3,-3.0
+420,DE,Baden-Württemberg,2020-07-09,-5,-2.0
+421,DE,Baden-Württemberg,2020-07-10,-8,1.0
+422,DE,Baden-Württemberg,2020-07-11,-11,-4.0
+423,DE,Baden-Württemberg,2020-07-12,8,35.0
+424,DE,Baden-Württemberg,2020-07-13,3,1.0
+425,DE,Baden-Württemberg,2020-07-14,0,0.0
+426,DE,Baden-Württemberg,2020-07-15,-6,-3.0
+427,DE,Baden-Württemberg,2020-07-16,-11,-3.0
+428,DE,Baden-Württemberg,2020-07-17,-5,0.0
+429,DE,Baden-Württemberg,2020-07-18,-12,-6.0
+430,DE,Baden-Württemberg,2020-07-19,7,33.0
+431,DE,Baden-Württemberg,2020-07-20,2,0.0
+432,DE,Baden-Württemberg,2020-07-21,1,1.0
+433,DE,Baden-Württemberg,2020-07-22,2,-2.0
+434,DE,Baden-Württemberg,2020-07-23,-1,-1.0
+435,DE,Baden-Württemberg,2020-07-24,-4,2.0
+436,DE,Baden-Württemberg,2020-07-25,-12,-6.0
+437,DE,Baden-Württemberg,2020-07-26,-1,23.0
+438,DE,Baden-Württemberg,2020-07-27,6,2.0
+439,DE,Baden-Württemberg,2020-07-28,2,3.0
+440,DE,Baden-Württemberg,2020-07-29,8,2.0
+441,DE,Baden-Württemberg,2020-07-30,2,3.0
+442,DE,Baden-Württemberg,2020-07-31,-6,1.0
+443,DE,Baden-Württemberg,2020-08-01,-18,-8.0
+444,DE,Baden-Württemberg,2020-08-02,-10,10.0
+445,DE,Baden-Württemberg,2020-08-03,5,-1.0
+446,DE,Baden-Württemberg,2020-08-04,4,-1.0
+447,DE,Baden-Württemberg,2020-08-05,6,-5.0
+448,DE,Baden-Württemberg,2020-08-06,-2,-4.0
+449,DE,Baden-Württemberg,2020-08-07,-10,-7.0
+450,DE,Baden-Württemberg,2020-08-08,-23,-14.0
+451,DE,Baden-Württemberg,2020-08-09,-8,11.0
+452,DE,Baden-Württemberg,2020-08-10,-2,-6.0
+453,DE,Baden-Württemberg,2020-08-11,-6,-8.0
+454,DE,Baden-Württemberg,2020-08-12,-7,-11.0
+455,DE,Baden-Württemberg,2020-08-13,-8,-8.0
+456,DE,Baden-Württemberg,2020-08-14,-11,-9.0
+457,DE,Baden-Württemberg,2020-08-15,-19,-15.0
+458,DE,Baden-Württemberg,2020-08-16,-3,13.0
+459,DE,Baden-Württemberg,2020-08-17,-2,-6.0
+460,DE,Baden-Württemberg,2020-08-18,-4,-9.0
+461,DE,Baden-Württemberg,2020-08-19,-2,-10.0
+462,DE,Baden-Württemberg,2020-08-20,-11,-13.0
+463,DE,Baden-Württemberg,2020-08-21,-19,-15.0
+464,DE,Baden-Württemberg,2020-08-22,-24,-15.0
+465,DE,Baden-Württemberg,2020-08-23,-2,14.0
+466,DE,Baden-Württemberg,2020-08-24,-2,-8.0
+467,DE,Baden-Württemberg,2020-08-25,-4,-9.0
+468,DE,Baden-Württemberg,2020-08-26,-5,-12.0
+469,DE,Baden-Württemberg,2020-08-27,-6,-11.0
+470,DE,Baden-Württemberg,2020-08-28,-16,-11.0
+471,DE,Baden-Württemberg,2020-08-29,-19,-13.0
+472,DE,Baden-Württemberg,2020-08-30,-31,-25.0
+473,DE,Baden-Württemberg,2020-08-31,0,-4.0
+474,DE,Baden-Württemberg,2020-09-01,-5,-6.0
+475,DE,Baden-Württemberg,2020-09-02,-1,-9.0
+476,DE,Baden-Württemberg,2020-09-03,-4,-9.0
+477,DE,Baden-Württemberg,2020-09-04,-7,-10.0
+478,DE,Baden-Württemberg,2020-09-05,-15,-13.0
+479,DE,Baden-Württemberg,2020-09-06,1,12.0
+480,DE,Baden-Württemberg,2020-09-07,5,-4.0
+481,DE,Baden-Württemberg,2020-09-08,3,-5.0
+482,DE,Baden-Württemberg,2020-09-09,3,-9.0
+483,DE,Baden-Württemberg,2020-09-10,-2,-6.0
+484,DE,Baden-Württemberg,2020-09-11,-3,-5.0
+485,DE,Baden-Württemberg,2020-09-12,-9,-9.0
+486,DE,Baden-Württemberg,2020-09-13,14,19.0
+487,DE,Baden-Württemberg,2020-09-14,6,-1.0
+488,DE,Baden-Württemberg,2020-09-15,2,0.0
+489,DE,Baden-Württemberg,2020-09-16,1,-4.0
+490,DE,Baden-Württemberg,2020-09-17,-3,-4.0
+491,DE,Baden-Württemberg,2020-09-18,-4,-4.0
+492,DE,Baden-Württemberg,2020-09-19,-8,-9.0
+493,DE,Baden-Württemberg,2020-09-20,15,22.0
+494,DE,Baden-Württemberg,2020-09-21,3,-3.0
+495,DE,Baden-Württemberg,2020-09-22,-3,-3.0
+496,DE,Baden-Württemberg,2020-09-23,-6,-4.0
+497,DE,Baden-Württemberg,2020-09-24,-11,-5.0
+498,DE,Baden-Württemberg,2020-09-25,-13,-2.0
+499,DE,Baden-Württemberg,2020-09-26,-20,-8.0
+500,DE,Baden-Württemberg,2020-09-27,-15,-7.0
+501,DE,Baden-Württemberg,2020-09-28,-1,1.0
+502,DE,Baden-Württemberg,2020-09-29,-8,1.0
+503,DE,Baden-Württemberg,2020-09-30,1,2.0
+504,DE,Baden-Württemberg,2020-10-01,-8,5.0
+505,DE,Baden-Württemberg,2020-10-02,-2,31.0
+506,DE,Baden-Württemberg,2020-10-03,-52,-90.0
+507,DE,Baden-Württemberg,2020-10-04,3,21.0
+508,DE,Baden-Württemberg,2020-10-05,-1,11.0
+509,DE,Baden-Württemberg,2020-10-06,-7,4.0
+510,DE,Baden-Württemberg,2020-10-07,-8,-1.0
+511,DE,Baden-Württemberg,2020-10-08,-9,0.0
+512,DE,Baden-Württemberg,2020-10-09,-8,1.0
+513,DE,Baden-Württemberg,2020-10-10,-12,-5.0
+514,DE,Baden-Württemberg,2020-10-11,-15,0.0
+515,DE,Baden-Württemberg,2020-10-12,-7,-2.0
+516,DE,Baden-Württemberg,2020-10-13,-8,0.0
+517,DE,Baden-Württemberg,2020-10-14,-9,-3.0
+518,DE,Baden-Württemberg,2020-10-15,-14,2.0
+519,DE,Baden-Württemberg,2020-10-16,-14,2.0
+520,DE,Baden-Württemberg,2020-10-17,-17,-8.0
+521,DE,Baden-Württemberg,2020-10-18,-16,2.0
+522,DE,Baden-Württemberg,2020-10-19,-7,-2.0
+523,DE,Baden-Württemberg,2020-10-20,-11,-3.0
+524,DE,Baden-Württemberg,2020-10-21,-11,-6.0
+525,DE,Baden-Württemberg,2020-10-22,-14,-4.0
+526,DE,Baden-Württemberg,2020-10-23,-19,-3.0
+527,DE,Baden-Württemberg,2020-10-24,-19,-9.0
+528,DE,Baden-Württemberg,2020-10-25,-4,17.0
+529,DE,Baden-Württemberg,2020-10-26,-13,-8.0
+530,DE,Baden-Württemberg,2020-10-27,-10,-4.0
+531,DE,Baden-Württemberg,2020-10-28,-11,-6.0
+532,DE,Baden-Württemberg,2020-10-29,-13,-2.0
+533,DE,Baden-Württemberg,2020-10-30,-11,0.0
+534,DE,Baden-Württemberg,2020-10-31,-17,-10.0
+535,DE,Baden-Württemberg,2020-11-01,-33,-21.0
+536,DE,Baden-Württemberg,2020-11-02,-24,-7.0
+537,DE,Baden-Württemberg,2020-11-03,-32,-6.0
+538,DE,Baden-Württemberg,2020-11-04,-31,-8.0
+539,DE,Baden-Württemberg,2020-11-05,-31,-5.0
+540,DE,Baden-Württemberg,2020-11-06,-33,-2.0
+541,DE,Baden-Württemberg,2020-11-07,-36,-7.0
+542,DE,Baden-Württemberg,2020-11-08,-49,-6.0
+543,DE,Baden-Württemberg,2020-11-09,-22,-6.0
+544,DE,Baden-Württemberg,2020-11-10,-28,-4.0
+545,DE,Baden-Württemberg,2020-11-11,-29,-6.0
+546,DE,Baden-Württemberg,2020-11-12,-32,-4.0
+547,DE,Baden-Württemberg,2020-11-13,-30,0.0
+548,DE,Baden-Württemberg,2020-11-14,-32,-6.0
+549,DE,Baden-Württemberg,2020-11-15,-43,2.0
+550,DE,Bavaria,2020-02-15,7,2.0
+551,DE,Bavaria,2020-02-16,14,32.0
+552,DE,Bavaria,2020-02-17,1,2.0
+553,DE,Bavaria,2020-02-18,3,3.0
+554,DE,Bavaria,2020-02-19,1,-2.0
+555,DE,Bavaria,2020-02-20,4,1.0
+556,DE,Bavaria,2020-02-21,1,2.0
+557,DE,Bavaria,2020-02-22,3,1.0
+558,DE,Bavaria,2020-02-23,7,37.0
+559,DE,Bavaria,2020-02-24,9,2.0
+560,DE,Bavaria,2020-02-25,2,-5.0
+561,DE,Bavaria,2020-02-26,-3,-4.0
+562,DE,Bavaria,2020-02-27,-4,0.0
+563,DE,Bavaria,2020-02-28,-4,5.0
+564,DE,Bavaria,2020-02-29,-2,4.0
+565,DE,Bavaria,2020-03-01,11,27.0
+566,DE,Bavaria,2020-03-02,1,10.0
+567,DE,Bavaria,2020-03-03,-2,5.0
+568,DE,Bavaria,2020-03-04,-2,2.0
+569,DE,Bavaria,2020-03-05,-6,0.0
+570,DE,Bavaria,2020-03-06,-6,1.0
+571,DE,Bavaria,2020-03-07,-3,0.0
+572,DE,Bavaria,2020-03-08,20,39.0
+573,DE,Bavaria,2020-03-09,-3,3.0
+574,DE,Bavaria,2020-03-10,-9,-2.0
+575,DE,Bavaria,2020-03-11,-4,3.0
+576,DE,Bavaria,2020-03-12,-6,6.0
+577,DE,Bavaria,2020-03-13,-12,22.0
+578,DE,Bavaria,2020-03-14,-19,9.0
+579,DE,Bavaria,2020-03-15,-3,30.0
+580,DE,Bavaria,2020-03-16,-4,25.0
+581,DE,Bavaria,2020-03-17,-24,6.0
+582,DE,Bavaria,2020-03-18,-42,-2.0
+583,DE,Bavaria,2020-03-19,-48,-6.0
+584,DE,Bavaria,2020-03-20,-49,4.0
+585,DE,Bavaria,2020-03-21,-85,-43.0
+586,DE,Bavaria,2020-03-22,-81,-48.0
+587,DE,Bavaria,2020-03-23,-67,-20.0
+588,DE,Bavaria,2020-03-24,-67,-23.0
+589,DE,Bavaria,2020-03-25,-68,-23.0
+590,DE,Bavaria,2020-03-26,-69,-21.0
+591,DE,Bavaria,2020-03-27,-68,-17.0
+592,DE,Bavaria,2020-03-28,-75,-23.0
+593,DE,Bavaria,2020-03-29,-80,-49.0
+594,DE,Bavaria,2020-03-30,-63,-18.0
+595,DE,Bavaria,2020-03-31,-63,-17.0
+596,DE,Bavaria,2020-04-01,-62,-16.0
+597,DE,Bavaria,2020-04-02,-62,-14.0
+598,DE,Bavaria,2020-04-03,-67,-13.0
+599,DE,Bavaria,2020-04-04,-73,-18.0
+600,DE,Bavaria,2020-04-05,-65,-19.0
+601,DE,Bavaria,2020-04-06,-56,-8.0
+602,DE,Bavaria,2020-04-07,-56,-6.0
+603,DE,Bavaria,2020-04-08,-55,7.0
+604,DE,Bavaria,2020-04-09,-53,14.0
+605,DE,Bavaria,2020-04-10,-82,-93.0
+606,DE,Bavaria,2020-04-11,-67,-2.0
+607,DE,Bavaria,2020-04-12,-66,-26.0
+608,DE,Bavaria,2020-04-13,-81,-94.0
+609,DE,Bavaria,2020-04-14,-57,0.0
+610,DE,Bavaria,2020-04-15,-56,-11.0
+611,DE,Bavaria,2020-04-16,-63,-5.0
+612,DE,Bavaria,2020-04-17,-66,-7.0
+613,DE,Bavaria,2020-04-18,-74,-15.0
+614,DE,Bavaria,2020-04-19,-63,-9.0
+615,DE,Bavaria,2020-04-20,-53,-11.0
+616,DE,Bavaria,2020-04-21,-54,-11.0
+617,DE,Bavaria,2020-04-22,-54,-11.0
+618,DE,Bavaria,2020-04-23,-55,-9.0
+619,DE,Bavaria,2020-04-24,-59,-9.0
+620,DE,Bavaria,2020-04-25,-64,-11.0
+621,DE,Bavaria,2020-04-26,-53,9.0
+622,DE,Bavaria,2020-04-27,-46,-11.0
+623,DE,Bavaria,2020-04-28,-51,-11.0
+624,DE,Bavaria,2020-04-29,-52,-1.0
+625,DE,Bavaria,2020-04-30,-41,19.0
+626,DE,Bavaria,2020-05-01,-84,-92.0
+627,DE,Bavaria,2020-05-02,-52,4.0
+628,DE,Bavaria,2020-05-03,-60,8.0
+629,DE,Bavaria,2020-05-04,-38,-5.0
+630,DE,Bavaria,2020-05-05,-42,-6.0
+631,DE,Bavaria,2020-05-06,-39,-5.0
+632,DE,Bavaria,2020-05-07,-36,-4.0
+633,DE,Bavaria,2020-05-08,-40,-2.0
+634,DE,Bavaria,2020-05-09,-45,0.0
+635,DE,Bavaria,2020-05-10,-55,6.0
+636,DE,Bavaria,2020-05-11,-36,-13.0
+637,DE,Bavaria,2020-05-12,-32,-3.0
+638,DE,Bavaria,2020-05-13,-37,-8.0
+639,DE,Bavaria,2020-05-14,-34,-5.0
+640,DE,Bavaria,2020-05-15,-37,-4.0
+641,DE,Bavaria,2020-05-16,-38,-6.0
+642,DE,Bavaria,2020-05-17,-42,24.0
+643,DE,Bavaria,2020-05-18,-13,-4.0
+644,DE,Bavaria,2020-05-19,-16,0.0
+645,DE,Bavaria,2020-05-20,-10,32.0
+646,DE,Bavaria,2020-05-21,-54,-87.0
+647,DE,Bavaria,2020-05-22,-22,2.0
+648,DE,Bavaria,2020-05-23,-42,-10.0
+649,DE,Bavaria,2020-05-24,-45,5.0
+650,DE,Bavaria,2020-05-25,-18,-3.0
+651,DE,Bavaria,2020-05-26,-19,-5.0
+652,DE,Bavaria,2020-05-27,-17,-6.0
+653,DE,Bavaria,2020-05-28,-22,-1.0
+654,DE,Bavaria,2020-05-29,-23,3.0
+655,DE,Bavaria,2020-05-30,-27,2.0
+656,DE,Bavaria,2020-05-31,-28,19.0
+657,DE,Bavaria,2020-06-01,-38,-87.0
+658,DE,Bavaria,2020-06-02,-3,15.0
+659,DE,Bavaria,2020-06-03,-10,-1.0
+660,DE,Bavaria,2020-06-04,-20,-2.0
+661,DE,Bavaria,2020-06-05,-24,-3.0
+662,DE,Bavaria,2020-06-06,-28,-7.0
+663,DE,Bavaria,2020-06-07,-48,-18.0
+664,DE,Bavaria,2020-06-08,-6,-4.0
+665,DE,Bavaria,2020-06-09,-14,-4.0
+666,DE,Bavaria,2020-06-10,-7,22.0
+667,DE,Bavaria,2020-06-11,-50,-89.0
+668,DE,Bavaria,2020-06-12,-8,3.0
+669,DE,Bavaria,2020-06-13,-25,-10.0
+670,DE,Bavaria,2020-06-14,-45,-14.0
+671,DE,Bavaria,2020-06-15,-16,-2.0
+672,DE,Bavaria,2020-06-16,-12,0.0
+673,DE,Bavaria,2020-06-17,-14,-6.0
+674,DE,Bavaria,2020-06-18,-11,-3.0
+675,DE,Bavaria,2020-06-19,-20,-4.0
+676,DE,Bavaria,2020-06-20,-23,-5.0
+677,DE,Bavaria,2020-06-21,-11,20.0
+678,DE,Bavaria,2020-06-22,-6,-3.0
+679,DE,Bavaria,2020-06-23,-3,-2.0
+680,DE,Bavaria,2020-06-24,-5,-3.0
+681,DE,Bavaria,2020-06-25,-9,-3.0
+682,DE,Bavaria,2020-06-26,-14,-3.0
+683,DE,Bavaria,2020-06-27,-21,-7.0
+684,DE,Bavaria,2020-06-28,-15,14.0
+685,DE,Bavaria,2020-06-29,-5,1.0
+686,DE,Bavaria,2020-06-30,2,2.0
+687,DE,Bavaria,2020-07-01,-2,-3.0
+688,DE,Bavaria,2020-07-02,-7,-1.0
+689,DE,Bavaria,2020-07-03,-7,1.0
+690,DE,Bavaria,2020-07-04,-13,-5.0
+691,DE,Bavaria,2020-07-05,1,22.0
+692,DE,Bavaria,2020-07-06,0,2.0
+693,DE,Bavaria,2020-07-07,3,1.0
+694,DE,Bavaria,2020-07-08,-3,-3.0
+695,DE,Bavaria,2020-07-09,-3,-2.0
+696,DE,Bavaria,2020-07-10,-13,-3.0
+697,DE,Bavaria,2020-07-11,-14,-3.0
+698,DE,Bavaria,2020-07-12,8,29.0
+699,DE,Bavaria,2020-07-13,3,1.0
+700,DE,Bavaria,2020-07-14,3,-1.0
+701,DE,Bavaria,2020-07-15,-3,-1.0
+702,DE,Bavaria,2020-07-16,-9,-2.0
+703,DE,Bavaria,2020-07-17,-6,0.0
+704,DE,Bavaria,2020-07-18,-11,-5.0
+705,DE,Bavaria,2020-07-19,12,30.0
+706,DE,Bavaria,2020-07-20,5,0.0
+707,DE,Bavaria,2020-07-21,4,0.0
+708,DE,Bavaria,2020-07-22,5,-1.0
+709,DE,Bavaria,2020-07-23,1,0.0
+710,DE,Bavaria,2020-07-24,-3,2.0
+711,DE,Bavaria,2020-07-25,-11,-6.0
+712,DE,Bavaria,2020-07-26,-7,14.0
+713,DE,Bavaria,2020-07-27,7,1.0
+714,DE,Bavaria,2020-07-28,1,-2.0
+715,DE,Bavaria,2020-07-29,8,0.0
+716,DE,Bavaria,2020-07-30,3,0.0
+717,DE,Bavaria,2020-07-31,-7,-1.0
+718,DE,Bavaria,2020-08-01,-19,-9.0
+719,DE,Bavaria,2020-08-02,-13,10.0
+720,DE,Bavaria,2020-08-03,5,2.0
+721,DE,Bavaria,2020-08-04,1,-2.0
+722,DE,Bavaria,2020-08-05,9,-3.0
+723,DE,Bavaria,2020-08-06,3,-4.0
+724,DE,Bavaria,2020-08-07,-10,-6.0
+725,DE,Bavaria,2020-08-08,-20,-13.0
+726,DE,Bavaria,2020-08-09,-1,15.0
+727,DE,Bavaria,2020-08-10,2,-3.0
+728,DE,Bavaria,2020-08-11,0,-6.0
+729,DE,Bavaria,2020-08-12,1,-8.0
+730,DE,Bavaria,2020-08-13,-5,-5.0
+731,DE,Bavaria,2020-08-14,-8,11.0
+732,DE,Bavaria,2020-08-15,-43,-74.0
+733,DE,Bavaria,2020-08-16,9,24.0
+734,DE,Bavaria,2020-08-17,4,5.0
+735,DE,Bavaria,2020-08-18,1,-6.0
+736,DE,Bavaria,2020-08-19,2,-7.0
+737,DE,Bavaria,2020-08-20,-5,-11.0
+738,DE,Bavaria,2020-08-21,-19,-14.0
+739,DE,Bavaria,2020-08-22,-24,-14.0
+740,DE,Bavaria,2020-08-23,-3,14.0
+741,DE,Bavaria,2020-08-24,0,-6.0
+742,DE,Bavaria,2020-08-25,1,-8.0
+743,DE,Bavaria,2020-08-26,-3,-10.0
+744,DE,Bavaria,2020-08-27,-2,-8.0
+745,DE,Bavaria,2020-08-28,-15,-10.0
+746,DE,Bavaria,2020-08-29,-21,-11.0
+747,DE,Bavaria,2020-08-30,-28,-19.0
+748,DE,Bavaria,2020-08-31,4,0.0
+749,DE,Bavaria,2020-09-01,-1,-3.0
+750,DE,Bavaria,2020-09-02,3,-5.0
+751,DE,Bavaria,2020-09-03,2,-5.0
+752,DE,Bavaria,2020-09-04,-5,-7.0
+753,DE,Bavaria,2020-09-05,-11,-9.0
+754,DE,Bavaria,2020-09-06,-1,15.0
+755,DE,Bavaria,2020-09-07,9,5.0
+756,DE,Bavaria,2020-09-08,11,3.0
+757,DE,Bavaria,2020-09-09,5,-2.0
+758,DE,Bavaria,2020-09-10,0,-1.0
+759,DE,Bavaria,2020-09-11,-4,-2.0
+760,DE,Bavaria,2020-09-12,-8,-6.0
+761,DE,Bavaria,2020-09-13,15,20.0
+762,DE,Bavaria,2020-09-14,3,-1.0
+763,DE,Bavaria,2020-09-15,4,-1.0
+764,DE,Bavaria,2020-09-16,1,-4.0
+765,DE,Bavaria,2020-09-17,-3,-3.0
+766,DE,Bavaria,2020-09-18,-7,-3.0
+767,DE,Bavaria,2020-09-19,-9,-8.0
+768,DE,Bavaria,2020-09-20,13,21.0
+769,DE,Bavaria,2020-09-21,1,-1.0
+770,DE,Bavaria,2020-09-22,-1,-2.0
+771,DE,Bavaria,2020-09-23,-8,-2.0
+772,DE,Bavaria,2020-09-24,-9,-2.0
+773,DE,Bavaria,2020-09-25,-19,-4.0
+774,DE,Bavaria,2020-09-26,-21,-6.0
+775,DE,Bavaria,2020-09-27,-9,1.0
+776,DE,Bavaria,2020-09-28,-7,2.0
+777,DE,Bavaria,2020-09-29,-7,2.0
+778,DE,Bavaria,2020-09-30,-3,4.0
+779,DE,Bavaria,2020-10-01,-5,6.0
+780,DE,Bavaria,2020-10-02,-5,30.0
+781,DE,Bavaria,2020-10-03,-52,-89.0
+782,DE,Bavaria,2020-10-04,4,29.0
+783,DE,Bavaria,2020-10-05,-2,13.0
+784,DE,Bavaria,2020-10-06,-6,5.0
+785,DE,Bavaria,2020-10-07,-9,0.0
+786,DE,Bavaria,2020-10-08,-8,2.0
+787,DE,Bavaria,2020-10-09,-11,0.0
+788,DE,Bavaria,2020-10-10,-15,-5.0
+789,DE,Bavaria,2020-10-11,-15,6.0
+790,DE,Bavaria,2020-10-12,-8,1.0
+791,DE,Bavaria,2020-10-13,-7,1.0
+792,DE,Bavaria,2020-10-14,-11,-2.0
+793,DE,Bavaria,2020-10-15,-12,2.0
+794,DE,Bavaria,2020-10-16,-16,0.0
+795,DE,Bavaria,2020-10-17,-17,-5.0
+796,DE,Bavaria,2020-10-18,-18,5.0
+797,DE,Bavaria,2020-10-19,-9,0.0
+798,DE,Bavaria,2020-10-20,-10,-1.0
+799,DE,Bavaria,2020-10-21,-10,-4.0
+800,DE,Bavaria,2020-10-22,-13,-1.0
+801,DE,Bavaria,2020-10-23,-18,1.0
+802,DE,Bavaria,2020-10-24,-23,-6.0
+803,DE,Bavaria,2020-10-25,-11,10.0
+804,DE,Bavaria,2020-10-26,-19,-5.0
+805,DE,Bavaria,2020-10-27,-14,-1.0
+806,DE,Bavaria,2020-10-28,-15,-4.0
+807,DE,Bavaria,2020-10-29,-17,-3.0
+808,DE,Bavaria,2020-10-30,-15,3.0
+809,DE,Bavaria,2020-10-31,-19,-6.0
+810,DE,Bavaria,2020-11-01,-36,-24.0
+811,DE,Bavaria,2020-11-02,-24,-6.0
+812,DE,Bavaria,2020-11-03,-28,-6.0
+813,DE,Bavaria,2020-11-04,-29,-8.0
+814,DE,Bavaria,2020-11-05,-29,-4.0
+815,DE,Bavaria,2020-11-06,-34,-3.0
+816,DE,Bavaria,2020-11-07,-37,-6.0
+817,DE,Bavaria,2020-11-08,-53,-17.0
+818,DE,Bavaria,2020-11-09,-25,-4.0
+819,DE,Bavaria,2020-11-10,-27,-2.0
+820,DE,Bavaria,2020-11-11,-29,-4.0
+821,DE,Bavaria,2020-11-12,-31,-3.0
+822,DE,Bavaria,2020-11-13,-32,1.0
+823,DE,Bavaria,2020-11-14,-33,-3.0
+824,DE,Bavaria,2020-11-15,-50,-13.0
+825,DE,Berlin,2020-02-15,5,6.0
+826,DE,Berlin,2020-02-16,1,3.0
+827,DE,Berlin,2020-02-17,6,3.0
+828,DE,Berlin,2020-02-18,2,0.0
+829,DE,Berlin,2020-02-19,0,-2.0
+830,DE,Berlin,2020-02-20,2,0.0
+831,DE,Berlin,2020-02-21,0,1.0
+832,DE,Berlin,2020-02-22,1,1.0
+833,DE,Berlin,2020-02-23,11,107.0
+834,DE,Berlin,2020-02-24,4,1.0
+835,DE,Berlin,2020-02-25,3,1.0
+836,DE,Berlin,2020-02-26,-1,1.0
+837,DE,Berlin,2020-02-27,4,7.0
+838,DE,Berlin,2020-02-28,4,11.0
+839,DE,Berlin,2020-02-29,4,12.0
+840,DE,Berlin,2020-03-01,7,14.0
+841,DE,Berlin,2020-03-02,3,12.0
+842,DE,Berlin,2020-03-03,-3,7.0
+843,DE,Berlin,2020-03-04,-1,7.0
+844,DE,Berlin,2020-03-05,0,4.0
+845,DE,Berlin,2020-03-06,-10,-3.0
+846,DE,Berlin,2020-03-07,-4,1.0
+847,DE,Berlin,2020-03-08,7,13.0
+848,DE,Berlin,2020-03-09,-3,2.0
+849,DE,Berlin,2020-03-10,-9,-3.0
+850,DE,Berlin,2020-03-11,-4,6.0
+851,DE,Berlin,2020-03-12,-10,8.0
+852,DE,Berlin,2020-03-13,-19,20.0
+853,DE,Berlin,2020-03-14,-21,18.0
+854,DE,Berlin,2020-03-15,-37,-8.0
+855,DE,Berlin,2020-03-16,-17,26.0
+856,DE,Berlin,2020-03-17,-28,14.0
+857,DE,Berlin,2020-03-18,-40,10.0
+858,DE,Berlin,2020-03-19,-50,0.0
+859,DE,Berlin,2020-03-20,-57,-1.0
+860,DE,Berlin,2020-03-21,-65,-11.0
+861,DE,Berlin,2020-03-22,-74,-34.0
+862,DE,Berlin,2020-03-23,-60,-11.0
+863,DE,Berlin,2020-03-24,-62,-14.0
+864,DE,Berlin,2020-03-25,-63,-13.0
+865,DE,Berlin,2020-03-26,-62,-13.0
+866,DE,Berlin,2020-03-27,-63,-13.0
+867,DE,Berlin,2020-03-28,-67,-15.0
+868,DE,Berlin,2020-03-29,-83,-55.0
+869,DE,Berlin,2020-03-30,-61,-18.0
+870,DE,Berlin,2020-03-31,-59,-11.0
+871,DE,Berlin,2020-04-01,-58,-10.0
+872,DE,Berlin,2020-04-02,-59,-11.0
+873,DE,Berlin,2020-04-03,-63,-11.0
+874,DE,Berlin,2020-04-04,-65,-10.0
+875,DE,Berlin,2020-04-05,-67,-17.0
+876,DE,Berlin,2020-04-06,-50,-5.0
+877,DE,Berlin,2020-04-07,-51,-2.0
+878,DE,Berlin,2020-04-08,-50,8.0
+879,DE,Berlin,2020-04-09,-48,14.0
+880,DE,Berlin,2020-04-10,-82,-91.0
+881,DE,Berlin,2020-04-11,-59,6.0
+882,DE,Berlin,2020-04-12,-67,-19.0
+883,DE,Berlin,2020-04-13,-85,-93.0
+884,DE,Berlin,2020-04-14,-52,1.0
+885,DE,Berlin,2020-04-15,-53,-7.0
+886,DE,Berlin,2020-04-16,-61,2.0
+887,DE,Berlin,2020-04-17,-64,0.0
+888,DE,Berlin,2020-04-18,-68,-9.0
+889,DE,Berlin,2020-04-19,-68,
+890,DE,Berlin,2020-04-20,-58,-10.0
+891,DE,Berlin,2020-04-21,-60,-9.0
+892,DE,Berlin,2020-04-22,-56,-7.0
+893,DE,Berlin,2020-04-23,-55,-6.0
+894,DE,Berlin,2020-04-24,-60,-9.0
+895,DE,Berlin,2020-04-25,-64,-7.0
+896,DE,Berlin,2020-04-26,-65,
+897,DE,Berlin,2020-04-27,-52,-9.0
+898,DE,Berlin,2020-04-28,-54,-8.0
+899,DE,Berlin,2020-04-29,-57,-4.0
+900,DE,Berlin,2020-04-30,-45,17.0
+901,DE,Berlin,2020-05-01,-82,-89.0
+902,DE,Berlin,2020-05-02,-54,5.0
+903,DE,Berlin,2020-05-03,-70,
+904,DE,Berlin,2020-05-04,-46,-6.0
+905,DE,Berlin,2020-05-05,-49,-7.0
+906,DE,Berlin,2020-05-06,-45,1.0
+907,DE,Berlin,2020-05-07,-40,15.0
+908,DE,Berlin,2020-05-08,-77,-86.0
+909,DE,Berlin,2020-05-09,-45,8.0
+910,DE,Berlin,2020-05-10,-62,-5.0
+911,DE,Berlin,2020-05-11,-48,-12.0
+912,DE,Berlin,2020-05-12,-42,-2.0
+913,DE,Berlin,2020-05-13,-42,-4.0
+914,DE,Berlin,2020-05-14,-40,-3.0
+915,DE,Berlin,2020-05-15,-39,-7.0
+916,DE,Berlin,2020-05-16,-43,-5.0
+917,DE,Berlin,2020-05-17,-50,-9.0
+918,DE,Berlin,2020-05-18,-30,-6.0
+919,DE,Berlin,2020-05-19,-32,-2.0
+920,DE,Berlin,2020-05-20,-22,24.0
+921,DE,Berlin,2020-05-21,-63,-86.0
+922,DE,Berlin,2020-05-22,-35,-4.0
+923,DE,Berlin,2020-05-23,-42,-10.0
+924,DE,Berlin,2020-05-24,-56,-20.0
+925,DE,Berlin,2020-05-25,-31,-7.0
+926,DE,Berlin,2020-05-26,-27,-5.0
+927,DE,Berlin,2020-05-27,-27,-5.0
+928,DE,Berlin,2020-05-28,-27,-2.0
+929,DE,Berlin,2020-05-29,-30,-1.0
+930,DE,Berlin,2020-05-30,-33,1.0
+931,DE,Berlin,2020-05-31,-36,12.0
+932,DE,Berlin,2020-06-01,-57,-86.0
+933,DE,Berlin,2020-06-02,-19,10.0
+934,DE,Berlin,2020-06-03,-22,0.0
+935,DE,Berlin,2020-06-04,-28,-5.0
+936,DE,Berlin,2020-06-05,-29,-5.0
+937,DE,Berlin,2020-06-06,-30,-5.0
+938,DE,Berlin,2020-06-07,-38,-1.0
+939,DE,Berlin,2020-06-08,-20,-8.0
+940,DE,Berlin,2020-06-09,-23,-7.0
+941,DE,Berlin,2020-06-10,-21,-4.0
+942,DE,Berlin,2020-06-11,-23,-6.0
+943,DE,Berlin,2020-06-12,-25,-7.0
+944,DE,Berlin,2020-06-13,-40,-16.0
+945,DE,Berlin,2020-06-14,-27,11.0
+946,DE,Berlin,2020-06-15,-17,-5.0
+947,DE,Berlin,2020-06-16,-18,-4.0
+948,DE,Berlin,2020-06-17,-19,-4.0
+949,DE,Berlin,2020-06-18,-20,-4.0
+950,DE,Berlin,2020-06-19,-27,-7.0
+951,DE,Berlin,2020-06-20,-33,-10.0
+952,DE,Berlin,2020-06-21,-16,21.0
+953,DE,Berlin,2020-06-22,-15,-5.0
+954,DE,Berlin,2020-06-23,-14,-4.0
+955,DE,Berlin,2020-06-24,-17,-5.0
+956,DE,Berlin,2020-06-25,-19,-5.0
+957,DE,Berlin,2020-06-26,-28,-9.0
+958,DE,Berlin,2020-06-27,-35,-12.0
+959,DE,Berlin,2020-06-28,-37,-1.0
+960,DE,Berlin,2020-06-29,-16,-6.0
+961,DE,Berlin,2020-06-30,-11,-4.0
+962,DE,Berlin,2020-07-01,-16,-6.0
+963,DE,Berlin,2020-07-02,-13,-6.0
+964,DE,Berlin,2020-07-03,-20,-9.0
+965,DE,Berlin,2020-07-04,-27,-12.0
+966,DE,Berlin,2020-07-05,-27,1.0
+967,DE,Berlin,2020-07-06,-14,-8.0
+968,DE,Berlin,2020-07-07,-15,-9.0
+969,DE,Berlin,2020-07-08,-17,-10.0
+970,DE,Berlin,2020-07-09,-23,-13.0
+971,DE,Berlin,2020-07-10,-26,-14.0
+972,DE,Berlin,2020-07-11,-26,-12.0
+973,DE,Berlin,2020-07-12,-22,5.0
+974,DE,Berlin,2020-07-13,-14,-9.0
+975,DE,Berlin,2020-07-14,-16,-12.0
+976,DE,Berlin,2020-07-15,-22,-13.0
+977,DE,Berlin,2020-07-16,-17,-9.0
+978,DE,Berlin,2020-07-17,-24,-12.0
+979,DE,Berlin,2020-07-18,-28,-14.0
+980,DE,Berlin,2020-07-19,-22,8.0
+981,DE,Berlin,2020-07-20,-15,-10.0
+982,DE,Berlin,2020-07-21,-13,-11.0
+983,DE,Berlin,2020-07-22,-15,-11.0
+984,DE,Berlin,2020-07-23,-15,-11.0
+985,DE,Berlin,2020-07-24,-24,-14.0
+986,DE,Berlin,2020-07-25,-28,-15.0
+987,DE,Berlin,2020-07-26,-29,-2.0
+988,DE,Berlin,2020-07-27,-14,-10.0
+989,DE,Berlin,2020-07-28,-15,-12.0
+990,DE,Berlin,2020-07-29,-12,-9.0
+991,DE,Berlin,2020-07-30,-12,-8.0
+992,DE,Berlin,2020-07-31,-18,-9.0
+993,DE,Berlin,2020-08-01,-27,-13.0
+994,DE,Berlin,2020-08-02,-27,4.0
+995,DE,Berlin,2020-08-03,-5,-4.0
+996,DE,Berlin,2020-08-04,-8,-6.0
+997,DE,Berlin,2020-08-05,-8,-5.0
+998,DE,Berlin,2020-08-06,-12,-5.0
+999,DE,Berlin,2020-08-07,-21,-8.0
+1000,DE,Berlin,2020-08-08,-32,-12.0
+1001,DE,Berlin,2020-08-09,-27,8.0
+1002,DE,Berlin,2020-08-10,-11,-1.0
+1003,DE,Berlin,2020-08-11,-12,-1.0
+1004,DE,Berlin,2020-08-12,-11,-1.0
+1005,DE,Berlin,2020-08-13,-13,-3.0
+1006,DE,Berlin,2020-08-14,-16,-3.0
+1007,DE,Berlin,2020-08-15,-24,-8.0
+1008,DE,Berlin,2020-08-16,-19,14.0
+1009,DE,Berlin,2020-08-17,-12,-3.0
+1010,DE,Berlin,2020-08-18,-15,-7.0
+1011,DE,Berlin,2020-08-19,-11,-3.0
+1012,DE,Berlin,2020-08-20,-15,-6.0
+1013,DE,Berlin,2020-08-21,-25,-12.0
+1014,DE,Berlin,2020-08-22,-25,-10.0
+1015,DE,Berlin,2020-08-23,-14,16.0
+1016,DE,Berlin,2020-08-24,-14,-7.0
+1017,DE,Berlin,2020-08-25,-13,-7.0
+1018,DE,Berlin,2020-08-26,-23,-13.0
+1019,DE,Berlin,2020-08-27,-13,-5.0
+1020,DE,Berlin,2020-08-28,-16,-7.0
+1021,DE,Berlin,2020-08-29,-17,-9.0
+1022,DE,Berlin,2020-08-30,-21,3.0
+1023,DE,Berlin,2020-08-31,-8,-3.0
+1024,DE,Berlin,2020-09-01,-10,-5.0
+1025,DE,Berlin,2020-09-02,-15,-8.0
+1026,DE,Berlin,2020-09-03,-10,-4.0
+1027,DE,Berlin,2020-09-04,-16,-8.0
+1028,DE,Berlin,2020-09-05,-19,-9.0
+1029,DE,Berlin,2020-09-06,-11,12.0
+1030,DE,Berlin,2020-09-07,-12,-7.0
+1031,DE,Berlin,2020-09-08,-14,-9.0
+1032,DE,Berlin,2020-09-09,-13,-8.0
+1033,DE,Berlin,2020-09-10,-13,-5.0
+1034,DE,Berlin,2020-09-11,-15,-8.0
+1035,DE,Berlin,2020-09-12,-17,-11.0
+1036,DE,Berlin,2020-09-13,-10,10.0
+1037,DE,Berlin,2020-09-14,-12,-8.0
+1038,DE,Berlin,2020-09-15,-13,-8.0
+1039,DE,Berlin,2020-09-16,-14,-9.0
+1040,DE,Berlin,2020-09-17,-14,-6.0
+1041,DE,Berlin,2020-09-18,-16,-8.0
+1042,DE,Berlin,2020-09-19,-17,-10.0
+1043,DE,Berlin,2020-09-20,-10,8.0
+1044,DE,Berlin,2020-09-21,-13,-8.0
+1045,DE,Berlin,2020-09-22,-15,-8.0
+1046,DE,Berlin,2020-09-23,-16,-8.0
+1047,DE,Berlin,2020-09-24,-18,-6.0
+1048,DE,Berlin,2020-09-25,-24,-9.0
+1049,DE,Berlin,2020-09-26,-29,-14.0
+1050,DE,Berlin,2020-09-27,-30,-11.0
+1051,DE,Berlin,2020-09-28,-14,-3.0
+1052,DE,Berlin,2020-09-29,-17,-5.0
+1053,DE,Berlin,2020-09-30,-9,0.0
+1054,DE,Berlin,2020-10-01,-14,2.0
+1055,DE,Berlin,2020-10-02,-15,19.0
+1056,DE,Berlin,2020-10-03,-47,-84.0
+1057,DE,Berlin,2020-10-04,-2,29.0
+1058,DE,Berlin,2020-10-05,-14,4.0
+1059,DE,Berlin,2020-10-06,-16,-1.0
+1060,DE,Berlin,2020-10-07,-19,-4.0
+1061,DE,Berlin,2020-10-08,-21,-4.0
+1062,DE,Berlin,2020-10-09,-28,-5.0
+1063,DE,Berlin,2020-10-10,-24,-7.0
+1064,DE,Berlin,2020-10-11,-32,-7.0
+1065,DE,Berlin,2020-10-12,-17,-7.0
+1066,DE,Berlin,2020-10-13,-19,-8.0
+1067,DE,Berlin,2020-10-14,-29,-16.0
+1068,DE,Berlin,2020-10-15,-22,-4.0
+1069,DE,Berlin,2020-10-16,-26,-6.0
+1070,DE,Berlin,2020-10-17,-27,-7.0
+1071,DE,Berlin,2020-10-18,-40,-15.0
+1072,DE,Berlin,2020-10-19,-19,-6.0
+1073,DE,Berlin,2020-10-20,-20,-6.0
+1074,DE,Berlin,2020-10-21,-23,-7.0
+1075,DE,Berlin,2020-10-22,-21,-6.0
+1076,DE,Berlin,2020-10-23,-31,-9.0
+1077,DE,Berlin,2020-10-24,-27,-4.0
+1078,DE,Berlin,2020-10-25,-25,-3.0
+1079,DE,Berlin,2020-10-26,-25,-6.0
+1080,DE,Berlin,2020-10-27,-23,-3.0
+1081,DE,Berlin,2020-10-28,-23,-4.0
+1082,DE,Berlin,2020-10-29,-22,-1.0
+1083,DE,Berlin,2020-10-30,-27,-4.0
+1084,DE,Berlin,2020-10-31,-22,4.0
+1085,DE,Berlin,2020-11-01,-27,-12.0
+1086,DE,Berlin,2020-11-02,-36,-7.0
+1087,DE,Berlin,2020-11-03,-36,-3.0
+1088,DE,Berlin,2020-11-04,-38,-4.0
+1089,DE,Berlin,2020-11-05,-39,-2.0
+1090,DE,Berlin,2020-11-06,-43,-3.0
+1091,DE,Berlin,2020-11-07,-41,-2.0
+1092,DE,Berlin,2020-11-08,-54,-18.0
+1093,DE,Berlin,2020-11-09,-37,-7.0
+1094,DE,Berlin,2020-11-10,-38,-6.0
+1095,DE,Berlin,2020-11-11,-38,-5.0
+1096,DE,Berlin,2020-11-12,-38,-3.0
+1097,DE,Berlin,2020-11-13,-40,-1.0
+1098,DE,Berlin,2020-11-14,-40,-1.0
+1099,DE,Berlin,2020-11-15,-56,-24.0
+1100,DE,Brandenburg,2020-02-15,10,5.0
+1101,DE,Brandenburg,2020-02-16,3,0.0
+1102,DE,Brandenburg,2020-02-17,3,4.0
+1103,DE,Brandenburg,2020-02-18,1,1.0
+1104,DE,Brandenburg,2020-02-19,0,-1.0
+1105,DE,Brandenburg,2020-02-20,2,1.0
+1106,DE,Brandenburg,2020-02-21,0,1.0
+1107,DE,Brandenburg,2020-02-22,4,1.0
+1108,DE,Brandenburg,2020-02-23,-9,-7.0
+1109,DE,Brandenburg,2020-02-24,-1,2.0
+1110,DE,Brandenburg,2020-02-25,0,0.0
+1111,DE,Brandenburg,2020-02-26,-3,1.0
+1112,DE,Brandenburg,2020-02-27,3,7.0
+1113,DE,Brandenburg,2020-02-28,4,10.0
+1114,DE,Brandenburg,2020-02-29,5,10.0
+1115,DE,Brandenburg,2020-03-01,15,23.0
+1116,DE,Brandenburg,2020-03-02,3,10.0
+1117,DE,Brandenburg,2020-03-03,-1,4.0
+1118,DE,Brandenburg,2020-03-04,2,5.0
+1119,DE,Brandenburg,2020-03-05,4,5.0
+1120,DE,Brandenburg,2020-03-06,-3,0.0
+1121,DE,Brandenburg,2020-03-07,4,4.0
+1122,DE,Brandenburg,2020-03-08,29,23.0
+1123,DE,Brandenburg,2020-03-09,-1,3.0
+1124,DE,Brandenburg,2020-03-10,-3,0.0
+1125,DE,Brandenburg,2020-03-11,3,5.0
+1126,DE,Brandenburg,2020-03-12,-2,7.0
+1127,DE,Brandenburg,2020-03-13,-4,17.0
+1128,DE,Brandenburg,2020-03-14,-2,21.0
+1129,DE,Brandenburg,2020-03-15,-5,3.0
+1130,DE,Brandenburg,2020-03-16,4,27.0
+1131,DE,Brandenburg,2020-03-17,0,21.0
+1132,DE,Brandenburg,2020-03-18,-17,12.0
+1133,DE,Brandenburg,2020-03-19,-27,6.0
+1134,DE,Brandenburg,2020-03-20,-36,1.0
+1135,DE,Brandenburg,2020-03-21,-48,-8.0
+1136,DE,Brandenburg,2020-03-22,-55,-26.0
+1137,DE,Brandenburg,2020-03-23,-40,-4.0
+1138,DE,Brandenburg,2020-03-24,-45,-10.0
+1139,DE,Brandenburg,2020-03-25,-44,-8.0
+1140,DE,Brandenburg,2020-03-26,-42,-6.0
+1141,DE,Brandenburg,2020-03-27,-44,-9.0
+1142,DE,Brandenburg,2020-03-28,-51,-10.0
+1143,DE,Brandenburg,2020-03-29,-75,-52.0
+1144,DE,Brandenburg,2020-03-30,-42,-9.0
+1145,DE,Brandenburg,2020-03-31,-40,-6.0
+1146,DE,Brandenburg,2020-04-01,-39,-5.0
+1147,DE,Brandenburg,2020-04-02,-39,-4.0
+1148,DE,Brandenburg,2020-04-03,-41,-6.0
+1149,DE,Brandenburg,2020-04-04,-47,-6.0
+1150,DE,Brandenburg,2020-04-05,-46,-7.0
+1151,DE,Brandenburg,2020-04-06,-24,4.0
+1152,DE,Brandenburg,2020-04-07,-25,7.0
+1153,DE,Brandenburg,2020-04-08,-22,22.0
+1154,DE,Brandenburg,2020-04-09,-18,23.0
+1155,DE,Brandenburg,2020-04-10,-80,-92.0
+1156,DE,Brandenburg,2020-04-11,-35,19.0
+1157,DE,Brandenburg,2020-04-12,-45,-11.0
+1158,DE,Brandenburg,2020-04-13,-83,-94.0
+1159,DE,Brandenburg,2020-04-14,-27,7.0
+1160,DE,Brandenburg,2020-04-15,-31,-3.0
+1161,DE,Brandenburg,2020-04-16,-42,9.0
+1162,DE,Brandenburg,2020-04-17,-45,4.0
+1163,DE,Brandenburg,2020-04-18,-51,0.0
+1164,DE,Brandenburg,2020-04-19,-45,-7.0
+1165,DE,Brandenburg,2020-04-20,-40,-3.0
+1166,DE,Brandenburg,2020-04-21,-44,-4.0
+1167,DE,Brandenburg,2020-04-22,-37,0.0
+1168,DE,Brandenburg,2020-04-23,-37,3.0
+1169,DE,Brandenburg,2020-04-24,-41,0.0
+1170,DE,Brandenburg,2020-04-25,-46,5.0
+1171,DE,Brandenburg,2020-04-26,-38,6.0
+1172,DE,Brandenburg,2020-04-27,-36,-9.0
+1173,DE,Brandenburg,2020-04-28,-38,-6.0
+1174,DE,Brandenburg,2020-04-29,-37,10.0
+1175,DE,Brandenburg,2020-04-30,-17,30.0
+1176,DE,Brandenburg,2020-05-01,-79,-92.0
+1177,DE,Brandenburg,2020-05-02,-28,20.0
+1178,DE,Brandenburg,2020-05-03,-48,0.0
+1179,DE,Brandenburg,2020-05-04,-25,1.0
+1180,DE,Brandenburg,2020-05-05,-30,-3.0
+1181,DE,Brandenburg,2020-05-06,-26,1.0
+1182,DE,Brandenburg,2020-05-07,-21,7.0
+1183,DE,Brandenburg,2020-05-08,-15,7.0
+1184,DE,Brandenburg,2020-05-09,-26,8.0
+1185,DE,Brandenburg,2020-05-10,-31,30.0
+1186,DE,Brandenburg,2020-05-11,-29,-6.0
+1187,DE,Brandenburg,2020-05-12,-24,0.0
+1188,DE,Brandenburg,2020-05-13,-22,0.0
+1189,DE,Brandenburg,2020-05-14,-19,3.0
+1190,DE,Brandenburg,2020-05-15,-17,2.0
+1191,DE,Brandenburg,2020-05-16,-20,4.0
+1192,DE,Brandenburg,2020-05-17,-15,22.0
+1193,DE,Brandenburg,2020-05-18,-7,4.0
+1194,DE,Brandenburg,2020-05-19,-8,10.0
+1195,DE,Brandenburg,2020-05-20,9,49.0
+1196,DE,Brandenburg,2020-05-21,-41,-87.0
+1197,DE,Brandenburg,2020-05-22,-10,3.0
+1198,DE,Brandenburg,2020-05-23,-18,1.0
+1199,DE,Brandenburg,2020-05-24,-35,-2.0
+1200,DE,Brandenburg,2020-05-25,-9,6.0
+1201,DE,Brandenburg,2020-05-26,-10,1.0
+1202,DE,Brandenburg,2020-05-27,-7,4.0
+1203,DE,Brandenburg,2020-05-28,-4,9.0
+1204,DE,Brandenburg,2020-05-29,-7,10.0
+1205,DE,Brandenburg,2020-05-30,-6,18.0
+1206,DE,Brandenburg,2020-05-31,15,39.0
+1207,DE,Brandenburg,2020-06-01,-36,-87.0
+1208,DE,Brandenburg,2020-06-02,1,17.0
+1209,DE,Brandenburg,2020-06-03,-2,7.0
+1210,DE,Brandenburg,2020-06-04,-7,5.0
+1211,DE,Brandenburg,2020-06-05,-9,4.0
+1212,DE,Brandenburg,2020-06-06,-10,4.0
+1213,DE,Brandenburg,2020-06-07,-6,27.0
+1214,DE,Brandenburg,2020-06-08,-2,0.0
+1215,DE,Brandenburg,2020-06-09,-4,1.0
+1216,DE,Brandenburg,2020-06-10,-1,4.0
+1217,DE,Brandenburg,2020-06-11,-2,6.0
+1218,DE,Brandenburg,2020-06-12,-7,2.0
+1219,DE,Brandenburg,2020-06-13,-19,-2.0
+1220,DE,Brandenburg,2020-06-14,13,68.0
+1221,DE,Brandenburg,2020-06-15,0,5.0
+1222,DE,Brandenburg,2020-06-16,0,5.0
+1223,DE,Brandenburg,2020-06-17,0,6.0
+1224,DE,Brandenburg,2020-06-18,0,5.0
+1225,DE,Brandenburg,2020-06-19,-5,4.0
+1226,DE,Brandenburg,2020-06-20,-9,4.0
+1227,DE,Brandenburg,2020-06-21,9,55.0
+1228,DE,Brandenburg,2020-06-22,3,3.0
+1229,DE,Brandenburg,2020-06-23,4,4.0
+1230,DE,Brandenburg,2020-06-24,5,5.0
+1231,DE,Brandenburg,2020-06-25,0,4.0
+1232,DE,Brandenburg,2020-06-26,-9,0.0
+1233,DE,Brandenburg,2020-06-27,-13,1.0
+1234,DE,Brandenburg,2020-06-28,3,50.0
+1235,DE,Brandenburg,2020-06-29,4,5.0
+1236,DE,Brandenburg,2020-06-30,8,5.0
+1237,DE,Brandenburg,2020-07-01,4,4.0
+1238,DE,Brandenburg,2020-07-02,5,3.0
+1239,DE,Brandenburg,2020-07-03,-2,1.0
+1240,DE,Brandenburg,2020-07-04,-4,2.0
+1241,DE,Brandenburg,2020-07-05,19,57.0
+1242,DE,Brandenburg,2020-07-06,5,4.0
+1243,DE,Brandenburg,2020-07-07,5,1.0
+1244,DE,Brandenburg,2020-07-08,3,1.0
+1245,DE,Brandenburg,2020-07-09,-1,0.0
+1246,DE,Brandenburg,2020-07-10,-6,-3.0
+1247,DE,Brandenburg,2020-07-11,-3,2.0
+1248,DE,Brandenburg,2020-07-12,31,63.0
+1249,DE,Brandenburg,2020-07-13,6,3.0
+1250,DE,Brandenburg,2020-07-14,4,-1.0
+1251,DE,Brandenburg,2020-07-15,2,2.0
+1252,DE,Brandenburg,2020-07-16,7,2.0
+1253,DE,Brandenburg,2020-07-17,-2,-2.0
+1254,DE,Brandenburg,2020-07-18,-3,1.0
+1255,DE,Brandenburg,2020-07-19,31,48.0
+1256,DE,Brandenburg,2020-07-20,7,4.0
+1257,DE,Brandenburg,2020-07-21,10,1.0
+1258,DE,Brandenburg,2020-07-22,10,2.0
+1259,DE,Brandenburg,2020-07-23,9,2.0
+1260,DE,Brandenburg,2020-07-24,-3,-3.0
+1261,DE,Brandenburg,2020-07-25,-2,1.0
+1262,DE,Brandenburg,2020-07-26,12,36.0
+1263,DE,Brandenburg,2020-07-27,9,5.0
+1264,DE,Brandenburg,2020-07-28,5,0.0
+1265,DE,Brandenburg,2020-07-29,13,5.0
+1266,DE,Brandenburg,2020-07-30,14,6.0
+1267,DE,Brandenburg,2020-07-31,5,4.0
+1268,DE,Brandenburg,2020-08-01,0,4.0
+1269,DE,Brandenburg,2020-08-02,21,54.0
+1270,DE,Brandenburg,2020-08-03,19,13.0
+1271,DE,Brandenburg,2020-08-04,19,8.0
+1272,DE,Brandenburg,2020-08-05,17,7.0
+1273,DE,Brandenburg,2020-08-06,13,8.0
+1274,DE,Brandenburg,2020-08-07,1,3.0
+1275,DE,Brandenburg,2020-08-08,-6,2.0
+1276,DE,Brandenburg,2020-08-09,20,34.0
+1277,DE,Brandenburg,2020-08-10,9,11.0
+1278,DE,Brandenburg,2020-08-11,7,6.0
+1279,DE,Brandenburg,2020-08-12,10,9.0
+1280,DE,Brandenburg,2020-08-13,8,7.0
+1281,DE,Brandenburg,2020-08-14,5,7.0
+1282,DE,Brandenburg,2020-08-15,2,5.0
+1283,DE,Brandenburg,2020-08-16,37,51.0
+1284,DE,Brandenburg,2020-08-17,5,7.0
+1285,DE,Brandenburg,2020-08-18,6,5.0
+1286,DE,Brandenburg,2020-08-19,9,5.0
+1287,DE,Brandenburg,2020-08-20,5,4.0
+1288,DE,Brandenburg,2020-08-21,-6,-3.0
+1289,DE,Brandenburg,2020-08-22,-3,3.0
+1290,DE,Brandenburg,2020-08-23,37,
+1291,DE,Brandenburg,2020-08-24,4,3.0
+1292,DE,Brandenburg,2020-08-25,6,1.0
+1293,DE,Brandenburg,2020-08-26,-4,-2.0
+1294,DE,Brandenburg,2020-08-27,5,4.0
+1295,DE,Brandenburg,2020-08-28,2,2.0
+1296,DE,Brandenburg,2020-08-29,4,1.0
+1297,DE,Brandenburg,2020-08-30,19,
+1298,DE,Brandenburg,2020-08-31,6,6.0
+1299,DE,Brandenburg,2020-09-01,7,3.0
+1300,DE,Brandenburg,2020-09-02,3,2.0
+1301,DE,Brandenburg,2020-09-03,7,3.0
+1302,DE,Brandenburg,2020-09-04,1,1.0
+1303,DE,Brandenburg,2020-09-05,1,1.0
+1304,DE,Brandenburg,2020-09-06,37,
+1305,DE,Brandenburg,2020-09-07,4,2.0
+1306,DE,Brandenburg,2020-09-08,3,-1.0
+1307,DE,Brandenburg,2020-09-09,4,0.0
+1308,DE,Brandenburg,2020-09-10,5,3.0
+1309,DE,Brandenburg,2020-09-11,2,0.0
+1310,DE,Brandenburg,2020-09-12,4,1.0
+1311,DE,Brandenburg,2020-09-13,47,81.0
+1312,DE,Brandenburg,2020-09-14,4,1.0
+1313,DE,Brandenburg,2020-09-15,4,-1.0
+1314,DE,Brandenburg,2020-09-16,3,-1.0
+1315,DE,Brandenburg,2020-09-17,5,3.0
+1316,DE,Brandenburg,2020-09-18,1,0.0
+1317,DE,Brandenburg,2020-09-19,3,1.0
+1318,DE,Brandenburg,2020-09-20,41,86.0
+1319,DE,Brandenburg,2020-09-21,3,1.0
+1320,DE,Brandenburg,2020-09-22,1,-1.0
+1321,DE,Brandenburg,2020-09-23,0,0.0
+1322,DE,Brandenburg,2020-09-24,-2,2.0
+1323,DE,Brandenburg,2020-09-25,-7,0.0
+1324,DE,Brandenburg,2020-09-26,-12,-4.0
+1325,DE,Brandenburg,2020-09-27,-4,23.0
+1326,DE,Brandenburg,2020-09-28,0,5.0
+1327,DE,Brandenburg,2020-09-29,0,2.0
+1328,DE,Brandenburg,2020-09-30,5,8.0
+1329,DE,Brandenburg,2020-10-01,3,10.0
+1330,DE,Brandenburg,2020-10-02,4,26.0
+1331,DE,Brandenburg,2020-10-03,-35,-81.0
+1332,DE,Brandenburg,2020-10-04,36,92.0
+1333,DE,Brandenburg,2020-10-05,2,11.0
+1334,DE,Brandenburg,2020-10-06,0,5.0
+1335,DE,Brandenburg,2020-10-07,-1,4.0
+1336,DE,Brandenburg,2020-10-08,-2,5.0
+1337,DE,Brandenburg,2020-10-09,-5,3.0
+1338,DE,Brandenburg,2020-10-10,-3,-1.0
+1339,DE,Brandenburg,2020-10-11,2,54.0
+1340,DE,Brandenburg,2020-10-12,-1,0.0
+1341,DE,Brandenburg,2020-10-13,-1,-2.0
+1342,DE,Brandenburg,2020-10-14,-10,-8.0
+1343,DE,Brandenburg,2020-10-15,-4,2.0
+1344,DE,Brandenburg,2020-10-16,-9,-1.0
+1345,DE,Brandenburg,2020-10-17,-8,0.0
+1346,DE,Brandenburg,2020-10-18,-17,22.0
+1347,DE,Brandenburg,2020-10-19,0,4.0
+1348,DE,Brandenburg,2020-10-20,-2,0.0
+1349,DE,Brandenburg,2020-10-21,-2,1.0
+1350,DE,Brandenburg,2020-10-22,2,3.0
+1351,DE,Brandenburg,2020-10-23,-7,1.0
+1352,DE,Brandenburg,2020-10-24,-9,2.0
+1353,DE,Brandenburg,2020-10-25,12,53.0
+1354,DE,Brandenburg,2020-10-26,-9,3.0
+1355,DE,Brandenburg,2020-10-27,-6,3.0
+1356,DE,Brandenburg,2020-10-28,-4,6.0
+1357,DE,Brandenburg,2020-10-29,0,12.0
+1358,DE,Brandenburg,2020-10-30,-1,21.0
+1359,DE,Brandenburg,2020-10-31,-56,-83.0
+1360,DE,Brandenburg,2020-11-01,-6,16.0
+1361,DE,Brandenburg,2020-11-02,-15,7.0
+1362,DE,Brandenburg,2020-11-03,-17,2.0
+1363,DE,Brandenburg,2020-11-04,-18,3.0
+1364,DE,Brandenburg,2020-11-05,-17,5.0
+1365,DE,Brandenburg,2020-11-06,-22,3.0
+1366,DE,Brandenburg,2020-11-07,-23,-2.0
+1367,DE,Brandenburg,2020-11-08,-43,8.0
+1368,DE,Brandenburg,2020-11-09,-17,1.0
+1369,DE,Brandenburg,2020-11-10,-19,1.0
+1370,DE,Brandenburg,2020-11-11,-17,3.0
+1371,DE,Brandenburg,2020-11-12,-17,6.0
+1372,DE,Brandenburg,2020-11-13,-19,6.0
+1373,DE,Brandenburg,2020-11-14,-23,3.0
+1374,DE,Brandenburg,2020-11-15,-38,19.0
+1375,DE,Bremen,2020-02-15,4,3.0
+1376,DE,Bremen,2020-02-16,-12,-20.0
+1377,DE,Bremen,2020-02-17,-2,0.0
+1378,DE,Bremen,2020-02-18,3,1.0
+1379,DE,Bremen,2020-02-19,3,-3.0
+1380,DE,Bremen,2020-02-20,3,0.0
+1381,DE,Bremen,2020-02-21,2,-1.0
+1382,DE,Bremen,2020-02-22,7,-4.0
+1383,DE,Bremen,2020-02-23,-12,-30.0
+1384,DE,Bremen,2020-02-24,-9,-8.0
+1385,DE,Bremen,2020-02-25,1,1.0
+1386,DE,Bremen,2020-02-26,-1,1.0
+1387,DE,Bremen,2020-02-27,0,4.0
+1388,DE,Bremen,2020-02-28,9,11.0
+1389,DE,Bremen,2020-02-29,5,7.0
+1390,DE,Bremen,2020-03-01,-1,16.0
+1391,DE,Bremen,2020-03-02,0,9.0
+1392,DE,Bremen,2020-03-03,6,6.0
+1393,DE,Bremen,2020-03-04,0,3.0
+1394,DE,Bremen,2020-03-05,0,2.0
+1395,DE,Bremen,2020-03-06,-3,-3.0
+1396,DE,Bremen,2020-03-07,0,2.0
+1397,DE,Bremen,2020-03-08,-3,-7.0
+1398,DE,Bremen,2020-03-09,-2,1.0
+1399,DE,Bremen,2020-03-10,-5,-2.0
+1400,DE,Bremen,2020-03-11,2,5.0
+1401,DE,Bremen,2020-03-12,-6,7.0
+1402,DE,Bremen,2020-03-13,-11,17.0
+1403,DE,Bremen,2020-03-14,-20,12.0
+1404,DE,Bremen,2020-03-15,-35,-13.0
+1405,DE,Bremen,2020-03-16,-10,19.0
+1406,DE,Bremen,2020-03-17,-15,14.0
+1407,DE,Bremen,2020-03-18,-40,4.0
+1408,DE,Bremen,2020-03-19,-48,-3.0
+1409,DE,Bremen,2020-03-20,-53,-5.0
+1410,DE,Bremen,2020-03-21,-68,-19.0
+1411,DE,Bremen,2020-03-22,-74,-44.0
+1412,DE,Bremen,2020-03-23,-55,-15.0
+1413,DE,Bremen,2020-03-24,-57,-17.0
+1414,DE,Bremen,2020-03-25,-57,-15.0
+1415,DE,Bremen,2020-03-26,-56,-14.0
+1416,DE,Bremen,2020-03-27,-58,-13.0
+1417,DE,Bremen,2020-03-28,-68,-18.0
+1418,DE,Bremen,2020-03-29,-79,-54.0
+1419,DE,Bremen,2020-03-30,-56,-17.0
+1420,DE,Bremen,2020-03-31,-49,-6.0
+1421,DE,Bremen,2020-04-01,-54,-12.0
+1422,DE,Bremen,2020-04-02,-54,-11.0
+1423,DE,Bremen,2020-04-03,-57,-10.0
+1424,DE,Bremen,2020-04-04,-65,-12.0
+1425,DE,Bremen,2020-04-05,-64,-22.0
+1426,DE,Bremen,2020-04-06,-45,-5.0
+1427,DE,Bremen,2020-04-07,-45,-1.0
+1428,DE,Bremen,2020-04-08,-45,10.0
+1429,DE,Bremen,2020-04-09,-41,17.0
+1430,DE,Bremen,2020-04-10,-83,-92.0
+1431,DE,Bremen,2020-04-11,-60,5.0
+1432,DE,Bremen,2020-04-12,-69,-35.0
+1433,DE,Bremen,2020-04-13,-85,-93.0
+1434,DE,Bremen,2020-04-14,-47,2.0
+1435,DE,Bremen,2020-04-15,-48,-7.0
+1436,DE,Bremen,2020-04-16,-57,2.0
+1437,DE,Bremen,2020-04-17,-59,-2.0
+1438,DE,Bremen,2020-04-18,-69,-12.0
+1439,DE,Bremen,2020-04-19,-68,-22.0
+1440,DE,Bremen,2020-04-20,-49,-8.0
+1441,DE,Bremen,2020-04-21,-49,-6.0
+1442,DE,Bremen,2020-04-22,-50,-5.0
+1443,DE,Bremen,2020-04-23,-50,-2.0
+1444,DE,Bremen,2020-04-24,-55,-6.0
+1445,DE,Bremen,2020-04-25,-63,-7.0
+1446,DE,Bremen,2020-04-26,-70,-25.0
+1447,DE,Bremen,2020-04-27,-51,-15.0
+1448,DE,Bremen,2020-04-28,-52,-9.0
+1449,DE,Bremen,2020-04-29,-53,0.0
+1450,DE,Bremen,2020-04-30,-37,24.0
+1451,DE,Bremen,2020-05-01,-87,-92.0
+1452,DE,Bremen,2020-05-02,-51,7.0
+1453,DE,Bremen,2020-05-03,-71,-23.0
+1454,DE,Bremen,2020-05-04,-37,-3.0
+1455,DE,Bremen,2020-05-05,-41,-3.0
+1456,DE,Bremen,2020-05-06,-41,-3.0
+1457,DE,Bremen,2020-05-07,-39,-4.0
+1458,DE,Bremen,2020-05-08,-41,-6.0
+1459,DE,Bremen,2020-05-09,-51,-4.0
+1460,DE,Bremen,2020-05-10,-65,-11.0
+1461,DE,Bremen,2020-05-11,-38,-9.0
+1462,DE,Bremen,2020-05-12,-40,-9.0
+1463,DE,Bremen,2020-05-13,-38,-6.0
+1464,DE,Bremen,2020-05-14,-35,-4.0
+1465,DE,Bremen,2020-05-15,-39,-7.0
+1466,DE,Bremen,2020-05-16,-46,-9.0
+1467,DE,Bremen,2020-05-17,-63,-14.0
+1468,DE,Bremen,2020-05-18,-26,-7.0
+1469,DE,Bremen,2020-05-19,-24,-1.0
+1470,DE,Bremen,2020-05-20,-17,33.0
+1471,DE,Bremen,2020-05-21,-66,-87.0
+1472,DE,Bremen,2020-05-22,-28,-3.0
+1473,DE,Bremen,2020-05-23,-40,-7.0
+1474,DE,Bremen,2020-05-24,-61,-20.0
+1475,DE,Bremen,2020-05-25,-25,-5.0
+1476,DE,Bremen,2020-05-26,-24,-5.0
+1477,DE,Bremen,2020-05-27,-25,-3.0
+1478,DE,Bremen,2020-05-28,-23,1.0
+1479,DE,Bremen,2020-05-29,-22,6.0
+1480,DE,Bremen,2020-05-30,-33,4.0
+1481,DE,Bremen,2020-05-31,-42,26.0
+1482,DE,Bremen,2020-06-01,-60,-87.0
+1483,DE,Bremen,2020-06-02,-9,15.0
+1484,DE,Bremen,2020-06-03,-20,2.0
+1485,DE,Bremen,2020-06-04,-25,-4.0
+1486,DE,Bremen,2020-06-05,-25,-4.0
+1487,DE,Bremen,2020-06-06,-30,-4.0
+1488,DE,Bremen,2020-06-07,-51,-8.0
+1489,DE,Bremen,2020-06-08,-18,-8.0
+1490,DE,Bremen,2020-06-09,-16,-5.0
+1491,DE,Bremen,2020-06-10,-17,-4.0
+1492,DE,Bremen,2020-06-11,-22,-6.0
+1493,DE,Bremen,2020-06-12,-20,-4.0
+1494,DE,Bremen,2020-06-13,-36,-10.0
+1495,DE,Bremen,2020-06-14,-51,-15.0
+1496,DE,Bremen,2020-06-15,-18,-6.0
+1497,DE,Bremen,2020-06-16,-15,-3.0
+1498,DE,Bremen,2020-06-17,-17,-1.0
+1499,DE,Bremen,2020-06-18,-20,-3.0
+1500,DE,Bremen,2020-06-19,-19,-3.0
+1501,DE,Bremen,2020-06-20,-31,-7.0
+1502,DE,Bremen,2020-06-21,-37,19.0
+1503,DE,Bremen,2020-06-22,-16,-5.0
+1504,DE,Bremen,2020-06-23,-13,-2.0
+1505,DE,Bremen,2020-06-24,-18,-2.0
+1506,DE,Bremen,2020-06-25,-20,-2.0
+1507,DE,Bremen,2020-06-26,-24,-5.0
+1508,DE,Bremen,2020-06-27,-35,-9.0
+1509,DE,Bremen,2020-06-28,-40,2.0
+1510,DE,Bremen,2020-06-29,-13,-2.0
+1511,DE,Bremen,2020-06-30,-3,5.0
+1512,DE,Bremen,2020-07-01,-7,3.0
+1513,DE,Bremen,2020-07-02,-10,1.0
+1514,DE,Bremen,2020-07-03,-14,-2.0
+1515,DE,Bremen,2020-07-04,-22,-4.0
+1516,DE,Bremen,2020-07-05,-37,-9.0
+1517,DE,Bremen,2020-07-06,-8,-3.0
+1518,DE,Bremen,2020-07-07,-7,-2.0
+1519,DE,Bremen,2020-07-08,-8,0.0
+1520,DE,Bremen,2020-07-09,-14,-5.0
+1521,DE,Bremen,2020-07-10,-13,-2.0
+1522,DE,Bremen,2020-07-11,-20,-4.0
+1523,DE,Bremen,2020-07-12,-26,10.0
+1524,DE,Bremen,2020-07-13,-8,-4.0
+1525,DE,Bremen,2020-07-14,-6,-2.0
+1526,DE,Bremen,2020-07-15,-1,2.0
+1527,DE,Bremen,2020-07-16,-7,-1.0
+1528,DE,Bremen,2020-07-17,-13,-4.0
+1529,DE,Bremen,2020-07-18,-26,-10.0
+1530,DE,Bremen,2020-07-19,-28,10.0
+1531,DE,Bremen,2020-07-20,-7,-5.0
+1532,DE,Bremen,2020-07-21,-3,-5.0
+1533,DE,Bremen,2020-07-22,-6,-6.0
+1534,DE,Bremen,2020-07-23,-10,-8.0
+1535,DE,Bremen,2020-07-24,-16,-9.0
+1536,DE,Bremen,2020-07-25,-27,-13.0
+1537,DE,Bremen,2020-07-26,-29,2.0
+1538,DE,Bremen,2020-07-27,-8,-7.0
+1539,DE,Bremen,2020-07-28,-2,-6.0
+1540,DE,Bremen,2020-07-29,-2,-3.0
+1541,DE,Bremen,2020-07-30,-3,-1.0
+1542,DE,Bremen,2020-07-31,-10,-3.0
+1543,DE,Bremen,2020-08-01,-28,-12.0
+1544,DE,Bremen,2020-08-02,-28,1.0
+1545,DE,Bremen,2020-08-03,0,-2.0
+1546,DE,Bremen,2020-08-04,3,-2.0
+1547,DE,Bremen,2020-08-05,-4,-4.0
+1548,DE,Bremen,2020-08-06,-12,-6.0
+1549,DE,Bremen,2020-08-07,-21,-10.0
+1550,DE,Bremen,2020-08-08,-36,-16.0
+1551,DE,Bremen,2020-08-09,-33,0.0
+1552,DE,Bremen,2020-08-10,-16,-8.0
+1553,DE,Bremen,2020-08-11,-12,-7.0
+1554,DE,Bremen,2020-08-12,-13,-6.0
+1555,DE,Bremen,2020-08-13,-15,-8.0
+1556,DE,Bremen,2020-08-14,-17,-9.0
+1557,DE,Bremen,2020-08-15,-29,-14.0
+1558,DE,Bremen,2020-08-16,-32,0.0
+1559,DE,Bremen,2020-08-17,-14,-10.0
+1560,DE,Bremen,2020-08-18,-2,-5.0
+1561,DE,Bremen,2020-08-19,-6,-6.0
+1562,DE,Bremen,2020-08-20,-9,-8.0
+1563,DE,Bremen,2020-08-21,-16,-11.0
+1564,DE,Bremen,2020-08-22,-26,-12.0
+1565,DE,Bremen,2020-08-23,-32,
+1566,DE,Bremen,2020-08-24,-9,-4.0
+1567,DE,Bremen,2020-08-25,-6,-3.0
+1568,DE,Bremen,2020-08-26,-12,-7.0
+1569,DE,Bremen,2020-08-27,-7,2.0
+1570,DE,Bremen,2020-08-28,-9,-1.0
+1571,DE,Bremen,2020-08-29,-17,-5.0
+1572,DE,Bremen,2020-08-30,-17,
+1573,DE,Bremen,2020-08-31,-3,4.0
+1574,DE,Bremen,2020-09-01,1,4.0
+1575,DE,Bremen,2020-09-02,-3,-1.0
+1576,DE,Bremen,2020-09-03,-13,-5.0
+1577,DE,Bremen,2020-09-04,-10,-2.0
+1578,DE,Bremen,2020-09-05,-15,-4.0
+1579,DE,Bremen,2020-09-06,-24,
+1580,DE,Bremen,2020-09-07,-9,-2.0
+1581,DE,Bremen,2020-09-08,-6,-1.0
+1582,DE,Bremen,2020-09-09,-9,-6.0
+1583,DE,Bremen,2020-09-10,-9,-1.0
+1584,DE,Bremen,2020-09-11,-12,-4.0
+1585,DE,Bremen,2020-09-12,-18,-5.0
+1586,DE,Bremen,2020-09-13,-16,22.0
+1587,DE,Bremen,2020-09-14,-10,-4.0
+1588,DE,Bremen,2020-09-15,-6,-3.0
+1589,DE,Bremen,2020-09-16,-8,-4.0
+1590,DE,Bremen,2020-09-17,-10,-2.0
+1591,DE,Bremen,2020-09-18,-13,-4.0
+1592,DE,Bremen,2020-09-19,-16,-5.0
+1593,DE,Bremen,2020-09-20,-14,12.0
+1594,DE,Bremen,2020-09-21,-12,-4.0
+1595,DE,Bremen,2020-09-22,-9,-2.0
+1596,DE,Bremen,2020-09-23,-11,-4.0
+1597,DE,Bremen,2020-09-24,-15,-2.0
+1598,DE,Bremen,2020-09-25,-17,-4.0
+1599,DE,Bremen,2020-09-26,-20,-3.0
+1600,DE,Bremen,2020-09-27,-36,-9.0
+1601,DE,Bremen,2020-09-28,-16,-1.0
+1602,DE,Bremen,2020-09-29,-11,3.0
+1603,DE,Bremen,2020-09-30,-4,7.0
+1604,DE,Bremen,2020-10-01,-8,10.0
+1605,DE,Bremen,2020-10-02,-6,29.0
+1606,DE,Bremen,2020-10-03,-62,-89.0
+1607,DE,Bremen,2020-10-04,-21,16.0
+1608,DE,Bremen,2020-10-05,-9,10.0
+1609,DE,Bremen,2020-10-06,-8,7.0
+1610,DE,Bremen,2020-10-07,-12,0.0
+1611,DE,Bremen,2020-10-08,-20,-3.0
+1612,DE,Bremen,2020-10-09,-18,1.0
+1613,DE,Bremen,2020-10-10,-23,-5.0
+1614,DE,Bremen,2020-10-11,-38,-5.0
+1615,DE,Bremen,2020-10-12,-13,-2.0
+1616,DE,Bremen,2020-10-13,-7,0.0
+1617,DE,Bremen,2020-10-14,-11,-2.0
+1618,DE,Bremen,2020-10-15,-12,3.0
+1619,DE,Bremen,2020-10-16,-19,-4.0
+1620,DE,Bremen,2020-10-17,-28,-8.0
+1621,DE,Bremen,2020-10-18,-41,-12.0
+1622,DE,Bremen,2020-10-19,-16,-3.0
+1623,DE,Bremen,2020-10-20,-14,-3.0
+1624,DE,Bremen,2020-10-21,-15,-6.0
+1625,DE,Bremen,2020-10-22,-15,-2.0
+1626,DE,Bremen,2020-10-23,-22,-6.0
+1627,DE,Bremen,2020-10-24,-31,-7.0
+1628,DE,Bremen,2020-10-25,-46,-19.0
+1629,DE,Bremen,2020-10-26,-22,-3.0
+1630,DE,Bremen,2020-10-27,-18,-1.0
+1631,DE,Bremen,2020-10-28,-19,-4.0
+1632,DE,Bremen,2020-10-29,-16,9.0
+1633,DE,Bremen,2020-10-30,-12,30.0
+1634,DE,Bremen,2020-10-31,-68,-89.0
+1635,DE,Bremen,2020-11-01,-34,4.0
+1636,DE,Bremen,2020-11-02,-28,6.0
+1637,DE,Bremen,2020-11-03,-27,9.0
+1638,DE,Bremen,2020-11-04,-30,1.0
+1639,DE,Bremen,2020-11-05,-32,3.0
+1640,DE,Bremen,2020-11-06,-36,0.0
+1641,DE,Bremen,2020-11-07,-40,-5.0
+1642,DE,Bremen,2020-11-08,-60,-11.0
+1643,DE,Bremen,2020-11-09,-33,-3.0
+1644,DE,Bremen,2020-11-10,-32,-1.0
+1645,DE,Bremen,2020-11-11,-33,-2.0
+1646,DE,Bremen,2020-11-12,-36,0.0
+1647,DE,Bremen,2020-11-13,-35,5.0
+1648,DE,Bremen,2020-11-14,-41,-1.0
+1649,DE,Bremen,2020-11-15,-62,-14.0
+1650,DE,Hamburg,2020-02-15,6,2.0
+1651,DE,Hamburg,2020-02-16,-2,9.0
+1652,DE,Hamburg,2020-02-17,4,2.0
+1653,DE,Hamburg,2020-02-18,5,2.0
+1654,DE,Hamburg,2020-02-19,-2,-3.0
+1655,DE,Hamburg,2020-02-20,-3,-1.0
+1656,DE,Hamburg,2020-02-21,2,1.0
+1657,DE,Hamburg,2020-02-22,2,-5.0
+1658,DE,Hamburg,2020-02-23,-4,-3.0
+1659,DE,Hamburg,2020-02-24,-3,-6.0
+1660,DE,Hamburg,2020-02-25,1,4.0
+1661,DE,Hamburg,2020-02-26,-1,4.0
+1662,DE,Hamburg,2020-02-27,1,6.0
+1663,DE,Hamburg,2020-02-28,6,14.0
+1664,DE,Hamburg,2020-02-29,-2,3.0
+1665,DE,Hamburg,2020-03-01,-2,-1.0
+1666,DE,Hamburg,2020-03-02,3,4.0
+1667,DE,Hamburg,2020-03-03,-1,1.0
+1668,DE,Hamburg,2020-03-04,-4,-2.0
+1669,DE,Hamburg,2020-03-05,-4,-3.0
+1670,DE,Hamburg,2020-03-06,-9,-7.0
+1671,DE,Hamburg,2020-03-07,-1,-6.0
+1672,DE,Hamburg,2020-03-08,-4,0.0
+1673,DE,Hamburg,2020-03-09,-3,-3.0
+1674,DE,Hamburg,2020-03-10,-8,-7.0
+1675,DE,Hamburg,2020-03-11,-1,2.0
+1676,DE,Hamburg,2020-03-12,-14,1.0
+1677,DE,Hamburg,2020-03-13,-19,12.0
+1678,DE,Hamburg,2020-03-14,-25,12.0
+1679,DE,Hamburg,2020-03-15,-37,-10.0
+1680,DE,Hamburg,2020-03-16,-20,22.0
+1681,DE,Hamburg,2020-03-17,-38,14.0
+1682,DE,Hamburg,2020-03-18,-49,5.0
+1683,DE,Hamburg,2020-03-19,-54,-3.0
+1684,DE,Hamburg,2020-03-20,-58,-3.0
+1685,DE,Hamburg,2020-03-21,-71,-18.0
+1686,DE,Hamburg,2020-03-22,-75,-41.0
+1687,DE,Hamburg,2020-03-23,-60,-14.0
+1688,DE,Hamburg,2020-03-24,-61,-15.0
+1689,DE,Hamburg,2020-03-25,-63,-15.0
+1690,DE,Hamburg,2020-03-26,-62,-14.0
+1691,DE,Hamburg,2020-03-27,-62,-11.0
+1692,DE,Hamburg,2020-03-28,-69,-18.0
+1693,DE,Hamburg,2020-03-29,-80,-50.0
+1694,DE,Hamburg,2020-03-30,-61,-19.0
+1695,DE,Hamburg,2020-03-31,-56,-8.0
+1696,DE,Hamburg,2020-04-01,-61,-14.0
+1697,DE,Hamburg,2020-04-02,-60,-12.0
+1698,DE,Hamburg,2020-04-03,-63,-10.0
+1699,DE,Hamburg,2020-04-04,-68,-12.0
+1700,DE,Hamburg,2020-04-05,-65,-20.0
+1701,DE,Hamburg,2020-04-06,-50,-5.0
+1702,DE,Hamburg,2020-04-07,-52,2.0
+1703,DE,Hamburg,2020-04-08,-52,10.0
+1704,DE,Hamburg,2020-04-09,-50,19.0
+1705,DE,Hamburg,2020-04-10,-84,-91.0
+1706,DE,Hamburg,2020-04-11,-62,2.0
+1707,DE,Hamburg,2020-04-12,-68,-22.0
+1708,DE,Hamburg,2020-04-13,-84,-92.0
+1709,DE,Hamburg,2020-04-14,-53,3.0
+1710,DE,Hamburg,2020-04-15,-54,-5.0
+1711,DE,Hamburg,2020-04-16,-63,2.0
+1712,DE,Hamburg,2020-04-17,-64,3.0
+1713,DE,Hamburg,2020-04-18,-71,-12.0
+1714,DE,Hamburg,2020-04-19,-68,-10.0
+1715,DE,Hamburg,2020-04-20,-55,-11.0
+1716,DE,Hamburg,2020-04-21,-56,-6.0
+1717,DE,Hamburg,2020-04-22,-57,-7.0
+1718,DE,Hamburg,2020-04-23,-58,-6.0
+1719,DE,Hamburg,2020-04-24,-60,-6.0
+1720,DE,Hamburg,2020-04-25,-65,-9.0
+1721,DE,Hamburg,2020-04-26,-70,-14.0
+1722,DE,Hamburg,2020-04-27,-54,-14.0
+1723,DE,Hamburg,2020-04-28,-57,-8.0
+1724,DE,Hamburg,2020-04-29,-59,-3.0
+1725,DE,Hamburg,2020-04-30,-47,17.0
+1726,DE,Hamburg,2020-05-01,-86,-91.0
+1727,DE,Hamburg,2020-05-02,-54,4.0
+1728,DE,Hamburg,2020-05-03,-72,-5.0
+1729,DE,Hamburg,2020-05-04,-42,-5.0
+1730,DE,Hamburg,2020-05-05,-46,-4.0
+1731,DE,Hamburg,2020-05-06,-47,-4.0
+1732,DE,Hamburg,2020-05-07,-48,-4.0
+1733,DE,Hamburg,2020-05-08,-47,-3.0
+1734,DE,Hamburg,2020-05-09,-53,-5.0
+1735,DE,Hamburg,2020-05-10,-61,-6.0
+1736,DE,Hamburg,2020-05-11,-46,-8.0
+1737,DE,Hamburg,2020-05-12,-49,-7.0
+1738,DE,Hamburg,2020-05-13,-43,-5.0
+1739,DE,Hamburg,2020-05-14,-37,-4.0
+1740,DE,Hamburg,2020-05-15,-41,-7.0
+1741,DE,Hamburg,2020-05-16,-44,-8.0
+1742,DE,Hamburg,2020-05-17,-55,-14.0
+1743,DE,Hamburg,2020-05-18,-30,-7.0
+1744,DE,Hamburg,2020-05-19,-29,0.0
+1745,DE,Hamburg,2020-05-20,-23,25.0
+1746,DE,Hamburg,2020-05-21,-66,-87.0
+1747,DE,Hamburg,2020-05-22,-34,-3.0
+1748,DE,Hamburg,2020-05-23,-42,-11.0
+1749,DE,Hamburg,2020-05-24,-56,-20.0
+1750,DE,Hamburg,2020-05-25,-27,-4.0
+1751,DE,Hamburg,2020-05-26,-27,-4.0
+1752,DE,Hamburg,2020-05-27,-28,-3.0
+1753,DE,Hamburg,2020-05-28,-27,0.0
+1754,DE,Hamburg,2020-05-29,-26,2.0
+1755,DE,Hamburg,2020-05-30,-35,-1.0
+1756,DE,Hamburg,2020-05-31,-40,8.0
+1757,DE,Hamburg,2020-06-01,-59,-87.0
+1758,DE,Hamburg,2020-06-02,-17,16.0
+1759,DE,Hamburg,2020-06-03,-28,-2.0
+1760,DE,Hamburg,2020-06-04,-31,-2.0
+1761,DE,Hamburg,2020-06-05,-26,-3.0
+1762,DE,Hamburg,2020-06-06,-28,-5.0
+1763,DE,Hamburg,2020-06-07,-41,-6.0
+1764,DE,Hamburg,2020-06-08,-19,-7.0
+1765,DE,Hamburg,2020-06-09,-19,-3.0
+1766,DE,Hamburg,2020-06-10,-20,-2.0
+1767,DE,Hamburg,2020-06-11,-24,-5.0
+1768,DE,Hamburg,2020-06-12,-19,-3.0
+1769,DE,Hamburg,2020-06-13,-34,-12.0
+1770,DE,Hamburg,2020-06-14,-40,-8.0
+1771,DE,Hamburg,2020-06-15,-16,-5.0
+1772,DE,Hamburg,2020-06-16,-16,-1.0
+1773,DE,Hamburg,2020-06-17,-19,0.0
+1774,DE,Hamburg,2020-06-18,-24,-3.0
+1775,DE,Hamburg,2020-06-19,-22,-1.0
+1776,DE,Hamburg,2020-06-20,-27,-7.0
+1777,DE,Hamburg,2020-06-21,-28,5.0
+1778,DE,Hamburg,2020-06-22,-14,-2.0
+1779,DE,Hamburg,2020-06-23,-14,1.0
+1780,DE,Hamburg,2020-06-24,-18,0.0
+1781,DE,Hamburg,2020-06-25,-23,-3.0
+1782,DE,Hamburg,2020-06-26,-25,-5.0
+1783,DE,Hamburg,2020-06-27,-36,-13.0
+1784,DE,Hamburg,2020-06-28,-40,-15.0
+1785,DE,Hamburg,2020-06-29,-14,-3.0
+1786,DE,Hamburg,2020-06-30,-13,-1.0
+1787,DE,Hamburg,2020-07-01,-15,-3.0
+1788,DE,Hamburg,2020-07-02,-20,-7.0
+1789,DE,Hamburg,2020-07-03,-17,-5.0
+1790,DE,Hamburg,2020-07-04,-27,-11.0
+1791,DE,Hamburg,2020-07-05,-35,-16.0
+1792,DE,Hamburg,2020-07-06,-14,-8.0
+1793,DE,Hamburg,2020-07-07,-14,-6.0
+1794,DE,Hamburg,2020-07-08,-15,-6.0
+1795,DE,Hamburg,2020-07-09,-25,-13.0
+1796,DE,Hamburg,2020-07-10,-22,-9.0
+1797,DE,Hamburg,2020-07-11,-26,-13.0
+1798,DE,Hamburg,2020-07-12,-27,-1.0
+1799,DE,Hamburg,2020-07-13,-12,-8.0
+1800,DE,Hamburg,2020-07-14,-16,-9.0
+1801,DE,Hamburg,2020-07-15,-14,-6.0
+1802,DE,Hamburg,2020-07-16,-16,-8.0
+1803,DE,Hamburg,2020-07-17,-18,-8.0
+1804,DE,Hamburg,2020-07-18,-30,-15.0
+1805,DE,Hamburg,2020-07-19,-26,4.0
+1806,DE,Hamburg,2020-07-20,-11,-7.0
+1807,DE,Hamburg,2020-07-21,-12,-7.0
+1808,DE,Hamburg,2020-07-22,-14,-8.0
+1809,DE,Hamburg,2020-07-23,-16,-9.0
+1810,DE,Hamburg,2020-07-24,-19,-10.0
+1811,DE,Hamburg,2020-07-25,-27,-15.0
+1812,DE,Hamburg,2020-07-26,-29,5.0
+1813,DE,Hamburg,2020-07-27,-10,-7.0
+1814,DE,Hamburg,2020-07-28,-10,-5.0
+1815,DE,Hamburg,2020-07-29,-11,-5.0
+1816,DE,Hamburg,2020-07-30,-9,-3.0
+1817,DE,Hamburg,2020-07-31,-11,-4.0
+1818,DE,Hamburg,2020-08-01,-28,-13.0
+1819,DE,Hamburg,2020-08-02,-21,11.0
+1820,DE,Hamburg,2020-08-03,-1,0.0
+1821,DE,Hamburg,2020-08-04,1,2.0
+1822,DE,Hamburg,2020-08-05,-4,2.0
+1823,DE,Hamburg,2020-08-06,-10,2.0
+1824,DE,Hamburg,2020-08-07,-15,0.0
+1825,DE,Hamburg,2020-08-08,-30,-11.0
+1826,DE,Hamburg,2020-08-09,-25,2.0
+1827,DE,Hamburg,2020-08-10,-8,2.0
+1828,DE,Hamburg,2020-08-11,-9,3.0
+1829,DE,Hamburg,2020-08-12,-12,2.0
+1830,DE,Hamburg,2020-08-13,-14,0.0
+1831,DE,Hamburg,2020-08-14,-14,-1.0
+1832,DE,Hamburg,2020-08-15,-25,-8.0
+1833,DE,Hamburg,2020-08-16,-23,7.0
+1834,DE,Hamburg,2020-08-17,-13,-2.0
+1835,DE,Hamburg,2020-08-18,-10,0.0
+1836,DE,Hamburg,2020-08-19,-11,0.0
+1837,DE,Hamburg,2020-08-20,-15,-4.0
+1838,DE,Hamburg,2020-08-21,-16,-6.0
+1839,DE,Hamburg,2020-08-22,-23,-11.0
+1840,DE,Hamburg,2020-08-23,-22,
+1841,DE,Hamburg,2020-08-24,-15,-8.0
+1842,DE,Hamburg,2020-08-25,-10,-2.0
+1843,DE,Hamburg,2020-08-26,-20,-9.0
+1844,DE,Hamburg,2020-08-27,-12,-2.0
+1845,DE,Hamburg,2020-08-28,-11,-2.0
+1846,DE,Hamburg,2020-08-29,-16,-8.0
+1847,DE,Hamburg,2020-08-30,-10,
+1848,DE,Hamburg,2020-08-31,-5,0.0
+1849,DE,Hamburg,2020-09-01,-3,2.0
+1850,DE,Hamburg,2020-09-02,-8,-1.0
+1851,DE,Hamburg,2020-09-03,-15,-4.0
+1852,DE,Hamburg,2020-09-04,-10,-2.0
+1853,DE,Hamburg,2020-09-05,-17,-8.0
+1854,DE,Hamburg,2020-09-06,-20,
+1855,DE,Hamburg,2020-09-07,-8,-4.0
+1856,DE,Hamburg,2020-09-08,-10,-3.0
+1857,DE,Hamburg,2020-09-09,-14,-6.0
+1858,DE,Hamburg,2020-09-10,-11,-3.0
+1859,DE,Hamburg,2020-09-11,-10,-3.0
+1860,DE,Hamburg,2020-09-12,-17,-7.0
+1861,DE,Hamburg,2020-09-13,-8,24.0
+1862,DE,Hamburg,2020-09-14,-7,-4.0
+1863,DE,Hamburg,2020-09-15,-8,-2.0
+1864,DE,Hamburg,2020-09-16,-11,-4.0
+1865,DE,Hamburg,2020-09-17,-11,-3.0
+1866,DE,Hamburg,2020-09-18,-11,-4.0
+1867,DE,Hamburg,2020-09-19,-17,-9.0
+1868,DE,Hamburg,2020-09-20,-7,28.0
+1869,DE,Hamburg,2020-09-21,-8,-4.0
+1870,DE,Hamburg,2020-09-22,-9,-3.0
+1871,DE,Hamburg,2020-09-23,-13,-4.0
+1872,DE,Hamburg,2020-09-24,-15,-4.0
+1873,DE,Hamburg,2020-09-25,-14,-3.0
+1874,DE,Hamburg,2020-09-26,-21,-8.0
+1875,DE,Hamburg,2020-09-27,-14,23.0
+1876,DE,Hamburg,2020-09-28,-13,-2.0
+1877,DE,Hamburg,2020-09-29,-10,1.0
+1878,DE,Hamburg,2020-09-30,-8,4.0
+1879,DE,Hamburg,2020-10-01,-10,5.0
+1880,DE,Hamburg,2020-10-02,-8,26.0
+1881,DE,Hamburg,2020-10-03,-54,-86.0
+1882,DE,Hamburg,2020-10-04,-17,17.0
+1883,DE,Hamburg,2020-10-05,-6,5.0
+1884,DE,Hamburg,2020-10-06,-10,-1.0
+1885,DE,Hamburg,2020-10-07,-15,-5.0
+1886,DE,Hamburg,2020-10-08,-23,-11.0
+1887,DE,Hamburg,2020-10-09,-16,-3.0
+1888,DE,Hamburg,2020-10-10,-21,-9.0
+1889,DE,Hamburg,2020-10-11,-31,0.0
+1890,DE,Hamburg,2020-10-12,-11,-4.0
+1891,DE,Hamburg,2020-10-13,-9,-2.0
+1892,DE,Hamburg,2020-10-14,-13,-3.0
+1893,DE,Hamburg,2020-10-15,-18,-3.0
+1894,DE,Hamburg,2020-10-16,-15,0.0
+1895,DE,Hamburg,2020-10-17,-23,-5.0
+1896,DE,Hamburg,2020-10-18,-31,2.0
+1897,DE,Hamburg,2020-10-19,-15,0.0
+1898,DE,Hamburg,2020-10-20,-18,-1.0
+1899,DE,Hamburg,2020-10-21,-22,-3.0
+1900,DE,Hamburg,2020-10-22,-18,1.0
+1901,DE,Hamburg,2020-10-23,-20,2.0
+1902,DE,Hamburg,2020-10-24,-28,-5.0
+1903,DE,Hamburg,2020-10-25,-25,13.0
+1904,DE,Hamburg,2020-10-26,-21,-2.0
+1905,DE,Hamburg,2020-10-27,-18,1.0
+1906,DE,Hamburg,2020-10-28,-21,2.0
+1907,DE,Hamburg,2020-10-29,-20,8.0
+1908,DE,Hamburg,2020-10-30,-17,27.0
+1909,DE,Hamburg,2020-10-31,-63,-86.0
+1910,DE,Hamburg,2020-11-01,-24,17.0
+1911,DE,Hamburg,2020-11-02,-30,5.0
+1912,DE,Hamburg,2020-11-03,-30,6.0
+1913,DE,Hamburg,2020-11-04,-34,1.0
+1914,DE,Hamburg,2020-11-05,-36,1.0
+1915,DE,Hamburg,2020-11-06,-36,3.0
+1916,DE,Hamburg,2020-11-07,-38,-4.0
+1917,DE,Hamburg,2020-11-08,-49,-1.0
+1918,DE,Hamburg,2020-11-09,-33,-5.0
+1919,DE,Hamburg,2020-11-10,-34,-1.0
+1920,DE,Hamburg,2020-11-11,-37,-2.0
+1921,DE,Hamburg,2020-11-12,-38,-2.0
+1922,DE,Hamburg,2020-11-13,-34,4.0
+1923,DE,Hamburg,2020-11-14,-39,-2.0
+1924,DE,Hamburg,2020-11-15,-50,-3.0
+1925,DE,Hessen,2020-02-15,7,3.0
+1926,DE,Hessen,2020-02-16,11,16.0
+1927,DE,Hessen,2020-02-17,-1,0.0
+1928,DE,Hessen,2020-02-18,0,1.0
+1929,DE,Hessen,2020-02-19,1,0.0
+1930,DE,Hessen,2020-02-20,0,-1.0
+1931,DE,Hessen,2020-02-21,3,2.0
+1932,DE,Hessen,2020-02-22,2,1.0
+1933,DE,Hessen,2020-02-23,5,25.0
+1934,DE,Hessen,2020-02-24,1,-6.0
+1935,DE,Hessen,2020-02-25,0,-1.0
+1936,DE,Hessen,2020-02-26,-5,0.0
+1937,DE,Hessen,2020-02-27,-9,0.0
+1938,DE,Hessen,2020-02-28,2,14.0
+1939,DE,Hessen,2020-02-29,-1,8.0
+1940,DE,Hessen,2020-03-01,9,24.0
+1941,DE,Hessen,2020-03-02,0,10.0
+1942,DE,Hessen,2020-03-03,-1,6.0
+1943,DE,Hessen,2020-03-04,2,2.0
+1944,DE,Hessen,2020-03-05,-7,-2.0
+1945,DE,Hessen,2020-03-06,-3,0.0
+1946,DE,Hessen,2020-03-07,2,0.0
+1947,DE,Hessen,2020-03-08,12,21.0
+1948,DE,Hessen,2020-03-09,-1,1.0
+1949,DE,Hessen,2020-03-10,-9,-2.0
+1950,DE,Hessen,2020-03-11,-3,1.0
+1951,DE,Hessen,2020-03-12,-7,6.0
+1952,DE,Hessen,2020-03-13,-8,20.0
+1953,DE,Hessen,2020-03-14,-17,11.0
+1954,DE,Hessen,2020-03-15,-5,21.0
+1955,DE,Hessen,2020-03-16,-9,21.0
+1956,DE,Hessen,2020-03-17,-18,13.0
+1957,DE,Hessen,2020-03-18,-37,5.0
+1958,DE,Hessen,2020-03-19,-45,-3.0
+1959,DE,Hessen,2020-03-20,-49,0.0
+1960,DE,Hessen,2020-03-21,-67,-21.0
+1961,DE,Hessen,2020-03-22,-69,-25.0
+1962,DE,Hessen,2020-03-23,-57,-17.0
+1963,DE,Hessen,2020-03-24,-59,-18.0
+1964,DE,Hessen,2020-03-25,-58,-18.0
+1965,DE,Hessen,2020-03-26,-59,-17.0
+1966,DE,Hessen,2020-03-27,-57,-14.0
+1967,DE,Hessen,2020-03-28,-63,-21.0
+1968,DE,Hessen,2020-03-29,-74,-40.0
+1969,DE,Hessen,2020-03-30,-51,-16.0
+1970,DE,Hessen,2020-03-31,-52,-13.0
+1971,DE,Hessen,2020-04-01,-51,-14.0
+1972,DE,Hessen,2020-04-02,-52,-12.0
+1973,DE,Hessen,2020-04-03,-56,-11.0
+1974,DE,Hessen,2020-04-04,-60,-16.0
+1975,DE,Hessen,2020-04-05,-59,-6.0
+1976,DE,Hessen,2020-04-06,-43,-8.0
+1977,DE,Hessen,2020-04-07,-44,-2.0
+1978,DE,Hessen,2020-04-08,-42,9.0
+1979,DE,Hessen,2020-04-09,-41,10.0
+1980,DE,Hessen,2020-04-10,-80,-92.0
+1981,DE,Hessen,2020-04-11,-53,-1.0
+1982,DE,Hessen,2020-04-12,-65,-16.0
+1983,DE,Hessen,2020-04-13,-82,-93.0
+1984,DE,Hessen,2020-04-14,-44,-1.0
+1985,DE,Hessen,2020-04-15,-44,-10.0
+1986,DE,Hessen,2020-04-16,-52,-4.0
+1987,DE,Hessen,2020-04-17,-54,-4.0
+1988,DE,Hessen,2020-04-18,-64,-15.0
+1989,DE,Hessen,2020-04-19,-63,-3.0
+1990,DE,Hessen,2020-04-20,-45,-11.0
+1991,DE,Hessen,2020-04-21,-47,-9.0
+1992,DE,Hessen,2020-04-22,-46,-9.0
+1993,DE,Hessen,2020-04-23,-48,-7.0
+1994,DE,Hessen,2020-04-24,-50,-7.0
+1995,DE,Hessen,2020-04-25,-55,-9.0
+1996,DE,Hessen,2020-04-26,-49,15.0
+1997,DE,Hessen,2020-04-27,-44,-15.0
+1998,DE,Hessen,2020-04-28,-50,-12.0
+1999,DE,Hessen,2020-04-29,-46,0.0
+2000,DE,Hessen,2020-04-30,-38,15.0
+2001,DE,Hessen,2020-05-01,-83,-92.0
+2002,DE,Hessen,2020-05-02,-46,0.0
+2003,DE,Hessen,2020-05-03,-55,15.0
+2004,DE,Hessen,2020-05-04,-35,-9.0
+2005,DE,Hessen,2020-05-05,-36,-8.0
+2006,DE,Hessen,2020-05-06,-35,-7.0
+2007,DE,Hessen,2020-05-07,-35,-6.0
+2008,DE,Hessen,2020-05-08,-36,-4.0
+2009,DE,Hessen,2020-05-09,-42,-3.0
+2010,DE,Hessen,2020-05-10,-49,16.0
+2011,DE,Hessen,2020-05-11,-42,-19.0
+2012,DE,Hessen,2020-05-12,-33,-7.0
+2013,DE,Hessen,2020-05-13,-33,-8.0
+2014,DE,Hessen,2020-05-14,-33,-6.0
+2015,DE,Hessen,2020-05-15,-27,-5.0
+2016,DE,Hessen,2020-05-16,-33,-7.0
+2017,DE,Hessen,2020-05-17,-28,32.0
+2018,DE,Hessen,2020-05-18,-19,-7.0
+2019,DE,Hessen,2020-05-19,-20,-1.0
+2020,DE,Hessen,2020-05-20,-10,30.0
+2021,DE,Hessen,2020-05-21,-56,-87.0
+2022,DE,Hessen,2020-05-22,-19,0.0
+2023,DE,Hessen,2020-05-23,-35,-9.0
+2024,DE,Hessen,2020-05-24,-35,17.0
+2025,DE,Hessen,2020-05-25,-19,-7.0
+2026,DE,Hessen,2020-05-26,-21,-7.0
+2027,DE,Hessen,2020-05-27,-18,-6.0
+2028,DE,Hessen,2020-05-28,-19,-2.0
+2029,DE,Hessen,2020-05-29,-16,4.0
+2030,DE,Hessen,2020-05-30,-23,3.0
+2031,DE,Hessen,2020-05-31,-21,32.0
+2032,DE,Hessen,2020-06-01,-48,-87.0
+2033,DE,Hessen,2020-06-02,-10,11.0
+2034,DE,Hessen,2020-06-03,-17,-2.0
+2035,DE,Hessen,2020-06-04,-25,-5.0
+2036,DE,Hessen,2020-06-05,-24,-6.0
+2037,DE,Hessen,2020-06-06,-25,-5.0
+2038,DE,Hessen,2020-06-07,-25,22.0
+2039,DE,Hessen,2020-06-08,-13,-8.0
+2040,DE,Hessen,2020-06-09,-16,-4.0
+2041,DE,Hessen,2020-06-10,-8,23.0
+2042,DE,Hessen,2020-06-11,-57,-89.0
+2043,DE,Hessen,2020-06-12,-7,3.0
+2044,DE,Hessen,2020-06-13,-25,-11.0
+2045,DE,Hessen,2020-06-14,-32,1.0
+2046,DE,Hessen,2020-06-15,-16,-6.0
+2047,DE,Hessen,2020-06-16,-17,-5.0
+2048,DE,Hessen,2020-06-17,-17,-8.0
+2049,DE,Hessen,2020-06-18,-15,-6.0
+2050,DE,Hessen,2020-06-19,-13,-4.0
+2051,DE,Hessen,2020-06-20,-20,-6.0
+2052,DE,Hessen,2020-06-21,-6,28.0
+2053,DE,Hessen,2020-06-22,-11,-7.0
+2054,DE,Hessen,2020-06-23,-10,-5.0
+2055,DE,Hessen,2020-06-24,-10,-4.0
+2056,DE,Hessen,2020-06-25,-13,-5.0
+2057,DE,Hessen,2020-06-26,-14,-4.0
+2058,DE,Hessen,2020-06-27,-20,-6.0
+2059,DE,Hessen,2020-06-28,-20,12.0
+2060,DE,Hessen,2020-06-29,-7,-4.0
+2061,DE,Hessen,2020-06-30,-3,0.0
+2062,DE,Hessen,2020-07-01,-3,-2.0
+2063,DE,Hessen,2020-07-02,-7,-2.0
+2064,DE,Hessen,2020-07-03,-4,0.0
+2065,DE,Hessen,2020-07-04,-15,-6.0
+2066,DE,Hessen,2020-07-05,-9,19.0
+2067,DE,Hessen,2020-07-06,-7,-6.0
+2068,DE,Hessen,2020-07-07,-6,-6.0
+2069,DE,Hessen,2020-07-08,-14,-9.0
+2070,DE,Hessen,2020-07-09,-11,-8.0
+2071,DE,Hessen,2020-07-10,-13,-6.0
+2072,DE,Hessen,2020-07-11,-17,-10.0
+2073,DE,Hessen,2020-07-12,-2,23.0
+2074,DE,Hessen,2020-07-13,-8,-9.0
+2075,DE,Hessen,2020-07-14,-10,-9.0
+2076,DE,Hessen,2020-07-15,-9,-7.0
+2077,DE,Hessen,2020-07-16,-16,-8.0
+2078,DE,Hessen,2020-07-17,-12,-8.0
+2079,DE,Hessen,2020-07-18,-19,-11.0
+2080,DE,Hessen,2020-07-19,-3,24.0
+2081,DE,Hessen,2020-07-20,-9,-8.0
+2082,DE,Hessen,2020-07-21,-7,-8.0
+2083,DE,Hessen,2020-07-22,-7,-9.0
+2084,DE,Hessen,2020-07-23,-11,-8.0
+2085,DE,Hessen,2020-07-24,-14,-8.0
+2086,DE,Hessen,2020-07-25,-20,-11.0
+2087,DE,Hessen,2020-07-26,-12,12.0
+2088,DE,Hessen,2020-07-27,-8,-8.0
+2089,DE,Hessen,2020-07-28,-9,-8.0
+2090,DE,Hessen,2020-07-29,-5,-7.0
+2091,DE,Hessen,2020-07-30,-8,-5.0
+2092,DE,Hessen,2020-07-31,-13,-7.0
+2093,DE,Hessen,2020-08-01,-23,-12.0
+2094,DE,Hessen,2020-08-02,-7,20.0
+2095,DE,Hessen,2020-08-03,-4,-6.0
+2096,DE,Hessen,2020-08-04,-4,-7.0
+2097,DE,Hessen,2020-08-05,-4,-8.0
+2098,DE,Hessen,2020-08-06,-10,-9.0
+2099,DE,Hessen,2020-08-07,-15,-10.0
+2100,DE,Hessen,2020-08-08,-25,-14.0
+2101,DE,Hessen,2020-08-09,-15,6.0
+2102,DE,Hessen,2020-08-10,-8,-6.0
+2103,DE,Hessen,2020-08-11,-11,-9.0
+2104,DE,Hessen,2020-08-12,-8,-7.0
+2105,DE,Hessen,2020-08-13,-9,-6.0
+2106,DE,Hessen,2020-08-14,-9,-6.0
+2107,DE,Hessen,2020-08-15,-12,-6.0
+2108,DE,Hessen,2020-08-16,1,23.0
+2109,DE,Hessen,2020-08-17,-5,-2.0
+2110,DE,Hessen,2020-08-18,-5,-4.0
+2111,DE,Hessen,2020-08-19,-3,-4.0
+2112,DE,Hessen,2020-08-20,-10,-7.0
+2113,DE,Hessen,2020-08-21,-12,-7.0
+2114,DE,Hessen,2020-08-22,-14,-7.0
+2115,DE,Hessen,2020-08-23,0,22.0
+2116,DE,Hessen,2020-08-24,-9,-6.0
+2117,DE,Hessen,2020-08-25,-9,-6.0
+2118,DE,Hessen,2020-08-26,-12,-7.0
+2119,DE,Hessen,2020-08-27,-8,-5.0
+2120,DE,Hessen,2020-08-28,-7,-3.0
+2121,DE,Hessen,2020-08-29,-10,-6.0
+2122,DE,Hessen,2020-08-30,-7,12.0
+2123,DE,Hessen,2020-08-31,-6,-3.0
+2124,DE,Hessen,2020-09-01,-4,-3.0
+2125,DE,Hessen,2020-09-02,-2,-5.0
+2126,DE,Hessen,2020-09-03,-10,-5.0
+2127,DE,Hessen,2020-09-04,-5,-5.0
+2128,DE,Hessen,2020-09-05,-10,-7.0
+2129,DE,Hessen,2020-09-06,5,28.0
+2130,DE,Hessen,2020-09-07,-5,-6.0
+2131,DE,Hessen,2020-09-08,-4,-6.0
+2132,DE,Hessen,2020-09-09,-4,-6.0
+2133,DE,Hessen,2020-09-10,-7,-5.0
+2134,DE,Hessen,2020-09-11,-4,-5.0
+2135,DE,Hessen,2020-09-12,-9,-8.0
+2136,DE,Hessen,2020-09-13,10,20.0
+2137,DE,Hessen,2020-09-14,-7,-7.0
+2138,DE,Hessen,2020-09-15,-6,-6.0
+2139,DE,Hessen,2020-09-16,-5,-7.0
+2140,DE,Hessen,2020-09-17,-8,-6.0
+2141,DE,Hessen,2020-09-18,-6,-5.0
+2142,DE,Hessen,2020-09-19,-9,-8.0
+2143,DE,Hessen,2020-09-20,11,26.0
+2144,DE,Hessen,2020-09-21,-7,-7.0
+2145,DE,Hessen,2020-09-22,-8,-6.0
+2146,DE,Hessen,2020-09-23,-8,-5.0
+2147,DE,Hessen,2020-09-24,-14,-5.0
+2148,DE,Hessen,2020-09-25,-13,-3.0
+2149,DE,Hessen,2020-09-26,-17,-7.0
+2150,DE,Hessen,2020-09-27,-20,-4.0
+2151,DE,Hessen,2020-09-28,-10,-3.0
+2152,DE,Hessen,2020-09-29,-12,-2.0
+2153,DE,Hessen,2020-09-30,-4,3.0
+2154,DE,Hessen,2020-10-01,-10,4.0
+2155,DE,Hessen,2020-10-02,0,28.0
+2156,DE,Hessen,2020-10-03,-55,-89.0
+2157,DE,Hessen,2020-10-04,-10,16.0
+2158,DE,Hessen,2020-10-05,-8,3.0
+2159,DE,Hessen,2020-10-06,-13,-4.0
+2160,DE,Hessen,2020-10-07,-9,-5.0
+2161,DE,Hessen,2020-10-08,-16,-6.0
+2162,DE,Hessen,2020-10-09,-20,-9.0
+2163,DE,Hessen,2020-10-10,-16,-9.0
+2164,DE,Hessen,2020-10-11,-14,9.0
+2165,DE,Hessen,2020-10-12,-12,-7.0
+2166,DE,Hessen,2020-10-13,-11,-6.0
+2167,DE,Hessen,2020-10-14,-12,-6.0
+2168,DE,Hessen,2020-10-15,-16,-3.0
+2169,DE,Hessen,2020-10-16,-15,-2.0
+2170,DE,Hessen,2020-10-17,-19,-6.0
+2171,DE,Hessen,2020-10-18,-22,5.0
+2172,DE,Hessen,2020-10-19,-14,-1.0
+2173,DE,Hessen,2020-10-20,-16,-3.0
+2174,DE,Hessen,2020-10-21,-12,-2.0
+2175,DE,Hessen,2020-10-22,-15,-2.0
+2176,DE,Hessen,2020-10-23,-19,-1.0
+2177,DE,Hessen,2020-10-24,-21,-5.0
+2178,DE,Hessen,2020-10-25,-18,7.0
+2179,DE,Hessen,2020-10-26,-20,-4.0
+2180,DE,Hessen,2020-10-27,-18,-3.0
+2181,DE,Hessen,2020-10-28,-17,-3.0
+2182,DE,Hessen,2020-10-29,-18,-1.0
+2183,DE,Hessen,2020-10-30,-14,4.0
+2184,DE,Hessen,2020-10-31,-16,-3.0
+2185,DE,Hessen,2020-11-01,-31,-6.0
+2186,DE,Hessen,2020-11-02,-29,-7.0
+2187,DE,Hessen,2020-11-03,-31,-4.0
+2188,DE,Hessen,2020-11-04,-29,-4.0
+2189,DE,Hessen,2020-11-05,-31,-3.0
+2190,DE,Hessen,2020-11-06,-31,-1.0
+2191,DE,Hessen,2020-11-07,-33,-4.0
+2192,DE,Hessen,2020-11-08,-48,-8.0
+2193,DE,Hessen,2020-11-09,-27,-5.0
+2194,DE,Hessen,2020-11-10,-30,-4.0
+2195,DE,Hessen,2020-11-11,-30,-4.0
+2196,DE,Hessen,2020-11-12,-32,-3.0
+2197,DE,Hessen,2020-11-13,-31,0.0
+2198,DE,Hessen,2020-11-14,-31,-3.0
+2199,DE,Hessen,2020-11-15,-43,-1.0
+2200,DE,Lower Saxony,2020-02-15,9,1.0
+2201,DE,Lower Saxony,2020-02-16,2,8.0
+2202,DE,Lower Saxony,2020-02-17,1,2.0
+2203,DE,Lower Saxony,2020-02-18,1,1.0
+2204,DE,Lower Saxony,2020-02-19,2,-1.0
+2205,DE,Lower Saxony,2020-02-20,0,1.0
+2206,DE,Lower Saxony,2020-02-21,2,3.0
+2207,DE,Lower Saxony,2020-02-22,-1,-1.0
+2208,DE,Lower Saxony,2020-02-23,-5,-3.0
+2209,DE,Lower Saxony,2020-02-24,-4,-3.0
+2210,DE,Lower Saxony,2020-02-25,0,2.0
+2211,DE,Lower Saxony,2020-02-26,-1,0.0
+2212,DE,Lower Saxony,2020-02-27,1,6.0
+2213,DE,Lower Saxony,2020-02-28,6,11.0
+2214,DE,Lower Saxony,2020-02-29,5,6.0
+2215,DE,Lower Saxony,2020-03-01,15,29.0
+2216,DE,Lower Saxony,2020-03-02,6,10.0
+2217,DE,Lower Saxony,2020-03-03,4,6.0
+2218,DE,Lower Saxony,2020-03-04,3,4.0
+2219,DE,Lower Saxony,2020-03-05,2,3.0
+2220,DE,Lower Saxony,2020-03-06,-2,0.0
+2221,DE,Lower Saxony,2020-03-07,6,1.0
+2222,DE,Lower Saxony,2020-03-08,16,26.0
+2223,DE,Lower Saxony,2020-03-09,1,3.0
+2224,DE,Lower Saxony,2020-03-10,-3,0.0
+2225,DE,Lower Saxony,2020-03-11,4,5.0
+2226,DE,Lower Saxony,2020-03-12,-4,9.0
+2227,DE,Lower Saxony,2020-03-13,-9,19.0
+2228,DE,Lower Saxony,2020-03-14,-13,10.0
+2229,DE,Lower Saxony,2020-03-15,-13,18.0
+2230,DE,Lower Saxony,2020-03-16,-5,22.0
+2231,DE,Lower Saxony,2020-03-17,-24,13.0
+2232,DE,Lower Saxony,2020-03-18,-34,5.0
+2233,DE,Lower Saxony,2020-03-19,-45,-3.0
+2234,DE,Lower Saxony,2020-03-20,-51,-4.0
+2235,DE,Lower Saxony,2020-03-21,-65,-21.0
+2236,DE,Lower Saxony,2020-03-22,-69,-35.0
+2237,DE,Lower Saxony,2020-03-23,-60,-15.0
+2238,DE,Lower Saxony,2020-03-24,-62,-19.0
+2239,DE,Lower Saxony,2020-03-25,-62,-18.0
+2240,DE,Lower Saxony,2020-03-26,-62,-16.0
+2241,DE,Lower Saxony,2020-03-27,-63,-15.0
+2242,DE,Lower Saxony,2020-03-28,-71,-21.0
+2243,DE,Lower Saxony,2020-03-29,-76,-52.0
+2244,DE,Lower Saxony,2020-03-30,-61,-17.0
+2245,DE,Lower Saxony,2020-03-31,-56,-11.0
+2246,DE,Lower Saxony,2020-04-01,-58,-14.0
+2247,DE,Lower Saxony,2020-04-02,-59,-13.0
+2248,DE,Lower Saxony,2020-04-03,-62,-13.0
+2249,DE,Lower Saxony,2020-04-04,-61,-16.0
+2250,DE,Lower Saxony,2020-04-05,-58,-17.0
+2251,DE,Lower Saxony,2020-04-06,-39,-6.0
+2252,DE,Lower Saxony,2020-04-07,-41,-3.0
+2253,DE,Lower Saxony,2020-04-08,-39,10.0
+2254,DE,Lower Saxony,2020-04-09,-37,14.0
+2255,DE,Lower Saxony,2020-04-10,-82,-93.0
+2256,DE,Lower Saxony,2020-04-11,-54,2.0
+2257,DE,Lower Saxony,2020-04-12,-63,-27.0
+2258,DE,Lower Saxony,2020-04-13,-81,-94.0
+2259,DE,Lower Saxony,2020-04-14,-43,-2.0
+2260,DE,Lower Saxony,2020-04-15,-43,-10.0
+2261,DE,Lower Saxony,2020-04-16,-49,-5.0
+2262,DE,Lower Saxony,2020-04-17,-52,-7.0
+2263,DE,Lower Saxony,2020-04-18,-61,-12.0
+2264,DE,Lower Saxony,2020-04-19,-55,-10.0
+2265,DE,Lower Saxony,2020-04-20,-38,-8.0
+2266,DE,Lower Saxony,2020-04-21,-43,-8.0
+2267,DE,Lower Saxony,2020-04-22,-42,-8.0
+2268,DE,Lower Saxony,2020-04-23,-43,-6.0
+2269,DE,Lower Saxony,2020-04-24,-47,-7.0
+2270,DE,Lower Saxony,2020-04-25,-55,-9.0
+2271,DE,Lower Saxony,2020-04-26,-55,-4.0
+2272,DE,Lower Saxony,2020-04-27,-40,-15.0
+2273,DE,Lower Saxony,2020-04-28,-44,-11.0
+2274,DE,Lower Saxony,2020-04-29,-42,2.0
+2275,DE,Lower Saxony,2020-04-30,-30,20.0
+2276,DE,Lower Saxony,2020-05-01,-82,-92.0
+2277,DE,Lower Saxony,2020-05-02,-44,3.0
+2278,DE,Lower Saxony,2020-05-03,-58,-4.0
+2279,DE,Lower Saxony,2020-05-04,-29,-5.0
+2280,DE,Lower Saxony,2020-05-05,-33,-7.0
+2281,DE,Lower Saxony,2020-05-06,-32,-5.0
+2282,DE,Lower Saxony,2020-05-07,-31,-4.0
+2283,DE,Lower Saxony,2020-05-08,-33,-3.0
+2284,DE,Lower Saxony,2020-05-09,-39,0.0
+2285,DE,Lower Saxony,2020-05-10,-46,16.0
+2286,DE,Lower Saxony,2020-05-11,-25,-8.0
+2287,DE,Lower Saxony,2020-05-12,-28,-7.0
+2288,DE,Lower Saxony,2020-05-13,-26,-7.0
+2289,DE,Lower Saxony,2020-05-14,-23,-4.0
+2290,DE,Lower Saxony,2020-05-15,-26,-4.0
+2291,DE,Lower Saxony,2020-05-16,-31,-6.0
+2292,DE,Lower Saxony,2020-05-17,-32,24.0
+2293,DE,Lower Saxony,2020-05-18,-12,-3.0
+2294,DE,Lower Saxony,2020-05-19,-14,2.0
+2295,DE,Lower Saxony,2020-05-20,-2,39.0
+2296,DE,Lower Saxony,2020-05-21,-54,-87.0
+2297,DE,Lower Saxony,2020-05-22,-17,0.0
+2298,DE,Lower Saxony,2020-05-23,-30,-8.0
+2299,DE,Lower Saxony,2020-05-24,-44,5.0
+2300,DE,Lower Saxony,2020-05-25,-12,-1.0
+2301,DE,Lower Saxony,2020-05-26,-15,-5.0
+2302,DE,Lower Saxony,2020-05-27,-13,-3.0
+2303,DE,Lower Saxony,2020-05-28,-11,2.0
+2304,DE,Lower Saxony,2020-05-29,-12,7.0
+2305,DE,Lower Saxony,2020-05-30,-20,6.0
+2306,DE,Lower Saxony,2020-05-31,-15,41.0
+2307,DE,Lower Saxony,2020-06-01,-44,-87.0
+2308,DE,Lower Saxony,2020-06-02,-1,15.0
+2309,DE,Lower Saxony,2020-06-03,-10,1.0
+2310,DE,Lower Saxony,2020-06-04,-18,-2.0
+2311,DE,Lower Saxony,2020-06-05,-17,-2.0
+2312,DE,Lower Saxony,2020-06-06,-21,-3.0
+2313,DE,Lower Saxony,2020-06-07,-26,25.0
+2314,DE,Lower Saxony,2020-06-08,-7,-3.0
+2315,DE,Lower Saxony,2020-06-09,-10,-3.0
+2316,DE,Lower Saxony,2020-06-10,-7,-1.0
+2317,DE,Lower Saxony,2020-06-11,-5,3.0
+2318,DE,Lower Saxony,2020-06-12,-10,-1.0
+2319,DE,Lower Saxony,2020-06-13,-25,-7.0
+2320,DE,Lower Saxony,2020-06-14,-30,20.0
+2321,DE,Lower Saxony,2020-06-15,-7,-3.0
+2322,DE,Lower Saxony,2020-06-16,-8,-2.0
+2323,DE,Lower Saxony,2020-06-17,-6,-1.0
+2324,DE,Lower Saxony,2020-06-18,-14,-2.0
+2325,DE,Lower Saxony,2020-06-19,-11,-1.0
+2326,DE,Lower Saxony,2020-06-20,-18,-3.0
+2327,DE,Lower Saxony,2020-06-21,-5,46.0
+2328,DE,Lower Saxony,2020-06-22,-4,-1.0
+2329,DE,Lower Saxony,2020-06-23,-4,0.0
+2330,DE,Lower Saxony,2020-06-24,-5,0.0
+2331,DE,Lower Saxony,2020-06-25,-9,0.0
+2332,DE,Lower Saxony,2020-06-26,-13,0.0
+2333,DE,Lower Saxony,2020-06-27,-23,-5.0
+2334,DE,Lower Saxony,2020-06-28,-15,36.0
+2335,DE,Lower Saxony,2020-06-29,0,3.0
+2336,DE,Lower Saxony,2020-06-30,1,5.0
+2337,DE,Lower Saxony,2020-07-01,-2,1.0
+2338,DE,Lower Saxony,2020-07-02,-3,1.0
+2339,DE,Lower Saxony,2020-07-03,-3,2.0
+2340,DE,Lower Saxony,2020-07-04,-13,-2.0
+2341,DE,Lower Saxony,2020-07-05,-11,35.0
+2342,DE,Lower Saxony,2020-07-06,-1,1.0
+2343,DE,Lower Saxony,2020-07-07,0,1.0
+2344,DE,Lower Saxony,2020-07-08,-1,0.0
+2345,DE,Lower Saxony,2020-07-09,-7,0.0
+2346,DE,Lower Saxony,2020-07-10,-7,1.0
+2347,DE,Lower Saxony,2020-07-11,-11,-2.0
+2348,DE,Lower Saxony,2020-07-12,11,59.0
+2349,DE,Lower Saxony,2020-07-13,4,2.0
+2350,DE,Lower Saxony,2020-07-14,2,3.0
+2351,DE,Lower Saxony,2020-07-15,8,4.0
+2352,DE,Lower Saxony,2020-07-16,2,1.0
+2353,DE,Lower Saxony,2020-07-17,-3,0.0
+2354,DE,Lower Saxony,2020-07-18,-13,-5.0
+2355,DE,Lower Saxony,2020-07-19,10,58.0
+2356,DE,Lower Saxony,2020-07-20,5,1.0
+2357,DE,Lower Saxony,2020-07-21,5,-2.0
+2358,DE,Lower Saxony,2020-07-22,5,-3.0
+2359,DE,Lower Saxony,2020-07-23,2,-3.0
+2360,DE,Lower Saxony,2020-07-24,-7,-3.0
+2361,DE,Lower Saxony,2020-07-25,-15,-7.0
+2362,DE,Lower Saxony,2020-07-26,-1,47.0
+2363,DE,Lower Saxony,2020-07-27,4,-1.0
+2364,DE,Lower Saxony,2020-07-28,5,-2.0
+2365,DE,Lower Saxony,2020-07-29,8,0.0
+2366,DE,Lower Saxony,2020-07-30,8,1.0
+2367,DE,Lower Saxony,2020-07-31,-2,0.0
+2368,DE,Lower Saxony,2020-08-01,-15,-7.0
+2369,DE,Lower Saxony,2020-08-02,6,54.0
+2370,DE,Lower Saxony,2020-08-03,12,3.0
+2371,DE,Lower Saxony,2020-08-04,12,1.0
+2372,DE,Lower Saxony,2020-08-05,10,-1.0
+2373,DE,Lower Saxony,2020-08-06,1,-2.0
+2374,DE,Lower Saxony,2020-08-07,-8,-4.0
+2375,DE,Lower Saxony,2020-08-08,-22,-9.0
+2376,DE,Lower Saxony,2020-08-09,-3,44.0
+2377,DE,Lower Saxony,2020-08-10,1,0.0
+2378,DE,Lower Saxony,2020-08-11,-1,-3.0
+2379,DE,Lower Saxony,2020-08-12,0,-3.0
+2380,DE,Lower Saxony,2020-08-13,-3,-4.0
+2381,DE,Lower Saxony,2020-08-14,-8,-5.0
+2382,DE,Lower Saxony,2020-08-15,-15,-7.0
+2383,DE,Lower Saxony,2020-08-16,5,47.0
+2384,DE,Lower Saxony,2020-08-17,-1,-2.0
+2385,DE,Lower Saxony,2020-08-18,4,-2.0
+2386,DE,Lower Saxony,2020-08-19,5,-3.0
+2387,DE,Lower Saxony,2020-08-20,-1,-5.0
+2388,DE,Lower Saxony,2020-08-21,-8,-6.0
+2389,DE,Lower Saxony,2020-08-22,-13,-7.0
+2390,DE,Lower Saxony,2020-08-23,2,44.0
+2391,DE,Lower Saxony,2020-08-24,1,0.0
+2392,DE,Lower Saxony,2020-08-25,2,-1.0
+2393,DE,Lower Saxony,2020-08-26,-5,-2.0
+2394,DE,Lower Saxony,2020-08-27,2,2.0
+2395,DE,Lower Saxony,2020-08-28,0,3.0
+2396,DE,Lower Saxony,2020-08-29,-7,-4.0
+2397,DE,Lower Saxony,2020-08-30,15,51.0
+2398,DE,Lower Saxony,2020-08-31,7,5.0
+2399,DE,Lower Saxony,2020-09-01,7,3.0
+2400,DE,Lower Saxony,2020-09-02,7,1.0
+2401,DE,Lower Saxony,2020-09-03,-4,-2.0
+2402,DE,Lower Saxony,2020-09-04,-1,0.0
+2403,DE,Lower Saxony,2020-09-05,-6,-4.0
+2404,DE,Lower Saxony,2020-09-06,11,48.0
+2405,DE,Lower Saxony,2020-09-07,3,-1.0
+2406,DE,Lower Saxony,2020-09-08,0,-1.0
+2407,DE,Lower Saxony,2020-09-09,0,-3.0
+2408,DE,Lower Saxony,2020-09-10,0,-2.0
+2409,DE,Lower Saxony,2020-09-11,-1,-2.0
+2410,DE,Lower Saxony,2020-09-12,-6,-5.0
+2411,DE,Lower Saxony,2020-09-13,20,54.0
+2412,DE,Lower Saxony,2020-09-14,2,-2.0
+2413,DE,Lower Saxony,2020-09-15,2,-2.0
+2414,DE,Lower Saxony,2020-09-16,2,-2.0
+2415,DE,Lower Saxony,2020-09-17,-1,-2.0
+2416,DE,Lower Saxony,2020-09-18,-3,-2.0
+2417,DE,Lower Saxony,2020-09-19,-6,-6.0
+2418,DE,Lower Saxony,2020-09-20,22,55.0
+2419,DE,Lower Saxony,2020-09-21,0,-2.0
+2420,DE,Lower Saxony,2020-09-22,-1,-3.0
+2421,DE,Lower Saxony,2020-09-23,-3,-2.0
+2422,DE,Lower Saxony,2020-09-24,-7,-1.0
+2423,DE,Lower Saxony,2020-09-25,-8,0.0
+2424,DE,Lower Saxony,2020-09-26,-14,-5.0
+2425,DE,Lower Saxony,2020-09-27,-9,30.0
+2426,DE,Lower Saxony,2020-09-28,-6,3.0
+2427,DE,Lower Saxony,2020-09-29,-4,2.0
+2428,DE,Lower Saxony,2020-09-30,2,6.0
+2429,DE,Lower Saxony,2020-10-01,-2,8.0
+2430,DE,Lower Saxony,2020-10-02,2,31.0
+2431,DE,Lower Saxony,2020-10-03,-50,-88.0
+2432,DE,Lower Saxony,2020-10-04,4,64.0
+2433,DE,Lower Saxony,2020-10-05,1,12.0
+2434,DE,Lower Saxony,2020-10-06,-3,5.0
+2435,DE,Lower Saxony,2020-10-07,-4,2.0
+2436,DE,Lower Saxony,2020-10-08,-11,0.0
+2437,DE,Lower Saxony,2020-10-09,-6,3.0
+2438,DE,Lower Saxony,2020-10-10,-9,-4.0
+2439,DE,Lower Saxony,2020-10-11,-10,28.0
+2440,DE,Lower Saxony,2020-10-12,0,0.0
+2441,DE,Lower Saxony,2020-10-13,1,-1.0
+2442,DE,Lower Saxony,2020-10-14,-2,-1.0
+2443,DE,Lower Saxony,2020-10-15,-4,2.0
+2444,DE,Lower Saxony,2020-10-16,-8,1.0
+2445,DE,Lower Saxony,2020-10-17,-14,-5.0
+2446,DE,Lower Saxony,2020-10-18,-17,23.0
+2447,DE,Lower Saxony,2020-10-19,-2,3.0
+2448,DE,Lower Saxony,2020-10-20,-6,-1.0
+2449,DE,Lower Saxony,2020-10-21,-5,-1.0
+2450,DE,Lower Saxony,2020-10-22,-6,0.0
+2451,DE,Lower Saxony,2020-10-23,-13,0.0
+2452,DE,Lower Saxony,2020-10-24,-19,-4.0
+2453,DE,Lower Saxony,2020-10-25,-23,18.0
+2454,DE,Lower Saxony,2020-10-26,-12,1.0
+2455,DE,Lower Saxony,2020-10-27,-12,1.0
+2456,DE,Lower Saxony,2020-10-28,-10,2.0
+2457,DE,Lower Saxony,2020-10-29,-8,10.0
+2458,DE,Lower Saxony,2020-10-30,-7,29.0
+2459,DE,Lower Saxony,2020-10-31,-59,-89.0
+2460,DE,Lower Saxony,2020-11-01,-18,2.0
+2461,DE,Lower Saxony,2020-11-02,-20,6.0
+2462,DE,Lower Saxony,2020-11-03,-23,2.0
+2463,DE,Lower Saxony,2020-11-04,-24,-1.0
+2464,DE,Lower Saxony,2020-11-05,-26,1.0
+2465,DE,Lower Saxony,2020-11-06,-28,2.0
+2466,DE,Lower Saxony,2020-11-07,-32,-6.0
+2467,DE,Lower Saxony,2020-11-08,-45,-5.0
+2468,DE,Lower Saxony,2020-11-09,-23,-2.0
+2469,DE,Lower Saxony,2020-11-10,-26,-1.0
+2470,DE,Lower Saxony,2020-11-11,-25,-2.0
+2471,DE,Lower Saxony,2020-11-12,-28,-1.0
+2472,DE,Lower Saxony,2020-11-13,-27,3.0
+2473,DE,Lower Saxony,2020-11-14,-32,-3.0
+2474,DE,Lower Saxony,2020-11-15,-48,-11.0
+2475,DE,Mecklenburg-Vorpommern,2020-02-15,6,-1.0
+2476,DE,Mecklenburg-Vorpommern,2020-02-16,-7,-8.0
+2477,DE,Mecklenburg-Vorpommern,2020-02-17,8,-1.0
+2478,DE,Mecklenburg-Vorpommern,2020-02-18,5,-3.0
+2479,DE,Mecklenburg-Vorpommern,2020-02-19,5,-4.0
+2480,DE,Mecklenburg-Vorpommern,2020-02-20,4,-3.0
+2481,DE,Mecklenburg-Vorpommern,2020-02-21,0,-3.0
+2482,DE,Mecklenburg-Vorpommern,2020-02-22,-2,-5.0
+2483,DE,Mecklenburg-Vorpommern,2020-02-23,-10,-13.0
+2484,DE,Mecklenburg-Vorpommern,2020-02-24,3,0.0
+2485,DE,Mecklenburg-Vorpommern,2020-02-25,3,1.0
+2486,DE,Mecklenburg-Vorpommern,2020-02-26,1,1.0
+2487,DE,Mecklenburg-Vorpommern,2020-02-27,6,5.0
+2488,DE,Mecklenburg-Vorpommern,2020-02-28,4,8.0
+2489,DE,Mecklenburg-Vorpommern,2020-02-29,2,3.0
+2490,DE,Mecklenburg-Vorpommern,2020-03-01,14,15.0
+2491,DE,Mecklenburg-Vorpommern,2020-03-02,7,5.0
+2492,DE,Mecklenburg-Vorpommern,2020-03-03,6,4.0
+2493,DE,Mecklenburg-Vorpommern,2020-03-04,5,4.0
+2494,DE,Mecklenburg-Vorpommern,2020-03-05,7,4.0
+2495,DE,Mecklenburg-Vorpommern,2020-03-06,-1,0.0
+2496,DE,Mecklenburg-Vorpommern,2020-03-07,7,3.0
+2497,DE,Mecklenburg-Vorpommern,2020-03-08,27,25.0
+2498,DE,Mecklenburg-Vorpommern,2020-03-09,7,1.0
+2499,DE,Mecklenburg-Vorpommern,2020-03-10,2,0.0
+2500,DE,Mecklenburg-Vorpommern,2020-03-11,8,4.0
+2501,DE,Mecklenburg-Vorpommern,2020-03-12,0,3.0
+2502,DE,Mecklenburg-Vorpommern,2020-03-13,-2,14.0
+2503,DE,Mecklenburg-Vorpommern,2020-03-14,-3,15.0
+2504,DE,Mecklenburg-Vorpommern,2020-03-15,-5,18.0
+2505,DE,Mecklenburg-Vorpommern,2020-03-16,1,19.0
+2506,DE,Mecklenburg-Vorpommern,2020-03-17,-7,9.0
+2507,DE,Mecklenburg-Vorpommern,2020-03-18,-26,2.0
+2508,DE,Mecklenburg-Vorpommern,2020-03-19,-32,-5.0
+2509,DE,Mecklenburg-Vorpommern,2020-03-20,-41,-10.0
+2510,DE,Mecklenburg-Vorpommern,2020-03-21,-54,-17.0
+2511,DE,Mecklenburg-Vorpommern,2020-03-22,-67,-31.0
+2512,DE,Mecklenburg-Vorpommern,2020-03-23,-35,-13.0
+2513,DE,Mecklenburg-Vorpommern,2020-03-24,-53,-17.0
+2514,DE,Mecklenburg-Vorpommern,2020-03-25,-53,-16.0
+2515,DE,Mecklenburg-Vorpommern,2020-03-26,-51,-15.0
+2516,DE,Mecklenburg-Vorpommern,2020-03-27,-54,-15.0
+2517,DE,Mecklenburg-Vorpommern,2020-03-28,-64,-17.0
+2518,DE,Mecklenburg-Vorpommern,2020-03-29,-74,-48.0
+2519,DE,Mecklenburg-Vorpommern,2020-03-30,-52,-17.0
+2520,DE,Mecklenburg-Vorpommern,2020-03-31,-46,-9.0
+2521,DE,Mecklenburg-Vorpommern,2020-04-01,-50,-13.0
+2522,DE,Mecklenburg-Vorpommern,2020-04-02,-48,-10.0
+2523,DE,Mecklenburg-Vorpommern,2020-04-03,-53,-12.0
+2524,DE,Mecklenburg-Vorpommern,2020-04-04,-63,-14.0
+2525,DE,Mecklenburg-Vorpommern,2020-04-05,-54,-13.0
+2526,DE,Mecklenburg-Vorpommern,2020-04-06,-38,-2.0
+2527,DE,Mecklenburg-Vorpommern,2020-04-07,-38,2.0
+2528,DE,Mecklenburg-Vorpommern,2020-04-08,-37,9.0
+2529,DE,Mecklenburg-Vorpommern,2020-04-09,-36,8.0
+2530,DE,Mecklenburg-Vorpommern,2020-04-10,-82,-92.0
+2531,DE,Mecklenburg-Vorpommern,2020-04-11,-55,3.0
+2532,DE,Mecklenburg-Vorpommern,2020-04-12,-52,-14.0
+2533,DE,Mecklenburg-Vorpommern,2020-04-13,-82,-93.0
+2534,DE,Mecklenburg-Vorpommern,2020-04-14,-40,0.0
+2535,DE,Mecklenburg-Vorpommern,2020-04-15,-44,-11.0
+2536,DE,Mecklenburg-Vorpommern,2020-04-16,-56,-2.0
+2537,DE,Mecklenburg-Vorpommern,2020-04-17,-58,-6.0
+2538,DE,Mecklenburg-Vorpommern,2020-04-18,-60,-11.0
+2539,DE,Mecklenburg-Vorpommern,2020-04-19,-55,-7.0
+2540,DE,Mecklenburg-Vorpommern,2020-04-20,-38,-8.0
+2541,DE,Mecklenburg-Vorpommern,2020-04-21,-41,-5.0
+2542,DE,Mecklenburg-Vorpommern,2020-04-22,-42,-5.0
+2543,DE,Mecklenburg-Vorpommern,2020-04-23,-41,-4.0
+2544,DE,Mecklenburg-Vorpommern,2020-04-24,-46,-7.0
+2545,DE,Mecklenburg-Vorpommern,2020-04-25,-54,-5.0
+2546,DE,Mecklenburg-Vorpommern,2020-04-26,-52,1.0
+2547,DE,Mecklenburg-Vorpommern,2020-04-27,-41,-17.0
+2548,DE,Mecklenburg-Vorpommern,2020-04-28,-42,-10.0
+2549,DE,Mecklenburg-Vorpommern,2020-04-29,-43,1.0
+2550,DE,Mecklenburg-Vorpommern,2020-04-30,-24,19.0
+2551,DE,Mecklenburg-Vorpommern,2020-05-01,-80,-90.0
+2552,DE,Mecklenburg-Vorpommern,2020-05-02,-34,9.0
+2553,DE,Mecklenburg-Vorpommern,2020-05-03,-51,10.0
+2554,DE,Mecklenburg-Vorpommern,2020-05-04,-24,-6.0
+2555,DE,Mecklenburg-Vorpommern,2020-05-05,-29,-6.0
+2556,DE,Mecklenburg-Vorpommern,2020-05-06,-28,-4.0
+2557,DE,Mecklenburg-Vorpommern,2020-05-07,-27,-2.0
+2558,DE,Mecklenburg-Vorpommern,2020-05-08,-29,-5.0
+2559,DE,Mecklenburg-Vorpommern,2020-05-09,-30,-2.0
+2560,DE,Mecklenburg-Vorpommern,2020-05-10,-25,47.0
+2561,DE,Mecklenburg-Vorpommern,2020-05-11,-25,-7.0
+2562,DE,Mecklenburg-Vorpommern,2020-05-12,-25,-5.0
+2563,DE,Mecklenburg-Vorpommern,2020-05-13,-26,-4.0
+2564,DE,Mecklenburg-Vorpommern,2020-05-14,-18,-1.0
+2565,DE,Mecklenburg-Vorpommern,2020-05-15,-25,-4.0
+2566,DE,Mecklenburg-Vorpommern,2020-05-16,-30,-6.0
+2567,DE,Mecklenburg-Vorpommern,2020-05-17,-35,30.0
+2568,DE,Mecklenburg-Vorpommern,2020-05-18,-14,-2.0
+2569,DE,Mecklenburg-Vorpommern,2020-05-19,-10,7.0
+2570,DE,Mecklenburg-Vorpommern,2020-05-20,1,40.0
+2571,DE,Mecklenburg-Vorpommern,2020-05-21,-49,-85.0
+2572,DE,Mecklenburg-Vorpommern,2020-05-22,-18,-2.0
+2573,DE,Mecklenburg-Vorpommern,2020-05-23,-25,-5.0
+2574,DE,Mecklenburg-Vorpommern,2020-05-24,-37,40.0
+2575,DE,Mecklenburg-Vorpommern,2020-05-25,0,10.0
+2576,DE,Mecklenburg-Vorpommern,2020-05-26,5,10.0
+2577,DE,Mecklenburg-Vorpommern,2020-05-27,7,13.0
+2578,DE,Mecklenburg-Vorpommern,2020-05-28,12,19.0
+2579,DE,Mecklenburg-Vorpommern,2020-05-29,7,20.0
+2580,DE,Mecklenburg-Vorpommern,2020-05-30,12,32.0
+2581,DE,Mecklenburg-Vorpommern,2020-05-31,63,186.0
+2582,DE,Mecklenburg-Vorpommern,2020-06-01,-20,-79.0
+2583,DE,Mecklenburg-Vorpommern,2020-06-02,22,34.0
+2584,DE,Mecklenburg-Vorpommern,2020-06-03,15,19.0
+2585,DE,Mecklenburg-Vorpommern,2020-06-04,12,17.0
+2586,DE,Mecklenburg-Vorpommern,2020-06-05,6,13.0
+2587,DE,Mecklenburg-Vorpommern,2020-06-06,2,13.0
+2588,DE,Mecklenburg-Vorpommern,2020-06-07,28,165.0
+2589,DE,Mecklenburg-Vorpommern,2020-06-08,19,12.0
+2590,DE,Mecklenburg-Vorpommern,2020-06-09,19,16.0
+2591,DE,Mecklenburg-Vorpommern,2020-06-10,21,19.0
+2592,DE,Mecklenburg-Vorpommern,2020-06-11,22,19.0
+2593,DE,Mecklenburg-Vorpommern,2020-06-12,11,13.0
+2594,DE,Mecklenburg-Vorpommern,2020-06-13,-1,9.0
+2595,DE,Mecklenburg-Vorpommern,2020-06-14,44,202.0
+2596,DE,Mecklenburg-Vorpommern,2020-06-15,24,16.0
+2597,DE,Mecklenburg-Vorpommern,2020-06-16,26,20.0
+2598,DE,Mecklenburg-Vorpommern,2020-06-17,23,20.0
+2599,DE,Mecklenburg-Vorpommern,2020-06-18,25,21.0
+2600,DE,Mecklenburg-Vorpommern,2020-06-19,9,12.0
+2601,DE,Mecklenburg-Vorpommern,2020-06-20,-2,9.0
+2602,DE,Mecklenburg-Vorpommern,2020-06-21,45,202.0
+2603,DE,Mecklenburg-Vorpommern,2020-06-22,25,14.0
+2604,DE,Mecklenburg-Vorpommern,2020-06-23,26,16.0
+2605,DE,Mecklenburg-Vorpommern,2020-06-24,21,16.0
+2606,DE,Mecklenburg-Vorpommern,2020-06-25,20,15.0
+2607,DE,Mecklenburg-Vorpommern,2020-06-26,4,8.0
+2608,DE,Mecklenburg-Vorpommern,2020-06-27,0,12.0
+2609,DE,Mecklenburg-Vorpommern,2020-06-28,37,217.0
+2610,DE,Mecklenburg-Vorpommern,2020-06-29,28,19.0
+2611,DE,Mecklenburg-Vorpommern,2020-06-30,39,27.0
+2612,DE,Mecklenburg-Vorpommern,2020-07-01,34,21.0
+2613,DE,Mecklenburg-Vorpommern,2020-07-02,29,19.0
+2614,DE,Mecklenburg-Vorpommern,2020-07-03,15,13.0
+2615,DE,Mecklenburg-Vorpommern,2020-07-04,11,18.0
+2616,DE,Mecklenburg-Vorpommern,2020-07-05,50,245.0
+2617,DE,Mecklenburg-Vorpommern,2020-07-06,38,23.0
+2618,DE,Mecklenburg-Vorpommern,2020-07-07,40,23.0
+2619,DE,Mecklenburg-Vorpommern,2020-07-08,39,23.0
+2620,DE,Mecklenburg-Vorpommern,2020-07-09,25,16.0
+2621,DE,Mecklenburg-Vorpommern,2020-07-10,13,12.0
+2622,DE,Mecklenburg-Vorpommern,2020-07-11,13,16.0
+2623,DE,Mecklenburg-Vorpommern,2020-07-12,69,272.0
+2624,DE,Mecklenburg-Vorpommern,2020-07-13,37,20.0
+2625,DE,Mecklenburg-Vorpommern,2020-07-14,33,19.0
+2626,DE,Mecklenburg-Vorpommern,2020-07-15,41,26.0
+2627,DE,Mecklenburg-Vorpommern,2020-07-16,39,21.0
+2628,DE,Mecklenburg-Vorpommern,2020-07-17,19,12.0
+2629,DE,Mecklenburg-Vorpommern,2020-07-18,14,19.0
+2630,DE,Mecklenburg-Vorpommern,2020-07-19,81,297.0
+2631,DE,Mecklenburg-Vorpommern,2020-07-20,53,32.0
+2632,DE,Mecklenburg-Vorpommern,2020-07-21,54,29.0
+2633,DE,Mecklenburg-Vorpommern,2020-07-22,53,27.0
+2634,DE,Mecklenburg-Vorpommern,2020-07-23,43,23.0
+2635,DE,Mecklenburg-Vorpommern,2020-07-24,30,20.0
+2636,DE,Mecklenburg-Vorpommern,2020-07-25,21,22.0
+2637,DE,Mecklenburg-Vorpommern,2020-07-26,75,329.0
+2638,DE,Mecklenburg-Vorpommern,2020-07-27,52,32.0
+2639,DE,Mecklenburg-Vorpommern,2020-07-28,53,31.0
+2640,DE,Mecklenburg-Vorpommern,2020-07-29,63,37.0
+2641,DE,Mecklenburg-Vorpommern,2020-07-30,63,34.0
+2642,DE,Mecklenburg-Vorpommern,2020-07-31,35,26.0
+2643,DE,Mecklenburg-Vorpommern,2020-08-01,22,23.0
+2644,DE,Mecklenburg-Vorpommern,2020-08-02,84,332.0
+2645,DE,Mecklenburg-Vorpommern,2020-08-03,63,38.0
+2646,DE,Mecklenburg-Vorpommern,2020-08-04,60,36.0
+2647,DE,Mecklenburg-Vorpommern,2020-08-05,52,32.0
+2648,DE,Mecklenburg-Vorpommern,2020-08-06,42,28.0
+2649,DE,Mecklenburg-Vorpommern,2020-08-07,26,21.0
+2650,DE,Mecklenburg-Vorpommern,2020-08-08,17,21.0
+2651,DE,Mecklenburg-Vorpommern,2020-08-09,77,286.0
+2652,DE,Mecklenburg-Vorpommern,2020-08-10,43,29.0
+2653,DE,Mecklenburg-Vorpommern,2020-08-11,49,30.0
+2654,DE,Mecklenburg-Vorpommern,2020-08-12,47,29.0
+2655,DE,Mecklenburg-Vorpommern,2020-08-13,43,27.0
+2656,DE,Mecklenburg-Vorpommern,2020-08-14,29,20.0
+2657,DE,Mecklenburg-Vorpommern,2020-08-15,19,21.0
+2658,DE,Mecklenburg-Vorpommern,2020-08-16,76,273.0
+2659,DE,Mecklenburg-Vorpommern,2020-08-17,38,25.0
+2660,DE,Mecklenburg-Vorpommern,2020-08-18,49,29.0
+2661,DE,Mecklenburg-Vorpommern,2020-08-19,47,27.0
+2662,DE,Mecklenburg-Vorpommern,2020-08-20,42,23.0
+2663,DE,Mecklenburg-Vorpommern,2020-08-21,21,15.0
+2664,DE,Mecklenburg-Vorpommern,2020-08-22,22,19.0
+2665,DE,Mecklenburg-Vorpommern,2020-08-23,74,
+2666,DE,Mecklenburg-Vorpommern,2020-08-24,37,20.0
+2667,DE,Mecklenburg-Vorpommern,2020-08-25,41,21.0
+2668,DE,Mecklenburg-Vorpommern,2020-08-26,26,17.0
+2669,DE,Mecklenburg-Vorpommern,2020-08-27,36,18.0
+2670,DE,Mecklenburg-Vorpommern,2020-08-28,22,13.0
+2671,DE,Mecklenburg-Vorpommern,2020-08-29,19,12.0
+2672,DE,Mecklenburg-Vorpommern,2020-08-30,72,
+2673,DE,Mecklenburg-Vorpommern,2020-08-31,40,22.0
+2674,DE,Mecklenburg-Vorpommern,2020-09-01,42,23.0
+2675,DE,Mecklenburg-Vorpommern,2020-09-02,38,22.0
+2676,DE,Mecklenburg-Vorpommern,2020-09-03,37,18.0
+2677,DE,Mecklenburg-Vorpommern,2020-09-04,26,15.0
+2678,DE,Mecklenburg-Vorpommern,2020-09-05,24,16.0
+2679,DE,Mecklenburg-Vorpommern,2020-09-06,75,
+2680,DE,Mecklenburg-Vorpommern,2020-09-07,39,19.0
+2681,DE,Mecklenburg-Vorpommern,2020-09-08,41,20.0
+2682,DE,Mecklenburg-Vorpommern,2020-09-09,35,18.0
+2683,DE,Mecklenburg-Vorpommern,2020-09-10,39,19.0
+2684,DE,Mecklenburg-Vorpommern,2020-09-11,26,14.0
+2685,DE,Mecklenburg-Vorpommern,2020-09-12,27,15.0
+2686,DE,Mecklenburg-Vorpommern,2020-09-13,88,234.0
+2687,DE,Mecklenburg-Vorpommern,2020-09-14,36,16.0
+2688,DE,Mecklenburg-Vorpommern,2020-09-15,39,18.0
+2689,DE,Mecklenburg-Vorpommern,2020-09-16,37,20.0
+2690,DE,Mecklenburg-Vorpommern,2020-09-17,40,19.0
+2691,DE,Mecklenburg-Vorpommern,2020-09-18,24,12.0
+2692,DE,Mecklenburg-Vorpommern,2020-09-19,25,14.0
+2693,DE,Mecklenburg-Vorpommern,2020-09-20,81,218.0
+2694,DE,Mecklenburg-Vorpommern,2020-09-21,34,14.0
+2695,DE,Mecklenburg-Vorpommern,2020-09-22,32,15.0
+2696,DE,Mecklenburg-Vorpommern,2020-09-23,27,15.0
+2697,DE,Mecklenburg-Vorpommern,2020-09-24,27,16.0
+2698,DE,Mecklenburg-Vorpommern,2020-09-25,8,9.0
+2699,DE,Mecklenburg-Vorpommern,2020-09-26,7,7.0
+2700,DE,Mecklenburg-Vorpommern,2020-09-27,12,126.0
+2701,DE,Mecklenburg-Vorpommern,2020-09-28,23,14.0
+2702,DE,Mecklenburg-Vorpommern,2020-09-29,25,15.0
+2703,DE,Mecklenburg-Vorpommern,2020-09-30,26,20.0
+2704,DE,Mecklenburg-Vorpommern,2020-10-01,24,21.0
+2705,DE,Mecklenburg-Vorpommern,2020-10-02,17,33.0
+2706,DE,Mecklenburg-Vorpommern,2020-10-03,-27,-78.0
+2707,DE,Mecklenburg-Vorpommern,2020-10-04,63,221.0
+2708,DE,Mecklenburg-Vorpommern,2020-10-05,29,18.0
+2709,DE,Mecklenburg-Vorpommern,2020-10-06,25,14.0
+2710,DE,Mecklenburg-Vorpommern,2020-10-07,22,12.0
+2711,DE,Mecklenburg-Vorpommern,2020-10-08,15,8.0
+2712,DE,Mecklenburg-Vorpommern,2020-10-09,7,5.0
+2713,DE,Mecklenburg-Vorpommern,2020-10-10,7,4.0
+2714,DE,Mecklenburg-Vorpommern,2020-10-11,35,139.0
+2715,DE,Mecklenburg-Vorpommern,2020-10-12,26,16.0
+2716,DE,Mecklenburg-Vorpommern,2020-10-13,28,18.0
+2717,DE,Mecklenburg-Vorpommern,2020-10-14,16,13.0
+2718,DE,Mecklenburg-Vorpommern,2020-10-15,23,19.0
+2719,DE,Mecklenburg-Vorpommern,2020-10-16,12,13.0
+2720,DE,Mecklenburg-Vorpommern,2020-10-17,11,12.0
+2721,DE,Mecklenburg-Vorpommern,2020-10-18,31,145.0
+2722,DE,Mecklenburg-Vorpommern,2020-10-19,26,19.0
+2723,DE,Mecklenburg-Vorpommern,2020-10-20,25,19.0
+2724,DE,Mecklenburg-Vorpommern,2020-10-21,20,17.0
+2725,DE,Mecklenburg-Vorpommern,2020-10-22,24,17.0
+2726,DE,Mecklenburg-Vorpommern,2020-10-23,10,12.0
+2727,DE,Mecklenburg-Vorpommern,2020-10-24,4,8.0
+2728,DE,Mecklenburg-Vorpommern,2020-10-25,19,123.0
+2729,DE,Mecklenburg-Vorpommern,2020-10-26,7,9.0
+2730,DE,Mecklenburg-Vorpommern,2020-10-27,12,12.0
+2731,DE,Mecklenburg-Vorpommern,2020-10-28,10,13.0
+2732,DE,Mecklenburg-Vorpommern,2020-10-29,14,18.0
+2733,DE,Mecklenburg-Vorpommern,2020-10-30,5,26.0
+2734,DE,Mecklenburg-Vorpommern,2020-10-31,-51,-83.0
+2735,DE,Mecklenburg-Vorpommern,2020-11-01,7,49.0
+2736,DE,Mecklenburg-Vorpommern,2020-11-02,-9,6.0
+2737,DE,Mecklenburg-Vorpommern,2020-11-03,-14,3.0
+2738,DE,Mecklenburg-Vorpommern,2020-11-04,-19,4.0
+2739,DE,Mecklenburg-Vorpommern,2020-11-05,-19,3.0
+2740,DE,Mecklenburg-Vorpommern,2020-11-06,-25,1.0
+2741,DE,Mecklenburg-Vorpommern,2020-11-07,-28,-9.0
+2742,DE,Mecklenburg-Vorpommern,2020-11-08,-46,-2.0
+2743,DE,Mecklenburg-Vorpommern,2020-11-09,-17,-1.0
+2744,DE,Mecklenburg-Vorpommern,2020-11-10,-19,0.0
+2745,DE,Mecklenburg-Vorpommern,2020-11-11,-20,2.0
+2746,DE,Mecklenburg-Vorpommern,2020-11-12,-19,3.0
+2747,DE,Mecklenburg-Vorpommern,2020-11-13,-23,2.0
+2748,DE,Mecklenburg-Vorpommern,2020-11-14,-29,-4.0
+2749,DE,Mecklenburg-Vorpommern,2020-11-15,-40,11.0
+2750,DE,North Rhine-Westphalia,2020-02-15,5,2.0
+2751,DE,North Rhine-Westphalia,2020-02-16,0,2.0
+2752,DE,North Rhine-Westphalia,2020-02-17,1,2.0
+2753,DE,North Rhine-Westphalia,2020-02-18,4,4.0
+2754,DE,North Rhine-Westphalia,2020-02-19,7,7.0
+2755,DE,North Rhine-Westphalia,2020-02-20,5,-4.0
+2756,DE,North Rhine-Westphalia,2020-02-21,0,3.0
+2757,DE,North Rhine-Westphalia,2020-02-22,-5,-3.0
+2758,DE,North Rhine-Westphalia,2020-02-23,-7,-6.0
+2759,DE,North Rhine-Westphalia,2020-02-24,-4,-16.0
+2760,DE,North Rhine-Westphalia,2020-02-25,0,1.0
+2761,DE,North Rhine-Westphalia,2020-02-26,-8,2.0
+2762,DE,North Rhine-Westphalia,2020-02-27,-9,4.0
+2763,DE,North Rhine-Westphalia,2020-02-28,1,14.0
+2764,DE,North Rhine-Westphalia,2020-02-29,-4,6.0
+2765,DE,North Rhine-Westphalia,2020-03-01,3,13.0
+2766,DE,North Rhine-Westphalia,2020-03-02,-2,6.0
+2767,DE,North Rhine-Westphalia,2020-03-03,2,5.0
+2768,DE,North Rhine-Westphalia,2020-03-04,2,2.0
+2769,DE,North Rhine-Westphalia,2020-03-05,-6,-2.0
+2770,DE,North Rhine-Westphalia,2020-03-06,-3,1.0
+2771,DE,North Rhine-Westphalia,2020-03-07,1,-1.0
+2772,DE,North Rhine-Westphalia,2020-03-08,2,13.0
+2773,DE,North Rhine-Westphalia,2020-03-09,-3,1.0
+2774,DE,North Rhine-Westphalia,2020-03-10,-9,-2.0
+2775,DE,North Rhine-Westphalia,2020-03-11,-5,1.0
+2776,DE,North Rhine-Westphalia,2020-03-12,-6,5.0
+2777,DE,North Rhine-Westphalia,2020-03-13,-11,18.0
+2778,DE,North Rhine-Westphalia,2020-03-14,-18,9.0
+2779,DE,North Rhine-Westphalia,2020-03-15,-16,7.0
+2780,DE,North Rhine-Westphalia,2020-03-16,-10,20.0
+2781,DE,North Rhine-Westphalia,2020-03-17,-21,12.0
+2782,DE,North Rhine-Westphalia,2020-03-18,-36,9.0
+2783,DE,North Rhine-Westphalia,2020-03-19,-49,-2.0
+2784,DE,North Rhine-Westphalia,2020-03-20,-56,-1.0
+2785,DE,North Rhine-Westphalia,2020-03-21,-66,-19.0
+2786,DE,North Rhine-Westphalia,2020-03-22,-69,-33.0
+2787,DE,North Rhine-Westphalia,2020-03-23,-56,-14.0
+2788,DE,North Rhine-Westphalia,2020-03-24,-57,-15.0
+2789,DE,North Rhine-Westphalia,2020-03-25,-56,-15.0
+2790,DE,North Rhine-Westphalia,2020-03-26,-57,-13.0
+2791,DE,North Rhine-Westphalia,2020-03-27,-57,-12.0
+2792,DE,North Rhine-Westphalia,2020-03-28,-64,-19.0
+2793,DE,North Rhine-Westphalia,2020-03-29,-77,-51.0
+2794,DE,North Rhine-Westphalia,2020-03-30,-52,-14.0
+2795,DE,North Rhine-Westphalia,2020-03-31,-49,-8.0
+2796,DE,North Rhine-Westphalia,2020-04-01,-48,-9.0
+2797,DE,North Rhine-Westphalia,2020-04-02,-52,-10.0
+2798,DE,North Rhine-Westphalia,2020-04-03,-55,-9.0
+2799,DE,North Rhine-Westphalia,2020-04-04,-60,-14.0
+2800,DE,North Rhine-Westphalia,2020-04-05,-53,-6.0
+2801,DE,North Rhine-Westphalia,2020-04-06,-40,-6.0
+2802,DE,North Rhine-Westphalia,2020-04-07,-42,0.0
+2803,DE,North Rhine-Westphalia,2020-04-08,-39,11.0
+2804,DE,North Rhine-Westphalia,2020-04-09,-37,13.0
+2805,DE,North Rhine-Westphalia,2020-04-10,-78,-91.0
+2806,DE,North Rhine-Westphalia,2020-04-11,-53,1.0
+2807,DE,North Rhine-Westphalia,2020-04-12,-60,-20.0
+2808,DE,North Rhine-Westphalia,2020-04-13,-80,-93.0
+2809,DE,North Rhine-Westphalia,2020-04-14,-42,2.0
+2810,DE,North Rhine-Westphalia,2020-04-15,-41,-7.0
+2811,DE,North Rhine-Westphalia,2020-04-16,-49,-3.0
+2812,DE,North Rhine-Westphalia,2020-04-17,-51,-3.0
+2813,DE,North Rhine-Westphalia,2020-04-18,-63,-14.0
+2814,DE,North Rhine-Westphalia,2020-04-19,-55,-2.0
+2815,DE,North Rhine-Westphalia,2020-04-20,-39,-9.0
+2816,DE,North Rhine-Westphalia,2020-04-21,-43,-6.0
+2817,DE,North Rhine-Westphalia,2020-04-22,-42,-6.0
+2818,DE,North Rhine-Westphalia,2020-04-23,-44,-5.0
+2819,DE,North Rhine-Westphalia,2020-04-24,-47,-4.0
+2820,DE,North Rhine-Westphalia,2020-04-25,-55,-8.0
+2821,DE,North Rhine-Westphalia,2020-04-26,-50,8.0
+2822,DE,North Rhine-Westphalia,2020-04-27,-39,-14.0
+2823,DE,North Rhine-Westphalia,2020-04-28,-46,-11.0
+2824,DE,North Rhine-Westphalia,2020-04-29,-42,3.0
+2825,DE,North Rhine-Westphalia,2020-04-30,-31,19.0
+2826,DE,North Rhine-Westphalia,2020-05-01,-81,-90.0
+2827,DE,North Rhine-Westphalia,2020-05-02,-44,4.0
+2828,DE,North Rhine-Westphalia,2020-05-03,-55,7.0
+2829,DE,North Rhine-Westphalia,2020-05-04,-28,-4.0
+2830,DE,North Rhine-Westphalia,2020-05-05,-31,-3.0
+2831,DE,North Rhine-Westphalia,2020-05-06,-30,-3.0
+2832,DE,North Rhine-Westphalia,2020-05-07,-31,-4.0
+2833,DE,North Rhine-Westphalia,2020-05-08,-33,0.0
+2834,DE,North Rhine-Westphalia,2020-05-09,-40,-1.0
+2835,DE,North Rhine-Westphalia,2020-05-10,-51,9.0
+2836,DE,North Rhine-Westphalia,2020-05-11,-26,-8.0
+2837,DE,North Rhine-Westphalia,2020-05-12,-26,-4.0
+2838,DE,North Rhine-Westphalia,2020-05-13,-25,-5.0
+2839,DE,North Rhine-Westphalia,2020-05-14,-24,-3.0
+2840,DE,North Rhine-Westphalia,2020-05-15,-24,-2.0
+2841,DE,North Rhine-Westphalia,2020-05-16,-34,-6.0
+2842,DE,North Rhine-Westphalia,2020-05-17,-33,18.0
+2843,DE,North Rhine-Westphalia,2020-05-18,-15,-4.0
+2844,DE,North Rhine-Westphalia,2020-05-19,-16,2.0
+2845,DE,North Rhine-Westphalia,2020-05-20,-6,34.0
+2846,DE,North Rhine-Westphalia,2020-05-21,-57,-87.0
+2847,DE,North Rhine-Westphalia,2020-05-22,-19,3.0
+2848,DE,North Rhine-Westphalia,2020-05-23,-33,-8.0
+2849,DE,North Rhine-Westphalia,2020-05-24,-46,-6.0
+2850,DE,North Rhine-Westphalia,2020-05-25,-16,-4.0
+2851,DE,North Rhine-Westphalia,2020-05-26,-16,-4.0
+2852,DE,North Rhine-Westphalia,2020-05-27,-15,-3.0
+2853,DE,North Rhine-Westphalia,2020-05-28,-15,2.0
+2854,DE,North Rhine-Westphalia,2020-05-29,-14,7.0
+2855,DE,North Rhine-Westphalia,2020-05-30,-25,4.0
+2856,DE,North Rhine-Westphalia,2020-05-31,-23,21.0
+2857,DE,North Rhine-Westphalia,2020-06-01,-51,-88.0
+2858,DE,North Rhine-Westphalia,2020-06-02,-7,15.0
+2859,DE,North Rhine-Westphalia,2020-06-03,-10,2.0
+2860,DE,North Rhine-Westphalia,2020-06-04,-22,-3.0
+2861,DE,North Rhine-Westphalia,2020-06-05,-24,-5.0
+2862,DE,North Rhine-Westphalia,2020-06-06,-24,-3.0
+2863,DE,North Rhine-Westphalia,2020-06-07,-31,5.0
+2864,DE,North Rhine-Westphalia,2020-06-08,-10,-5.0
+2865,DE,North Rhine-Westphalia,2020-06-09,-11,0.0
+2866,DE,North Rhine-Westphalia,2020-06-10,-2,27.0
+2867,DE,North Rhine-Westphalia,2020-06-11,-56,-88.0
+2868,DE,North Rhine-Westphalia,2020-06-12,-7,7.0
+2869,DE,North Rhine-Westphalia,2020-06-13,-27,-9.0
+2870,DE,North Rhine-Westphalia,2020-06-14,-36,-5.0
+2871,DE,North Rhine-Westphalia,2020-06-15,-10,-2.0
+2872,DE,North Rhine-Westphalia,2020-06-16,-12,-1.0
+2873,DE,North Rhine-Westphalia,2020-06-17,-10,-2.0
+2874,DE,North Rhine-Westphalia,2020-06-18,-12,-3.0
+2875,DE,North Rhine-Westphalia,2020-06-19,-11,0.0
+2876,DE,North Rhine-Westphalia,2020-06-20,-21,-4.0
+2877,DE,North Rhine-Westphalia,2020-06-21,-14,22.0
+2878,DE,North Rhine-Westphalia,2020-06-22,-7,-3.0
+2879,DE,North Rhine-Westphalia,2020-06-23,-7,0.0
+2880,DE,North Rhine-Westphalia,2020-06-24,-8,0.0
+2881,DE,North Rhine-Westphalia,2020-06-25,-13,-2.0
+2882,DE,North Rhine-Westphalia,2020-06-26,-15,-2.0
+2883,DE,North Rhine-Westphalia,2020-06-27,-25,-6.0
+2884,DE,North Rhine-Westphalia,2020-06-28,-24,12.0
+2885,DE,North Rhine-Westphalia,2020-06-29,-5,-2.0
+2886,DE,North Rhine-Westphalia,2020-06-30,-3,2.0
+2887,DE,North Rhine-Westphalia,2020-07-01,-9,-3.0
+2888,DE,North Rhine-Westphalia,2020-07-02,-9,-4.0
+2889,DE,North Rhine-Westphalia,2020-07-03,-9,-2.0
+2890,DE,North Rhine-Westphalia,2020-07-04,-21,-8.0
+2891,DE,North Rhine-Westphalia,2020-07-05,-23,10.0
+2892,DE,North Rhine-Westphalia,2020-07-06,-9,-6.0
+2893,DE,North Rhine-Westphalia,2020-07-07,-6,-5.0
+2894,DE,North Rhine-Westphalia,2020-07-08,-12,-7.0
+2895,DE,North Rhine-Westphalia,2020-07-09,-13,-7.0
+2896,DE,North Rhine-Westphalia,2020-07-10,-16,-5.0
+2897,DE,North Rhine-Westphalia,2020-07-11,-21,-10.0
+2898,DE,North Rhine-Westphalia,2020-07-12,-5,36.0
+2899,DE,North Rhine-Westphalia,2020-07-13,-6,-7.0
+2900,DE,North Rhine-Westphalia,2020-07-14,-10,-6.0
+2901,DE,North Rhine-Westphalia,2020-07-15,-4,-4.0
+2902,DE,North Rhine-Westphalia,2020-07-16,-14,-7.0
+2903,DE,North Rhine-Westphalia,2020-07-17,-12,-5.0
+2904,DE,North Rhine-Westphalia,2020-07-18,-23,-11.0
+2905,DE,North Rhine-Westphalia,2020-07-19,-6,24.0
+2906,DE,North Rhine-Westphalia,2020-07-20,-7,-6.0
+2907,DE,North Rhine-Westphalia,2020-07-21,-4,-6.0
+2908,DE,North Rhine-Westphalia,2020-07-22,-4,-7.0
+2909,DE,North Rhine-Westphalia,2020-07-23,-9,-8.0
+2910,DE,North Rhine-Westphalia,2020-07-24,-15,-7.0
+2911,DE,North Rhine-Westphalia,2020-07-25,-24,-11.0
+2912,DE,North Rhine-Westphalia,2020-07-26,-13,16.0
+2913,DE,North Rhine-Westphalia,2020-07-27,-9,-7.0
+2914,DE,North Rhine-Westphalia,2020-07-28,-7,-6.0
+2915,DE,North Rhine-Westphalia,2020-07-29,-1,-5.0
+2916,DE,North Rhine-Westphalia,2020-07-30,-4,-3.0
+2917,DE,North Rhine-Westphalia,2020-07-31,-14,-4.0
+2918,DE,North Rhine-Westphalia,2020-08-01,-23,-10.0
+2919,DE,North Rhine-Westphalia,2020-08-02,-6,25.0
+2920,DE,North Rhine-Westphalia,2020-08-03,2,-1.0
+2921,DE,North Rhine-Westphalia,2020-08-04,4,0.0
+2922,DE,North Rhine-Westphalia,2020-08-05,1,-2.0
+2923,DE,North Rhine-Westphalia,2020-08-06,-8,-3.0
+2924,DE,North Rhine-Westphalia,2020-08-07,-14,-4.0
+2925,DE,North Rhine-Westphalia,2020-08-08,-28,-10.0
+2926,DE,North Rhine-Westphalia,2020-08-09,-18,19.0
+2927,DE,North Rhine-Westphalia,2020-08-10,-5,-1.0
+2928,DE,North Rhine-Westphalia,2020-08-11,-5,1.0
+2929,DE,North Rhine-Westphalia,2020-08-12,-3,2.0
+2930,DE,North Rhine-Westphalia,2020-08-13,-9,-2.0
+2931,DE,North Rhine-Westphalia,2020-08-14,-8,1.0
+2932,DE,North Rhine-Westphalia,2020-08-15,-18,-6.0
+2933,DE,North Rhine-Westphalia,2020-08-16,-7,23.0
+2934,DE,North Rhine-Westphalia,2020-08-17,-7,-1.0
+2935,DE,North Rhine-Westphalia,2020-08-18,-5,-1.0
+2936,DE,North Rhine-Westphalia,2020-08-19,-3,-1.0
+2937,DE,North Rhine-Westphalia,2020-08-20,-11,-5.0
+2938,DE,North Rhine-Westphalia,2020-08-21,-12,-3.0
+2939,DE,North Rhine-Westphalia,2020-08-22,-18,-7.0
+2940,DE,North Rhine-Westphalia,2020-08-23,-13,22.0
+2941,DE,North Rhine-Westphalia,2020-08-24,-10,-4.0
+2942,DE,North Rhine-Westphalia,2020-08-25,-10,-3.0
+2943,DE,North Rhine-Westphalia,2020-08-26,-15,-7.0
+2944,DE,North Rhine-Westphalia,2020-08-27,-8,-3.0
+2945,DE,North Rhine-Westphalia,2020-08-28,-6,0.0
+2946,DE,North Rhine-Westphalia,2020-08-29,-12,-5.0
+2947,DE,North Rhine-Westphalia,2020-08-30,-3,25.0
+2948,DE,North Rhine-Westphalia,2020-08-31,-2,0.0
+2949,DE,North Rhine-Westphalia,2020-09-01,-2,1.0
+2950,DE,North Rhine-Westphalia,2020-09-02,1,-1.0
+2951,DE,North Rhine-Westphalia,2020-09-03,-13,-5.0
+2952,DE,North Rhine-Westphalia,2020-09-04,-8,-2.0
+2953,DE,North Rhine-Westphalia,2020-09-05,-13,-7.0
+2954,DE,North Rhine-Westphalia,2020-09-06,2,37.0
+2955,DE,North Rhine-Westphalia,2020-09-07,-4,-4.0
+2956,DE,North Rhine-Westphalia,2020-09-08,-6,-3.0
+2957,DE,North Rhine-Westphalia,2020-09-09,-5,-3.0
+2958,DE,North Rhine-Westphalia,2020-09-10,-5,-3.0
+2959,DE,North Rhine-Westphalia,2020-09-11,-5,-2.0
+2960,DE,North Rhine-Westphalia,2020-09-12,-11,-6.0
+2961,DE,North Rhine-Westphalia,2020-09-13,13,51.0
+2962,DE,North Rhine-Westphalia,2020-09-14,-7,-5.0
+2963,DE,North Rhine-Westphalia,2020-09-15,-6,-3.0
+2964,DE,North Rhine-Westphalia,2020-09-16,-5,-3.0
+2965,DE,North Rhine-Westphalia,2020-09-17,-8,-4.0
+2966,DE,North Rhine-Westphalia,2020-09-18,-8,-2.0
+2967,DE,North Rhine-Westphalia,2020-09-19,-13,-8.0
+2968,DE,North Rhine-Westphalia,2020-09-20,8,40.0
+2969,DE,North Rhine-Westphalia,2020-09-21,-7,-4.0
+2970,DE,North Rhine-Westphalia,2020-09-22,-7,-2.0
+2971,DE,North Rhine-Westphalia,2020-09-23,-9,-1.0
+2972,DE,North Rhine-Westphalia,2020-09-24,-14,-2.0
+2973,DE,North Rhine-Westphalia,2020-09-25,-13,1.0
+2974,DE,North Rhine-Westphalia,2020-09-26,-21,-6.0
+2975,DE,North Rhine-Westphalia,2020-09-27,-17,10.0
+2976,DE,North Rhine-Westphalia,2020-09-28,-13,-1.0
+2977,DE,North Rhine-Westphalia,2020-09-29,-14,0.0
+2978,DE,North Rhine-Westphalia,2020-09-30,-3,7.0
+2979,DE,North Rhine-Westphalia,2020-10-01,-10,7.0
+2980,DE,North Rhine-Westphalia,2020-10-02,-2,31.0
+2981,DE,North Rhine-Westphalia,2020-10-03,-59,-89.0
+2982,DE,North Rhine-Westphalia,2020-10-04,-13,25.0
+2983,DE,North Rhine-Westphalia,2020-10-05,-6,9.0
+2984,DE,North Rhine-Westphalia,2020-10-06,-9,5.0
+2985,DE,North Rhine-Westphalia,2020-10-07,-9,2.0
+2986,DE,North Rhine-Westphalia,2020-10-08,-16,0.0
+2987,DE,North Rhine-Westphalia,2020-10-09,-11,4.0
+2988,DE,North Rhine-Westphalia,2020-10-10,-17,-6.0
+2989,DE,North Rhine-Westphalia,2020-10-11,-19,18.0
+2990,DE,North Rhine-Westphalia,2020-10-12,-9,-3.0
+2991,DE,North Rhine-Westphalia,2020-10-13,-8,-2.0
+2992,DE,North Rhine-Westphalia,2020-10-14,-9,-2.0
+2993,DE,North Rhine-Westphalia,2020-10-15,-15,-1.0
+2994,DE,North Rhine-Westphalia,2020-10-16,-16,1.0
+2995,DE,North Rhine-Westphalia,2020-10-17,-24,-6.0
+2996,DE,North Rhine-Westphalia,2020-10-18,-25,9.0
+2997,DE,North Rhine-Westphalia,2020-10-19,-11,-1.0
+2998,DE,North Rhine-Westphalia,2020-10-20,-17,-3.0
+2999,DE,North Rhine-Westphalia,2020-10-21,-11,-1.0
+3000,DE,North Rhine-Westphalia,2020-10-22,-15,-2.0
+3001,DE,North Rhine-Westphalia,2020-10-23,-20,-1.0
+3002,DE,North Rhine-Westphalia,2020-10-24,-26,-5.0
+3003,DE,North Rhine-Westphalia,2020-10-25,-37,-2.0
+3004,DE,North Rhine-Westphalia,2020-10-26,-17,0.0
+3005,DE,North Rhine-Westphalia,2020-10-27,-16,2.0
+3006,DE,North Rhine-Westphalia,2020-10-28,-14,2.0
+3007,DE,North Rhine-Westphalia,2020-10-29,-16,3.0
+3008,DE,North Rhine-Westphalia,2020-10-30,-13,10.0
+3009,DE,North Rhine-Westphalia,2020-10-31,-17,0.0
+3010,DE,North Rhine-Westphalia,2020-11-01,-29,-2.0
+3011,DE,North Rhine-Westphalia,2020-11-02,-28,-4.0
+3012,DE,North Rhine-Westphalia,2020-11-03,-27,2.0
+3013,DE,North Rhine-Westphalia,2020-11-04,-26,0.0
+3014,DE,North Rhine-Westphalia,2020-11-05,-29,1.0
+3015,DE,North Rhine-Westphalia,2020-11-06,-29,4.0
+3016,DE,North Rhine-Westphalia,2020-11-07,-34,-2.0
+3017,DE,North Rhine-Westphalia,2020-11-08,-45,3.0
+3018,DE,North Rhine-Westphalia,2020-11-09,-24,-1.0
+3019,DE,North Rhine-Westphalia,2020-11-10,-24,2.0
+3020,DE,North Rhine-Westphalia,2020-11-11,-26,1.0
+3021,DE,North Rhine-Westphalia,2020-11-12,-30,0.0
+3022,DE,North Rhine-Westphalia,2020-11-13,-29,5.0
+3023,DE,North Rhine-Westphalia,2020-11-14,-32,0.0
+3024,DE,North Rhine-Westphalia,2020-11-15,-51,-5.0
+3025,DE,Rhineland-Palatinate,2020-02-15,2,0.0
+3026,DE,Rhineland-Palatinate,2020-02-16,16,19.0
+3027,DE,Rhineland-Palatinate,2020-02-17,0,-1.0
+3028,DE,Rhineland-Palatinate,2020-02-18,2,-1.0
+3029,DE,Rhineland-Palatinate,2020-02-19,4,0.0
+3030,DE,Rhineland-Palatinate,2020-02-20,1,-7.0
+3031,DE,Rhineland-Palatinate,2020-02-21,-2,0.0
+3032,DE,Rhineland-Palatinate,2020-02-22,-3,-2.0
+3033,DE,Rhineland-Palatinate,2020-02-23,9,30.0
+3034,DE,Rhineland-Palatinate,2020-02-24,6,-9.0
+3035,DE,Rhineland-Palatinate,2020-02-25,-1,-2.0
+3036,DE,Rhineland-Palatinate,2020-02-26,-4,1.0
+3037,DE,Rhineland-Palatinate,2020-02-27,-14,-2.0
+3038,DE,Rhineland-Palatinate,2020-02-28,1,14.0
+3039,DE,Rhineland-Palatinate,2020-02-29,-2,7.0
+3040,DE,Rhineland-Palatinate,2020-03-01,10,16.0
+3041,DE,Rhineland-Palatinate,2020-03-02,-1,9.0
+3042,DE,Rhineland-Palatinate,2020-03-03,1,6.0
+3043,DE,Rhineland-Palatinate,2020-03-04,2,3.0
+3044,DE,Rhineland-Palatinate,2020-03-05,-7,-2.0
+3045,DE,Rhineland-Palatinate,2020-03-06,-2,2.0
+3046,DE,Rhineland-Palatinate,2020-03-07,3,1.0
+3047,DE,Rhineland-Palatinate,2020-03-08,21,38.0
+3048,DE,Rhineland-Palatinate,2020-03-09,0,3.0
+3049,DE,Rhineland-Palatinate,2020-03-10,-6,0.0
+3050,DE,Rhineland-Palatinate,2020-03-11,-1,2.0
+3051,DE,Rhineland-Palatinate,2020-03-12,-6,7.0
+3052,DE,Rhineland-Palatinate,2020-03-13,-8,21.0
+3053,DE,Rhineland-Palatinate,2020-03-14,-17,10.0
+3054,DE,Rhineland-Palatinate,2020-03-15,3,27.0
+3055,DE,Rhineland-Palatinate,2020-03-16,-7,20.0
+3056,DE,Rhineland-Palatinate,2020-03-17,-17,12.0
+3057,DE,Rhineland-Palatinate,2020-03-18,-33,5.0
+3058,DE,Rhineland-Palatinate,2020-03-19,-42,-2.0
+3059,DE,Rhineland-Palatinate,2020-03-20,-47,0.0
+3060,DE,Rhineland-Palatinate,2020-03-21,-69,-25.0
+3061,DE,Rhineland-Palatinate,2020-03-22,-70,-28.0
+3062,DE,Rhineland-Palatinate,2020-03-23,-54,-17.0
+3063,DE,Rhineland-Palatinate,2020-03-24,-56,-19.0
+3064,DE,Rhineland-Palatinate,2020-03-25,-55,-20.0
+3065,DE,Rhineland-Palatinate,2020-03-26,-56,-17.0
+3066,DE,Rhineland-Palatinate,2020-03-27,-55,-15.0
+3067,DE,Rhineland-Palatinate,2020-03-28,-62,-22.0
+3068,DE,Rhineland-Palatinate,2020-03-29,-74,-40.0
+3069,DE,Rhineland-Palatinate,2020-03-30,-48,-15.0
+3070,DE,Rhineland-Palatinate,2020-03-31,-48,-12.0
+3071,DE,Rhineland-Palatinate,2020-04-01,-47,-14.0
+3072,DE,Rhineland-Palatinate,2020-04-02,-48,-11.0
+3073,DE,Rhineland-Palatinate,2020-04-03,-52,-11.0
+3074,DE,Rhineland-Palatinate,2020-04-04,-59,-17.0
+3075,DE,Rhineland-Palatinate,2020-04-05,-56,-3.0
+3076,DE,Rhineland-Palatinate,2020-04-06,-38,-7.0
+3077,DE,Rhineland-Palatinate,2020-04-07,-40,-3.0
+3078,DE,Rhineland-Palatinate,2020-04-08,-37,10.0
+3079,DE,Rhineland-Palatinate,2020-04-09,-36,14.0
+3080,DE,Rhineland-Palatinate,2020-04-10,-79,-92.0
+3081,DE,Rhineland-Palatinate,2020-04-11,-51,1.0
+3082,DE,Rhineland-Palatinate,2020-04-12,-63,-19.0
+3083,DE,Rhineland-Palatinate,2020-04-13,-81,-94.0
+3084,DE,Rhineland-Palatinate,2020-04-14,-38,2.0
+3085,DE,Rhineland-Palatinate,2020-04-15,-39,-9.0
+3086,DE,Rhineland-Palatinate,2020-04-16,-47,-4.0
+3087,DE,Rhineland-Palatinate,2020-04-17,-50,-5.0
+3088,DE,Rhineland-Palatinate,2020-04-18,-61,-13.0
+3089,DE,Rhineland-Palatinate,2020-04-19,-57,3.0
+3090,DE,Rhineland-Palatinate,2020-04-20,-38,-8.0
+3091,DE,Rhineland-Palatinate,2020-04-21,-41,-7.0
+3092,DE,Rhineland-Palatinate,2020-04-22,-40,-7.0
+3093,DE,Rhineland-Palatinate,2020-04-23,-42,-4.0
+3094,DE,Rhineland-Palatinate,2020-04-24,-45,-4.0
+3095,DE,Rhineland-Palatinate,2020-04-25,-51,-7.0
+3096,DE,Rhineland-Palatinate,2020-04-26,-44,21.0
+3097,DE,Rhineland-Palatinate,2020-04-27,-38,-13.0
+3098,DE,Rhineland-Palatinate,2020-04-28,-44,-10.0
+3099,DE,Rhineland-Palatinate,2020-04-29,-40,3.0
+3100,DE,Rhineland-Palatinate,2020-04-30,-30,20.0
+3101,DE,Rhineland-Palatinate,2020-05-01,-81,-92.0
+3102,DE,Rhineland-Palatinate,2020-05-02,-40,5.0
+3103,DE,Rhineland-Palatinate,2020-05-03,-47,19.0
+3104,DE,Rhineland-Palatinate,2020-05-04,-26,-5.0
+3105,DE,Rhineland-Palatinate,2020-05-05,-28,-6.0
+3106,DE,Rhineland-Palatinate,2020-05-06,-27,-4.0
+3107,DE,Rhineland-Palatinate,2020-05-07,-27,-4.0
+3108,DE,Rhineland-Palatinate,2020-05-08,-29,0.0
+3109,DE,Rhineland-Palatinate,2020-05-09,-36,1.0
+3110,DE,Rhineland-Palatinate,2020-05-10,-45,14.0
+3111,DE,Rhineland-Palatinate,2020-05-11,-35,-15.0
+3112,DE,Rhineland-Palatinate,2020-05-12,-26,-4.0
+3113,DE,Rhineland-Palatinate,2020-05-13,-24,-6.0
+3114,DE,Rhineland-Palatinate,2020-05-14,-25,-4.0
+3115,DE,Rhineland-Palatinate,2020-05-15,-23,-1.0
+3116,DE,Rhineland-Palatinate,2020-05-16,-28,-4.0
+3117,DE,Rhineland-Palatinate,2020-05-17,-19,30.0
+3118,DE,Rhineland-Palatinate,2020-05-18,-12,-3.0
+3119,DE,Rhineland-Palatinate,2020-05-19,-13,4.0
+3120,DE,Rhineland-Palatinate,2020-05-20,-2,39.0
+3121,DE,Rhineland-Palatinate,2020-05-21,-47,-87.0
+3122,DE,Rhineland-Palatinate,2020-05-22,-11,7.0
+3123,DE,Rhineland-Palatinate,2020-05-23,-31,-6.0
+3124,DE,Rhineland-Palatinate,2020-05-24,-24,17.0
+3125,DE,Rhineland-Palatinate,2020-05-25,-13,-2.0
+3126,DE,Rhineland-Palatinate,2020-05-26,-14,-3.0
+3127,DE,Rhineland-Palatinate,2020-05-27,-12,-2.0
+3128,DE,Rhineland-Palatinate,2020-05-28,-13,3.0
+3129,DE,Rhineland-Palatinate,2020-05-29,-11,10.0
+3130,DE,Rhineland-Palatinate,2020-05-30,-16,10.0
+3131,DE,Rhineland-Palatinate,2020-05-31,0,44.0
+3132,DE,Rhineland-Palatinate,2020-06-01,-38,-87.0
+3133,DE,Rhineland-Palatinate,2020-06-02,-3,18.0
+3134,DE,Rhineland-Palatinate,2020-06-03,-10,2.0
+3135,DE,Rhineland-Palatinate,2020-06-04,-18,0.0
+3136,DE,Rhineland-Palatinate,2020-06-05,-21,-1.0
+3137,DE,Rhineland-Palatinate,2020-06-06,-22,-2.0
+3138,DE,Rhineland-Palatinate,2020-06-07,-18,17.0
+3139,DE,Rhineland-Palatinate,2020-06-08,-7,-3.0
+3140,DE,Rhineland-Palatinate,2020-06-09,-10,1.0
+3141,DE,Rhineland-Palatinate,2020-06-10,0,32.0
+3142,DE,Rhineland-Palatinate,2020-06-11,-47,-89.0
+3143,DE,Rhineland-Palatinate,2020-06-12,1,10.0
+3144,DE,Rhineland-Palatinate,2020-06-13,-16,-5.0
+3145,DE,Rhineland-Palatinate,2020-06-14,-23,9.0
+3146,DE,Rhineland-Palatinate,2020-06-15,-7,-1.0
+3147,DE,Rhineland-Palatinate,2020-06-16,-9,0.0
+3148,DE,Rhineland-Palatinate,2020-06-17,-11,-4.0
+3149,DE,Rhineland-Palatinate,2020-06-18,-7,-1.0
+3150,DE,Rhineland-Palatinate,2020-06-19,-9,1.0
+3151,DE,Rhineland-Palatinate,2020-06-20,-15,-2.0
+3152,DE,Rhineland-Palatinate,2020-06-21,8,46.0
+3153,DE,Rhineland-Palatinate,2020-06-22,-2,-2.0
+3154,DE,Rhineland-Palatinate,2020-06-23,-2,1.0
+3155,DE,Rhineland-Palatinate,2020-06-24,-3,0.0
+3156,DE,Rhineland-Palatinate,2020-06-25,-7,0.0
+3157,DE,Rhineland-Palatinate,2020-06-26,-12,-1.0
+3158,DE,Rhineland-Palatinate,2020-06-27,-14,-1.0
+3159,DE,Rhineland-Palatinate,2020-06-28,-6,25.0
+3160,DE,Rhineland-Palatinate,2020-06-29,0,1.0
+3161,DE,Rhineland-Palatinate,2020-06-30,4,6.0
+3162,DE,Rhineland-Palatinate,2020-07-01,4,2.0
+3163,DE,Rhineland-Palatinate,2020-07-02,0,3.0
+3164,DE,Rhineland-Palatinate,2020-07-03,2,5.0
+3165,DE,Rhineland-Palatinate,2020-07-04,-9,-2.0
+3166,DE,Rhineland-Palatinate,2020-07-05,5,19.0
+3167,DE,Rhineland-Palatinate,2020-07-06,2,1.0
+3168,DE,Rhineland-Palatinate,2020-07-07,3,0.0
+3169,DE,Rhineland-Palatinate,2020-07-08,-2,-3.0
+3170,DE,Rhineland-Palatinate,2020-07-09,-3,-4.0
+3171,DE,Rhineland-Palatinate,2020-07-10,-7,0.0
+3172,DE,Rhineland-Palatinate,2020-07-11,-9,-4.0
+3173,DE,Rhineland-Palatinate,2020-07-12,19,34.0
+3174,DE,Rhineland-Palatinate,2020-07-13,1,-2.0
+3175,DE,Rhineland-Palatinate,2020-07-14,0,-2.0
+3176,DE,Rhineland-Palatinate,2020-07-15,0,-2.0
+3177,DE,Rhineland-Palatinate,2020-07-16,-6,-2.0
+3178,DE,Rhineland-Palatinate,2020-07-17,-4,-2.0
+3179,DE,Rhineland-Palatinate,2020-07-18,-10,-5.0
+3180,DE,Rhineland-Palatinate,2020-07-19,19,39.0
+3181,DE,Rhineland-Palatinate,2020-07-20,3,1.0
+3182,DE,Rhineland-Palatinate,2020-07-21,6,-1.0
+3183,DE,Rhineland-Palatinate,2020-07-22,6,-1.0
+3184,DE,Rhineland-Palatinate,2020-07-23,1,-1.0
+3185,DE,Rhineland-Palatinate,2020-07-24,-4,0.0
+3186,DE,Rhineland-Palatinate,2020-07-25,-11,-5.0
+3187,DE,Rhineland-Palatinate,2020-07-26,8,22.0
+3188,DE,Rhineland-Palatinate,2020-07-27,4,0.0
+3189,DE,Rhineland-Palatinate,2020-07-28,4,0.0
+3190,DE,Rhineland-Palatinate,2020-07-29,8,0.0
+3191,DE,Rhineland-Palatinate,2020-07-30,3,2.0
+3192,DE,Rhineland-Palatinate,2020-07-31,-5,1.0
+3193,DE,Rhineland-Palatinate,2020-08-01,-13,-4.0
+3194,DE,Rhineland-Palatinate,2020-08-02,17,32.0
+3195,DE,Rhineland-Palatinate,2020-08-03,9,2.0
+3196,DE,Rhineland-Palatinate,2020-08-04,12,1.0
+3197,DE,Rhineland-Palatinate,2020-08-05,10,-1.0
+3198,DE,Rhineland-Palatinate,2020-08-06,2,-1.0
+3199,DE,Rhineland-Palatinate,2020-08-07,-6,-3.0
+3200,DE,Rhineland-Palatinate,2020-08-08,-17,-7.0
+3201,DE,Rhineland-Palatinate,2020-08-09,-1,17.0
+3202,DE,Rhineland-Palatinate,2020-08-10,3,2.0
+3203,DE,Rhineland-Palatinate,2020-08-11,0,-1.0
+3204,DE,Rhineland-Palatinate,2020-08-12,1,-2.0
+3205,DE,Rhineland-Palatinate,2020-08-13,4,1.0
+3206,DE,Rhineland-Palatinate,2020-08-14,1,1.0
+3207,DE,Rhineland-Palatinate,2020-08-15,-4,-1.0
+3208,DE,Rhineland-Palatinate,2020-08-16,16,34.0
+3209,DE,Rhineland-Palatinate,2020-08-17,7,6.0
+3210,DE,Rhineland-Palatinate,2020-08-18,4,2.0
+3211,DE,Rhineland-Palatinate,2020-08-19,7,2.0
+3212,DE,Rhineland-Palatinate,2020-08-20,-2,-2.0
+3213,DE,Rhineland-Palatinate,2020-08-21,-4,-1.0
+3214,DE,Rhineland-Palatinate,2020-08-22,-6,-3.0
+3215,DE,Rhineland-Palatinate,2020-08-23,19,
+3216,DE,Rhineland-Palatinate,2020-08-24,1,0.0
+3217,DE,Rhineland-Palatinate,2020-08-25,2,0.0
+3218,DE,Rhineland-Palatinate,2020-08-26,0,-2.0
+3219,DE,Rhineland-Palatinate,2020-08-27,2,-1.0
+3220,DE,Rhineland-Palatinate,2020-08-28,1,2.0
+3221,DE,Rhineland-Palatinate,2020-08-29,-2,-3.0
+3222,DE,Rhineland-Palatinate,2020-08-30,11,
+3223,DE,Rhineland-Palatinate,2020-08-31,4,2.0
+3224,DE,Rhineland-Palatinate,2020-09-01,5,2.0
+3225,DE,Rhineland-Palatinate,2020-09-02,8,0.0
+3226,DE,Rhineland-Palatinate,2020-09-03,2,0.0
+3227,DE,Rhineland-Palatinate,2020-09-04,4,-1.0
+3228,DE,Rhineland-Palatinate,2020-09-05,0,-3.0
+3229,DE,Rhineland-Palatinate,2020-09-06,28,
+3230,DE,Rhineland-Palatinate,2020-09-07,7,0.0
+3231,DE,Rhineland-Palatinate,2020-09-08,7,0.0
+3232,DE,Rhineland-Palatinate,2020-09-09,6,-2.0
+3233,DE,Rhineland-Palatinate,2020-09-10,3,0.0
+3234,DE,Rhineland-Palatinate,2020-09-11,5,1.0
+3235,DE,Rhineland-Palatinate,2020-09-12,3,-3.0
+3236,DE,Rhineland-Palatinate,2020-09-13,38,49.0
+3237,DE,Rhineland-Palatinate,2020-09-14,4,-1.0
+3238,DE,Rhineland-Palatinate,2020-09-15,4,0.0
+3239,DE,Rhineland-Palatinate,2020-09-16,5,-1.0
+3240,DE,Rhineland-Palatinate,2020-09-17,3,0.0
+3241,DE,Rhineland-Palatinate,2020-09-18,3,-1.0
+3242,DE,Rhineland-Palatinate,2020-09-19,2,-4.0
+3243,DE,Rhineland-Palatinate,2020-09-20,36,46.0
+3244,DE,Rhineland-Palatinate,2020-09-21,4,0.0
+3245,DE,Rhineland-Palatinate,2020-09-22,3,-1.0
+3246,DE,Rhineland-Palatinate,2020-09-23,1,1.0
+3247,DE,Rhineland-Palatinate,2020-09-24,-5,1.0
+3248,DE,Rhineland-Palatinate,2020-09-25,-6,2.0
+3249,DE,Rhineland-Palatinate,2020-09-26,-11,-2.0
+3250,DE,Rhineland-Palatinate,2020-09-27,-7,4.0
+3251,DE,Rhineland-Palatinate,2020-09-28,-3,3.0
+3252,DE,Rhineland-Palatinate,2020-09-29,-5,3.0
+3253,DE,Rhineland-Palatinate,2020-09-30,4,7.0
+3254,DE,Rhineland-Palatinate,2020-10-01,-4,10.0
+3255,DE,Rhineland-Palatinate,2020-10-02,5,33.0
+3256,DE,Rhineland-Palatinate,2020-10-03,-48,-89.0
+3257,DE,Rhineland-Palatinate,2020-10-04,5,26.0
+3258,DE,Rhineland-Palatinate,2020-10-05,0,13.0
+3259,DE,Rhineland-Palatinate,2020-10-06,-4,6.0
+3260,DE,Rhineland-Palatinate,2020-10-07,-1,3.0
+3261,DE,Rhineland-Palatinate,2020-10-08,-6,4.0
+3262,DE,Rhineland-Palatinate,2020-10-09,-7,3.0
+3263,DE,Rhineland-Palatinate,2020-10-10,-5,-3.0
+3264,DE,Rhineland-Palatinate,2020-10-11,7,28.0
+3265,DE,Rhineland-Palatinate,2020-10-12,-3,0.0
+3266,DE,Rhineland-Palatinate,2020-10-13,-2,0.0
+3267,DE,Rhineland-Palatinate,2020-10-14,-2,0.0
+3268,DE,Rhineland-Palatinate,2020-10-15,-7,3.0
+3269,DE,Rhineland-Palatinate,2020-10-16,-9,3.0
+3270,DE,Rhineland-Palatinate,2020-10-17,-13,-3.0
+3271,DE,Rhineland-Palatinate,2020-10-18,-3,17.0
+3272,DE,Rhineland-Palatinate,2020-10-19,-3,2.0
+3273,DE,Rhineland-Palatinate,2020-10-20,-6,0.0
+3274,DE,Rhineland-Palatinate,2020-10-21,-2,0.0
+3275,DE,Rhineland-Palatinate,2020-10-22,-6,1.0
+3276,DE,Rhineland-Palatinate,2020-10-23,-13,2.0
+3277,DE,Rhineland-Palatinate,2020-10-24,-15,-3.0
+3278,DE,Rhineland-Palatinate,2020-10-25,-7,25.0
+3279,DE,Rhineland-Palatinate,2020-10-26,-12,3.0
+3280,DE,Rhineland-Palatinate,2020-10-27,-12,2.0
+3281,DE,Rhineland-Palatinate,2020-10-28,-10,2.0
+3282,DE,Rhineland-Palatinate,2020-10-29,-12,5.0
+3283,DE,Rhineland-Palatinate,2020-10-30,-9,9.0
+3284,DE,Rhineland-Palatinate,2020-10-31,-10,0.0
+3285,DE,Rhineland-Palatinate,2020-11-01,-25,-8.0
+3286,DE,Rhineland-Palatinate,2020-11-02,-23,-2.0
+3287,DE,Rhineland-Palatinate,2020-11-03,-26,0.0
+3288,DE,Rhineland-Palatinate,2020-11-04,-25,-1.0
+3289,DE,Rhineland-Palatinate,2020-11-05,-27,1.0
+3290,DE,Rhineland-Palatinate,2020-11-06,-28,3.0
+3291,DE,Rhineland-Palatinate,2020-11-07,-31,-1.0
+3292,DE,Rhineland-Palatinate,2020-11-08,-47,-3.0
+3293,DE,Rhineland-Palatinate,2020-11-09,-21,0.0
+3294,DE,Rhineland-Palatinate,2020-11-10,-25,1.0
+3295,DE,Rhineland-Palatinate,2020-11-11,-25,0.0
+3296,DE,Rhineland-Palatinate,2020-11-12,-27,2.0
+3297,DE,Rhineland-Palatinate,2020-11-13,-28,4.0
+3298,DE,Rhineland-Palatinate,2020-11-14,-29,0.0
+3299,DE,Rhineland-Palatinate,2020-11-15,-43,4.0
+3300,DE,Saarland,2020-02-15,4,-3.0
+3301,DE,Saarland,2020-02-16,10,-7.0
+3302,DE,Saarland,2020-02-17,0,-2.0
+3303,DE,Saarland,2020-02-18,2,-2.0
+3304,DE,Saarland,2020-02-19,3,-1.0
+3305,DE,Saarland,2020-02-20,8,-4.0
+3306,DE,Saarland,2020-02-21,0,-2.0
+3307,DE,Saarland,2020-02-22,-2,-5.0
+3308,DE,Saarland,2020-02-23,1,8.0
+3309,DE,Saarland,2020-02-24,-1,-10.0
+3310,DE,Saarland,2020-02-25,-4,-3.0
+3311,DE,Saarland,2020-02-26,-6,-1.0
+3312,DE,Saarland,2020-02-27,-16,-6.0
+3313,DE,Saarland,2020-02-28,4,13.0
+3314,DE,Saarland,2020-02-29,-2,4.0
+3315,DE,Saarland,2020-03-01,-6,21.0
+3316,DE,Saarland,2020-03-02,0,7.0
+3317,DE,Saarland,2020-03-03,2,4.0
+3318,DE,Saarland,2020-03-04,-1,2.0
+3319,DE,Saarland,2020-03-05,-6,-3.0
+3320,DE,Saarland,2020-03-06,-3,0.0
+3321,DE,Saarland,2020-03-07,4,-2.0
+3322,DE,Saarland,2020-03-08,-2,21.0
+3323,DE,Saarland,2020-03-09,1,1.0
+3324,DE,Saarland,2020-03-10,-8,-3.0
+3325,DE,Saarland,2020-03-11,-4,3.0
+3326,DE,Saarland,2020-03-12,-6,8.0
+3327,DE,Saarland,2020-03-13,-11,25.0
+3328,DE,Saarland,2020-03-14,-21,3.0
+3329,DE,Saarland,2020-03-15,-10,2.0
+3330,DE,Saarland,2020-03-16,-12,15.0
+3331,DE,Saarland,2020-03-17,-20,5.0
+3332,DE,Saarland,2020-03-18,-41,-6.0
+3333,DE,Saarland,2020-03-19,-46,-11.0
+3334,DE,Saarland,2020-03-20,-50,-6.0
+3335,DE,Saarland,2020-03-21,-79,-41.0
+3336,DE,Saarland,2020-03-22,-77,-50.0
+3337,DE,Saarland,2020-03-23,-61,-23.0
+3338,DE,Saarland,2020-03-24,-62,-28.0
+3339,DE,Saarland,2020-03-25,-62,-27.0
+3340,DE,Saarland,2020-03-26,-61,-24.0
+3341,DE,Saarland,2020-03-27,-61,-22.0
+3342,DE,Saarland,2020-03-28,-67,-32.0
+3343,DE,Saarland,2020-03-29,-77,-56.0
+3344,DE,Saarland,2020-03-30,-53,-22.0
+3345,DE,Saarland,2020-03-31,-54,-19.0
+3346,DE,Saarland,2020-04-01,-55,-21.0
+3347,DE,Saarland,2020-04-02,-53,-20.0
+3348,DE,Saarland,2020-04-03,-58,-18.0
+3349,DE,Saarland,2020-04-04,-63,-27.0
+3350,DE,Saarland,2020-04-05,-63,-26.0
+3351,DE,Saarland,2020-04-06,-44,-15.0
+3352,DE,Saarland,2020-04-07,-47,-12.0
+3353,DE,Saarland,2020-04-08,-46,0.0
+3354,DE,Saarland,2020-04-09,-42,6.0
+3355,DE,Saarland,2020-04-10,-82,-93.0
+3356,DE,Saarland,2020-04-11,-56,-10.0
+3357,DE,Saarland,2020-04-12,-69,-42.0
+3358,DE,Saarland,2020-04-13,-82,-94.0
+3359,DE,Saarland,2020-04-14,-42,-6.0
+3360,DE,Saarland,2020-04-15,-46,-17.0
+3361,DE,Saarland,2020-04-16,-49,-13.0
+3362,DE,Saarland,2020-04-17,-53,-13.0
+3363,DE,Saarland,2020-04-18,-63,-24.0
+3364,DE,Saarland,2020-04-19,-60,-24.0
+3365,DE,Saarland,2020-04-20,-41,-14.0
+3366,DE,Saarland,2020-04-21,-44,-15.0
+3367,DE,Saarland,2020-04-22,-46,-15.0
+3368,DE,Saarland,2020-04-23,-44,-11.0
+3369,DE,Saarland,2020-04-24,-49,-11.0
+3370,DE,Saarland,2020-04-25,-56,-19.0
+3371,DE,Saarland,2020-04-26,-56,-16.0
+3372,DE,Saarland,2020-04-27,-40,-16.0
+3373,DE,Saarland,2020-04-28,-48,-14.0
+3374,DE,Saarland,2020-04-29,-46,-3.0
+3375,DE,Saarland,2020-04-30,-36,13.0
+3376,DE,Saarland,2020-05-01,-85,-94.0
+3377,DE,Saarland,2020-05-02,-46,-5.0
+3378,DE,Saarland,2020-05-03,-59,-16.0
+3379,DE,Saarland,2020-05-04,-25,-7.0
+3380,DE,Saarland,2020-05-05,-30,-9.0
+3381,DE,Saarland,2020-05-06,-31,-9.0
+3382,DE,Saarland,2020-05-07,-28,-7.0
+3383,DE,Saarland,2020-05-08,-34,-5.0
+3384,DE,Saarland,2020-05-09,-39,-5.0
+3385,DE,Saarland,2020-05-10,-51,-11.0
+3386,DE,Saarland,2020-05-11,-38,-18.0
+3387,DE,Saarland,2020-05-12,-29,-8.0
+3388,DE,Saarland,2020-05-13,-32,-10.0
+3389,DE,Saarland,2020-05-14,-28,-7.0
+3390,DE,Saarland,2020-05-15,-31,-6.0
+3391,DE,Saarland,2020-05-16,-38,-12.0
+3392,DE,Saarland,2020-05-17,-42,-8.0
+3393,DE,Saarland,2020-05-18,-11,-6.0
+3394,DE,Saarland,2020-05-19,-14,0.0
+3395,DE,Saarland,2020-05-20,-9,33.0
+3396,DE,Saarland,2020-05-21,-61,-91.0
+3397,DE,Saarland,2020-05-22,-18,1.0
+3398,DE,Saarland,2020-05-23,-36,-10.0
+3399,DE,Saarland,2020-05-24,-37,-9.0
+3400,DE,Saarland,2020-05-25,-15,-4.0
+3401,DE,Saarland,2020-05-26,-17,-6.0
+3402,DE,Saarland,2020-05-27,-17,-5.0
+3403,DE,Saarland,2020-05-28,-13,-1.0
+3404,DE,Saarland,2020-05-29,-16,7.0
+3405,DE,Saarland,2020-05-30,-23,0.0
+3406,DE,Saarland,2020-05-31,-27,0.0
+3407,DE,Saarland,2020-06-01,-54,-90.0
+3408,DE,Saarland,2020-06-02,-5,12.0
+3409,DE,Saarland,2020-06-03,-15,-1.0
+3410,DE,Saarland,2020-06-04,-18,-1.0
+3411,DE,Saarland,2020-06-05,-24,-5.0
+3412,DE,Saarland,2020-06-06,-23,-7.0
+3413,DE,Saarland,2020-06-07,-31,-11.0
+3414,DE,Saarland,2020-06-08,-9,-7.0
+3415,DE,Saarland,2020-06-09,-12,-1.0
+3416,DE,Saarland,2020-06-10,-6,25.0
+3417,DE,Saarland,2020-06-11,-58,-90.0
+3418,DE,Saarland,2020-06-12,-10,2.0
+3419,DE,Saarland,2020-06-13,-24,-12.0
+3420,DE,Saarland,2020-06-14,-38,-20.0
+3421,DE,Saarland,2020-06-15,-6,-1.0
+3422,DE,Saarland,2020-06-16,-9,-1.0
+3423,DE,Saarland,2020-06-17,-17,-6.0
+3424,DE,Saarland,2020-06-18,-7,-1.0
+3425,DE,Saarland,2020-06-19,-12,-1.0
+3426,DE,Saarland,2020-06-20,-17,-7.0
+3427,DE,Saarland,2020-06-21,-16,-9.0
+3428,DE,Saarland,2020-06-22,-3,-3.0
+3429,DE,Saarland,2020-06-23,-5,-1.0
+3430,DE,Saarland,2020-06-24,-9,-3.0
+3431,DE,Saarland,2020-06-25,-8,-3.0
+3432,DE,Saarland,2020-06-26,-20,-6.0
+3433,DE,Saarland,2020-06-27,-17,-5.0
+3434,DE,Saarland,2020-06-28,-27,-18.0
+3435,DE,Saarland,2020-06-29,1,0.0
+3436,DE,Saarland,2020-06-30,2,3.0
+3437,DE,Saarland,2020-07-01,3,1.0
+3438,DE,Saarland,2020-07-02,2,1.0
+3439,DE,Saarland,2020-07-03,-2,2.0
+3440,DE,Saarland,2020-07-04,-13,-6.0
+3441,DE,Saarland,2020-07-05,-17,-15.0
+3442,DE,Saarland,2020-07-06,2,0.0
+3443,DE,Saarland,2020-07-07,2,-2.0
+3444,DE,Saarland,2020-07-08,-3,-4.0
+3445,DE,Saarland,2020-07-09,-2,-5.0
+3446,DE,Saarland,2020-07-10,-9,-1.0
+3447,DE,Saarland,2020-07-11,-14,-8.0
+3448,DE,Saarland,2020-07-12,-6,1.0
+3449,DE,Saarland,2020-07-13,1,-2.0
+3450,DE,Saarland,2020-07-14,0,-2.0
+3451,DE,Saarland,2020-07-15,-5,-2.0
+3452,DE,Saarland,2020-07-16,-7,-3.0
+3453,DE,Saarland,2020-07-17,-9,-4.0
+3454,DE,Saarland,2020-07-18,-17,-12.0
+3455,DE,Saarland,2020-07-19,-7,-5.0
+3456,DE,Saarland,2020-07-20,-2,-5.0
+3457,DE,Saarland,2020-07-21,-1,-5.0
+3458,DE,Saarland,2020-07-22,-3,-6.0
+3459,DE,Saarland,2020-07-23,-2,-5.0
+3460,DE,Saarland,2020-07-24,-10,-5.0
+3461,DE,Saarland,2020-07-25,-18,-13.0
+3462,DE,Saarland,2020-07-26,-17,-8.0
+3463,DE,Saarland,2020-07-27,-3,-5.0
+3464,DE,Saarland,2020-07-28,-1,-4.0
+3465,DE,Saarland,2020-07-29,0,-4.0
+3466,DE,Saarland,2020-07-30,-1,-1.0
+3467,DE,Saarland,2020-07-31,-13,-4.0
+3468,DE,Saarland,2020-08-01,-19,-11.0
+3469,DE,Saarland,2020-08-02,-5,1.0
+3470,DE,Saarland,2020-08-03,6,-1.0
+3471,DE,Saarland,2020-08-04,4,-4.0
+3472,DE,Saarland,2020-08-05,1,-6.0
+3473,DE,Saarland,2020-08-06,-1,-4.0
+3474,DE,Saarland,2020-08-07,-13,-7.0
+3475,DE,Saarland,2020-08-08,-24,-14.0
+3476,DE,Saarland,2020-08-09,-19,-12.0
+3477,DE,Saarland,2020-08-10,-4,-2.0
+3478,DE,Saarland,2020-08-11,-7,-6.0
+3479,DE,Saarland,2020-08-12,-6,-4.0
+3480,DE,Saarland,2020-08-13,4,3.0
+3481,DE,Saarland,2020-08-14,2,24.0
+3482,DE,Saarland,2020-08-15,-53,-90.0
+3483,DE,Saarland,2020-08-16,1,-1.0
+3484,DE,Saarland,2020-08-17,7,13.0
+3485,DE,Saarland,2020-08-18,-1,3.0
+3486,DE,Saarland,2020-08-19,-1,0.0
+3487,DE,Saarland,2020-08-20,-6,-4.0
+3488,DE,Saarland,2020-08-21,-10,-2.0
+3489,DE,Saarland,2020-08-22,-12,-9.0
+3490,DE,Saarland,2020-08-23,-7,
+3491,DE,Saarland,2020-08-24,-4,-3.0
+3492,DE,Saarland,2020-08-25,-4,-4.0
+3493,DE,Saarland,2020-08-26,-7,-5.0
+3494,DE,Saarland,2020-08-27,-1,-3.0
+3495,DE,Saarland,2020-08-28,-5,0.0
+3496,DE,Saarland,2020-08-29,-9,-7.0
+3497,DE,Saarland,2020-08-30,-19,
+3498,DE,Saarland,2020-08-31,1,1.0
+3499,DE,Saarland,2020-09-01,-1,-1.0
+3500,DE,Saarland,2020-09-02,-1,-3.0
+3501,DE,Saarland,2020-09-03,-2,-3.0
+3502,DE,Saarland,2020-09-04,-4,-5.0
+3503,DE,Saarland,2020-09-05,-11,-9.0
+3504,DE,Saarland,2020-09-06,10,
+3505,DE,Saarland,2020-09-07,-1,-4.0
+3506,DE,Saarland,2020-09-08,-1,-5.0
+3507,DE,Saarland,2020-09-09,-3,-6.0
+3508,DE,Saarland,2020-09-10,-5,-4.0
+3509,DE,Saarland,2020-09-11,-5,-4.0
+3510,DE,Saarland,2020-09-12,-8,-8.0
+3511,DE,Saarland,2020-09-13,6,3.0
+3512,DE,Saarland,2020-09-14,-2,-4.0
+3513,DE,Saarland,2020-09-15,-4,-5.0
+3514,DE,Saarland,2020-09-16,-5,-6.0
+3515,DE,Saarland,2020-09-17,-3,-6.0
+3516,DE,Saarland,2020-09-18,-6,-5.0
+3517,DE,Saarland,2020-09-19,-9,-10.0
+3518,DE,Saarland,2020-09-20,5,-8.0
+3519,DE,Saarland,2020-09-21,-3,-5.0
+3520,DE,Saarland,2020-09-22,-6,-5.0
+3521,DE,Saarland,2020-09-23,-12,-4.0
+3522,DE,Saarland,2020-09-24,-11,-2.0
+3523,DE,Saarland,2020-09-25,-14,-1.0
+3524,DE,Saarland,2020-09-26,-18,-5.0
+3525,DE,Saarland,2020-09-27,-30,-27.0
+3526,DE,Saarland,2020-09-28,-8,0.0
+3527,DE,Saarland,2020-09-29,-8,0.0
+3528,DE,Saarland,2020-09-30,-3,4.0
+3529,DE,Saarland,2020-10-01,-6,7.0
+3530,DE,Saarland,2020-10-02,-4,29.0
+3531,DE,Saarland,2020-10-03,-59,-90.0
+3532,DE,Saarland,2020-10-04,-2,21.0
+3533,DE,Saarland,2020-10-05,-7,8.0
+3534,DE,Saarland,2020-10-06,-9,2.0
+3535,DE,Saarland,2020-10-07,-8,1.0
+3536,DE,Saarland,2020-10-08,-8,2.0
+3537,DE,Saarland,2020-10-09,-13,-1.0
+3538,DE,Saarland,2020-10-10,-10,-5.0
+3539,DE,Saarland,2020-10-11,-14,2.0
+3540,DE,Saarland,2020-10-12,-5,-3.0
+3541,DE,Saarland,2020-10-13,-7,-4.0
+3542,DE,Saarland,2020-10-14,-9,-4.0
+3543,DE,Saarland,2020-10-15,-9,1.0
+3544,DE,Saarland,2020-10-16,-15,-1.0
+3545,DE,Saarland,2020-10-17,-20,-9.0
+3546,DE,Saarland,2020-10-18,-28,-14.0
+3547,DE,Saarland,2020-10-19,-6,-1.0
+3548,DE,Saarland,2020-10-20,-10,-5.0
+3549,DE,Saarland,2020-10-21,-10,-5.0
+3550,DE,Saarland,2020-10-22,-10,-4.0
+3551,DE,Saarland,2020-10-23,-19,-3.0
+3552,DE,Saarland,2020-10-24,-22,-9.0
+3553,DE,Saarland,2020-10-25,-34,-27.0
+3554,DE,Saarland,2020-10-26,-12,-1.0
+3555,DE,Saarland,2020-10-27,-13,-2.0
+3556,DE,Saarland,2020-10-28,-12,2.0
+3557,DE,Saarland,2020-10-29,-8,6.0
+3558,DE,Saarland,2020-10-30,-14,5.0
+3559,DE,Saarland,2020-10-31,-16,-8.0
+3560,DE,Saarland,2020-11-01,-39,-34.0
+3561,DE,Saarland,2020-11-02,-23,-6.0
+3562,DE,Saarland,2020-11-03,-27,-5.0
+3563,DE,Saarland,2020-11-04,-28,-7.0
+3564,DE,Saarland,2020-11-05,-26,-3.0
+3565,DE,Saarland,2020-11-06,-31,-1.0
+3566,DE,Saarland,2020-11-07,-35,-8.0
+3567,DE,Saarland,2020-11-08,-53,-25.0
+3568,DE,Saarland,2020-11-09,-21,-3.0
+3569,DE,Saarland,2020-11-10,-26,-3.0
+3570,DE,Saarland,2020-11-11,-28,-6.0
+3571,DE,Saarland,2020-11-12,-27,-3.0
+3572,DE,Saarland,2020-11-13,-31,1.0
+3573,DE,Saarland,2020-11-14,-31,-5.0
+3574,DE,Saarland,2020-11-15,-52,-26.0
+3575,DE,Saxony,2020-02-15,4,-1.0
+3576,DE,Saxony,2020-02-16,6,13.0
+3577,DE,Saxony,2020-02-17,5,-2.0
+3578,DE,Saxony,2020-02-18,6,-3.0
+3579,DE,Saxony,2020-02-19,1,-6.0
+3580,DE,Saxony,2020-02-20,3,-5.0
+3581,DE,Saxony,2020-02-21,-1,-4.0
+3582,DE,Saxony,2020-02-22,2,-2.0
+3583,DE,Saxony,2020-02-23,-7,-12.0
+3584,DE,Saxony,2020-02-24,1,2.0
+3585,DE,Saxony,2020-02-25,1,1.0
+3586,DE,Saxony,2020-02-26,-4,0.0
+3587,DE,Saxony,2020-02-27,1,4.0
+3588,DE,Saxony,2020-02-28,1,7.0
+3589,DE,Saxony,2020-02-29,3,6.0
+3590,DE,Saxony,2020-03-01,17,25.0
+3591,DE,Saxony,2020-03-02,4,6.0
+3592,DE,Saxony,2020-03-03,1,2.0
+3593,DE,Saxony,2020-03-04,2,3.0
+3594,DE,Saxony,2020-03-05,4,1.0
+3595,DE,Saxony,2020-03-06,2,1.0
+3596,DE,Saxony,2020-03-07,2,0.0
+3597,DE,Saxony,2020-03-08,22,21.0
+3598,DE,Saxony,2020-03-09,0,1.0
+3599,DE,Saxony,2020-03-10,4,0.0
+3600,DE,Saxony,2020-03-11,-1,2.0
+3601,DE,Saxony,2020-03-12,0,5.0
+3602,DE,Saxony,2020-03-13,-4,15.0
+3603,DE,Saxony,2020-03-14,-9,12.0
+3604,DE,Saxony,2020-03-15,-6,13.0
+3605,DE,Saxony,2020-03-16,0,21.0
+3606,DE,Saxony,2020-03-17,-6,16.0
+3607,DE,Saxony,2020-03-18,-12,9.0
+3608,DE,Saxony,2020-03-19,-31,-2.0
+3609,DE,Saxony,2020-03-20,-42,-4.0
+3610,DE,Saxony,2020-03-21,-57,-15.0
+3611,DE,Saxony,2020-03-22,-65,-25.0
+3612,DE,Saxony,2020-03-23,-57,-17.0
+3613,DE,Saxony,2020-03-24,-57,-19.0
+3614,DE,Saxony,2020-03-25,-57,-17.0
+3615,DE,Saxony,2020-03-26,-56,-18.0
+3616,DE,Saxony,2020-03-27,-56,-17.0
+3617,DE,Saxony,2020-03-28,-68,-21.0
+3618,DE,Saxony,2020-03-29,-78,-51.0
+3619,DE,Saxony,2020-03-30,-54,-16.0
+3620,DE,Saxony,2020-03-31,-53,-15.0
+3621,DE,Saxony,2020-04-01,-51,-12.0
+3622,DE,Saxony,2020-04-02,-50,-13.0
+3623,DE,Saxony,2020-04-03,-55,-15.0
+3624,DE,Saxony,2020-04-04,-66,-17.0
+3625,DE,Saxony,2020-04-05,-55,-11.0
+3626,DE,Saxony,2020-04-06,-45,-7.0
+3627,DE,Saxony,2020-04-07,-43,-2.0
+3628,DE,Saxony,2020-04-08,-40,12.0
+3629,DE,Saxony,2020-04-09,-37,11.0
+3630,DE,Saxony,2020-04-10,-81,-92.0
+3631,DE,Saxony,2020-04-11,-58,1.0
+3632,DE,Saxony,2020-04-12,-52,-10.0
+3633,DE,Saxony,2020-04-13,-84,-94.0
+3634,DE,Saxony,2020-04-14,-47,-2.0
+3635,DE,Saxony,2020-04-15,-47,-10.0
+3636,DE,Saxony,2020-04-16,-56,-4.0
+3637,DE,Saxony,2020-04-17,-59,-4.0
+3638,DE,Saxony,2020-04-18,-70,-9.0
+3639,DE,Saxony,2020-04-19,-54,1.0
+3640,DE,Saxony,2020-04-20,-46,-15.0
+3641,DE,Saxony,2020-04-21,-46,-12.0
+3642,DE,Saxony,2020-04-22,-47,-9.0
+3643,DE,Saxony,2020-04-23,-47,-9.0
+3644,DE,Saxony,2020-04-24,-50,-10.0
+3645,DE,Saxony,2020-04-25,-61,-10.0
+3646,DE,Saxony,2020-04-26,-47,8.0
+3647,DE,Saxony,2020-04-27,-43,-11.0
+3648,DE,Saxony,2020-04-28,-45,-8.0
+3649,DE,Saxony,2020-04-29,-44,7.0
+3650,DE,Saxony,2020-04-30,-25,19.0
+3651,DE,Saxony,2020-05-01,-78,-91.0
+3652,DE,Saxony,2020-05-02,-46,7.0
+3653,DE,Saxony,2020-05-03,-57,4.0
+3654,DE,Saxony,2020-05-04,-27,-5.0
+3655,DE,Saxony,2020-05-05,-29,-4.0
+3656,DE,Saxony,2020-05-06,-29,-3.0
+3657,DE,Saxony,2020-05-07,-26,-3.0
+3658,DE,Saxony,2020-05-08,-29,-1.0
+3659,DE,Saxony,2020-05-09,-37,-1.0
+3660,DE,Saxony,2020-05-10,-45,14.0
+3661,DE,Saxony,2020-05-11,-35,-12.0
+3662,DE,Saxony,2020-05-12,-26,-1.0
+3663,DE,Saxony,2020-05-13,-26,-2.0
+3664,DE,Saxony,2020-05-14,-22,-2.0
+3665,DE,Saxony,2020-05-15,-20,-2.0
+3666,DE,Saxony,2020-05-16,-27,-5.0
+3667,DE,Saxony,2020-05-17,-27,17.0
+3668,DE,Saxony,2020-05-18,-7,1.0
+3669,DE,Saxony,2020-05-19,-6,8.0
+3670,DE,Saxony,2020-05-20,4,44.0
+3671,DE,Saxony,2020-05-21,-46,-86.0
+3672,DE,Saxony,2020-05-22,-14,-4.0
+3673,DE,Saxony,2020-05-23,-27,-7.0
+3674,DE,Saxony,2020-05-24,-33,4.0
+3675,DE,Saxony,2020-05-25,-12,1.0
+3676,DE,Saxony,2020-05-26,-11,-1.0
+3677,DE,Saxony,2020-05-27,-11,-1.0
+3678,DE,Saxony,2020-05-28,-11,2.0
+3679,DE,Saxony,2020-05-29,-12,3.0
+3680,DE,Saxony,2020-05-30,-19,3.0
+3681,DE,Saxony,2020-05-31,-10,21.0
+3682,DE,Saxony,2020-06-01,-42,-87.0
+3683,DE,Saxony,2020-06-02,-2,13.0
+3684,DE,Saxony,2020-06-03,-9,1.0
+3685,DE,Saxony,2020-06-04,-11,0.0
+3686,DE,Saxony,2020-06-05,-12,-1.0
+3687,DE,Saxony,2020-06-06,-18,-4.0
+3688,DE,Saxony,2020-06-07,-30,-3.0
+3689,DE,Saxony,2020-06-08,-6,-4.0
+3690,DE,Saxony,2020-06-09,-8,-4.0
+3691,DE,Saxony,2020-06-10,-8,0.0
+3692,DE,Saxony,2020-06-11,-3,0.0
+3693,DE,Saxony,2020-06-12,-9,-4.0
+3694,DE,Saxony,2020-06-13,-24,-9.0
+3695,DE,Saxony,2020-06-14,-28,0.0
+3696,DE,Saxony,2020-06-15,-5,-3.0
+3697,DE,Saxony,2020-06-16,-4,-2.0
+3698,DE,Saxony,2020-06-17,-6,-1.0
+3699,DE,Saxony,2020-06-18,-9,-4.0
+3700,DE,Saxony,2020-06-19,-11,-3.0
+3701,DE,Saxony,2020-06-20,-17,-7.0
+3702,DE,Saxony,2020-06-21,-6,18.0
+3703,DE,Saxony,2020-06-22,-6,-6.0
+3704,DE,Saxony,2020-06-23,-4,-3.0
+3705,DE,Saxony,2020-06-24,-8,-2.0
+3706,DE,Saxony,2020-06-25,-7,-3.0
+3707,DE,Saxony,2020-06-26,-12,-4.0
+3708,DE,Saxony,2020-06-27,-24,-9.0
+3709,DE,Saxony,2020-06-28,-14,13.0
+3710,DE,Saxony,2020-06-29,-2,0.0
+3711,DE,Saxony,2020-06-30,4,2.0
+3712,DE,Saxony,2020-07-01,0,1.0
+3713,DE,Saxony,2020-07-02,0,0.0
+3714,DE,Saxony,2020-07-03,-4,0.0
+3715,DE,Saxony,2020-07-04,-14,-6.0
+3716,DE,Saxony,2020-07-05,1,21.0
+3717,DE,Saxony,2020-07-06,1,1.0
+3718,DE,Saxony,2020-07-07,2,0.0
+3719,DE,Saxony,2020-07-08,-3,-1.0
+3720,DE,Saxony,2020-07-09,-2,-2.0
+3721,DE,Saxony,2020-07-10,-7,-4.0
+3722,DE,Saxony,2020-07-11,-10,-5.0
+3723,DE,Saxony,2020-07-12,9,33.0
+3724,DE,Saxony,2020-07-13,2,0.0
+3725,DE,Saxony,2020-07-14,3,0.0
+3726,DE,Saxony,2020-07-15,1,3.0
+3727,DE,Saxony,2020-07-16,4,1.0
+3728,DE,Saxony,2020-07-17,1,0.0
+3729,DE,Saxony,2020-07-18,-11,-6.0
+3730,DE,Saxony,2020-07-19,4,23.0
+3731,DE,Saxony,2020-07-20,1,-3.0
+3732,DE,Saxony,2020-07-21,6,-3.0
+3733,DE,Saxony,2020-07-22,4,-3.0
+3734,DE,Saxony,2020-07-23,2,-6.0
+3735,DE,Saxony,2020-07-24,-8,-8.0
+3736,DE,Saxony,2020-07-25,-17,-11.0
+3737,DE,Saxony,2020-07-26,-6,15.0
+3738,DE,Saxony,2020-07-27,1,-4.0
+3739,DE,Saxony,2020-07-28,-2,-6.0
+3740,DE,Saxony,2020-07-29,4,-3.0
+3741,DE,Saxony,2020-07-30,3,-4.0
+3742,DE,Saxony,2020-07-31,-5,-4.0
+3743,DE,Saxony,2020-08-01,-20,-10.0
+3744,DE,Saxony,2020-08-02,-6,15.0
+3745,DE,Saxony,2020-08-03,7,1.0
+3746,DE,Saxony,2020-08-04,9,-2.0
+3747,DE,Saxony,2020-08-05,5,-4.0
+3748,DE,Saxony,2020-08-06,-1,-6.0
+3749,DE,Saxony,2020-08-07,-12,-9.0
+3750,DE,Saxony,2020-08-08,-25,-13.0
+3751,DE,Saxony,2020-08-09,-9,12.0
+3752,DE,Saxony,2020-08-10,-2,-3.0
+3753,DE,Saxony,2020-08-11,-1,-6.0
+3754,DE,Saxony,2020-08-12,-3,-6.0
+3755,DE,Saxony,2020-08-13,-5,-8.0
+3756,DE,Saxony,2020-08-14,-10,-9.0
+3757,DE,Saxony,2020-08-15,-13,-9.0
+3758,DE,Saxony,2020-08-16,4,18.0
+3759,DE,Saxony,2020-08-17,-2,-6.0
+3760,DE,Saxony,2020-08-18,3,-5.0
+3761,DE,Saxony,2020-08-19,4,-4.0
+3762,DE,Saxony,2020-08-20,-1,-9.0
+3763,DE,Saxony,2020-08-21,-16,-15.0
+3764,DE,Saxony,2020-08-22,-18,-10.0
+3765,DE,Saxony,2020-08-23,8,22.0
+3766,DE,Saxony,2020-08-24,6,-2.0
+3767,DE,Saxony,2020-08-25,9,-3.0
+3768,DE,Saxony,2020-08-26,3,-3.0
+3769,DE,Saxony,2020-08-27,8,-1.0
+3770,DE,Saxony,2020-08-28,0,-2.0
+3771,DE,Saxony,2020-08-29,-9,-8.0
+3772,DE,Saxony,2020-08-30,-15,5.0
+3773,DE,Saxony,2020-08-31,9,4.0
+3774,DE,Saxony,2020-09-01,8,2.0
+3775,DE,Saxony,2020-09-02,6,0.0
+3776,DE,Saxony,2020-09-03,5,-4.0
+3777,DE,Saxony,2020-09-04,-1,-4.0
+3778,DE,Saxony,2020-09-05,-7,-7.0
+3779,DE,Saxony,2020-09-06,16,37.0
+3780,DE,Saxony,2020-09-07,3,-2.0
+3781,DE,Saxony,2020-09-08,4,-3.0
+3782,DE,Saxony,2020-09-09,3,-4.0
+3783,DE,Saxony,2020-09-10,3,-3.0
+3784,DE,Saxony,2020-09-11,-1,-4.0
+3785,DE,Saxony,2020-09-12,-6,-8.0
+3786,DE,Saxony,2020-09-13,21,41.0
+3787,DE,Saxony,2020-09-14,2,-3.0
+3788,DE,Saxony,2020-09-15,2,-3.0
+3789,DE,Saxony,2020-09-16,1,-3.0
+3790,DE,Saxony,2020-09-17,2,-4.0
+3791,DE,Saxony,2020-09-18,-2,-5.0
+3792,DE,Saxony,2020-09-19,-4,-8.0
+3793,DE,Saxony,2020-09-20,24,44.0
+3794,DE,Saxony,2020-09-21,1,-3.0
+3795,DE,Saxony,2020-09-22,1,-3.0
+3796,DE,Saxony,2020-09-23,-3,-3.0
+3797,DE,Saxony,2020-09-24,-2,-3.0
+3798,DE,Saxony,2020-09-25,-7,-4.0
+3799,DE,Saxony,2020-09-26,-17,-11.0
+3800,DE,Saxony,2020-09-27,-4,22.0
+3801,DE,Saxony,2020-09-28,-1,1.0
+3802,DE,Saxony,2020-09-29,-1,1.0
+3803,DE,Saxony,2020-09-30,4,5.0
+3804,DE,Saxony,2020-10-01,4,5.0
+3805,DE,Saxony,2020-10-02,5,21.0
+3806,DE,Saxony,2020-10-03,-39,-84.0
+3807,DE,Saxony,2020-10-04,21,55.0
+3808,DE,Saxony,2020-10-05,3,9.0
+3809,DE,Saxony,2020-10-06,1,4.0
+3810,DE,Saxony,2020-10-07,0,2.0
+3811,DE,Saxony,2020-10-08,0,0.0
+3812,DE,Saxony,2020-10-09,-4,0.0
+3813,DE,Saxony,2020-10-10,-4,-5.0
+3814,DE,Saxony,2020-10-11,-1,24.0
+3815,DE,Saxony,2020-10-12,-1,0.0
+3816,DE,Saxony,2020-10-13,1,1.0
+3817,DE,Saxony,2020-10-14,-10,-8.0
+3818,DE,Saxony,2020-10-15,-5,1.0
+3819,DE,Saxony,2020-10-16,-5,1.0
+3820,DE,Saxony,2020-10-17,-11,-4.0
+3821,DE,Saxony,2020-10-18,-11,14.0
+3822,DE,Saxony,2020-10-19,2,1.0
+3823,DE,Saxony,2020-10-20,1,-2.0
+3824,DE,Saxony,2020-10-21,-1,-3.0
+3825,DE,Saxony,2020-10-22,0,-4.0
+3826,DE,Saxony,2020-10-23,-10,-4.0
+3827,DE,Saxony,2020-10-24,-16,-8.0
+3828,DE,Saxony,2020-10-25,2,25.0
+3829,DE,Saxony,2020-10-26,-5,-1.0
+3830,DE,Saxony,2020-10-27,-3,-1.0
+3831,DE,Saxony,2020-10-28,-3,0.0
+3832,DE,Saxony,2020-10-29,-1,5.0
+3833,DE,Saxony,2020-10-30,-4,16.0
+3834,DE,Saxony,2020-10-31,-58,-88.0
+3835,DE,Saxony,2020-11-01,-17,8.0
+3836,DE,Saxony,2020-11-02,-15,6.0
+3837,DE,Saxony,2020-11-03,-18,2.0
+3838,DE,Saxony,2020-11-04,-20,0.0
+3839,DE,Saxony,2020-11-05,-19,1.0
+3840,DE,Saxony,2020-11-06,-23,1.0
+3841,DE,Saxony,2020-11-07,-29,-5.0
+3842,DE,Saxony,2020-11-08,-42,4.0
+3843,DE,Saxony,2020-11-09,-17,-1.0
+3844,DE,Saxony,2020-11-10,-19,0.0
+3845,DE,Saxony,2020-11-11,-19,0.0
+3846,DE,Saxony,2020-11-12,-20,1.0
+3847,DE,Saxony,2020-11-13,-21,3.0
+3848,DE,Saxony,2020-11-14,-27,-2.0
+3849,DE,Saxony,2020-11-15,-43,2.0
+3850,DE,Saxony-Anhalt,2020-02-15,2,-1.0
+3851,DE,Saxony-Anhalt,2020-02-16,0,16.0
+3852,DE,Saxony-Anhalt,2020-02-17,4,4.0
+3853,DE,Saxony-Anhalt,2020-02-18,0,0.0
+3854,DE,Saxony-Anhalt,2020-02-19,-1,-4.0
+3855,DE,Saxony-Anhalt,2020-02-20,0,-1.0
+3856,DE,Saxony-Anhalt,2020-02-21,3,0.0
+3857,DE,Saxony-Anhalt,2020-02-22,0,-2.0
+3858,DE,Saxony-Anhalt,2020-02-23,-10,-14.0
+3859,DE,Saxony-Anhalt,2020-02-24,-1,0.0
+3860,DE,Saxony-Anhalt,2020-02-25,-2,-1.0
+3861,DE,Saxony-Anhalt,2020-02-26,-3,-3.0
+3862,DE,Saxony-Anhalt,2020-02-27,0,4.0
+3863,DE,Saxony-Anhalt,2020-02-28,6,7.0
+3864,DE,Saxony-Anhalt,2020-02-29,4,4.0
+3865,DE,Saxony-Anhalt,2020-03-01,13,19.0
+3866,DE,Saxony-Anhalt,2020-03-02,6,8.0
+3867,DE,Saxony-Anhalt,2020-03-03,-1,3.0
+3868,DE,Saxony-Anhalt,2020-03-04,1,0.0
+3869,DE,Saxony-Anhalt,2020-03-05,0,2.0
+3870,DE,Saxony-Anhalt,2020-03-06,1,-1.0
+3871,DE,Saxony-Anhalt,2020-03-07,3,1.0
+3872,DE,Saxony-Anhalt,2020-03-08,23,17.0
+3873,DE,Saxony-Anhalt,2020-03-09,3,2.0
+3874,DE,Saxony-Anhalt,2020-03-10,-5,-1.0
+3875,DE,Saxony-Anhalt,2020-03-11,0,1.0
+3876,DE,Saxony-Anhalt,2020-03-12,-4,7.0
+3877,DE,Saxony-Anhalt,2020-03-13,-6,11.0
+3878,DE,Saxony-Anhalt,2020-03-14,-11,9.0
+3879,DE,Saxony-Anhalt,2020-03-15,-2,20.0
+3880,DE,Saxony-Anhalt,2020-03-16,1,17.0
+3881,DE,Saxony-Anhalt,2020-03-17,-9,11.0
+3882,DE,Saxony-Anhalt,2020-03-18,-22,2.0
+3883,DE,Saxony-Anhalt,2020-03-19,-32,-4.0
+3884,DE,Saxony-Anhalt,2020-03-20,-40,-6.0
+3885,DE,Saxony-Anhalt,2020-03-21,-56,-15.0
+3886,DE,Saxony-Anhalt,2020-03-22,-58,-23.0
+3887,DE,Saxony-Anhalt,2020-03-23,-45,-12.0
+3888,DE,Saxony-Anhalt,2020-03-24,-49,-17.0
+3889,DE,Saxony-Anhalt,2020-03-25,-48,-17.0
+3890,DE,Saxony-Anhalt,2020-03-26,-49,-15.0
+3891,DE,Saxony-Anhalt,2020-03-27,-48,-17.0
+3892,DE,Saxony-Anhalt,2020-03-28,-58,-19.0
+3893,DE,Saxony-Anhalt,2020-03-29,-74,-48.0
+3894,DE,Saxony-Anhalt,2020-03-30,-43,-14.0
+3895,DE,Saxony-Anhalt,2020-03-31,-43,-12.0
+3896,DE,Saxony-Anhalt,2020-04-01,-40,-13.0
+3897,DE,Saxony-Anhalt,2020-04-02,-41,-12.0
+3898,DE,Saxony-Anhalt,2020-04-03,-45,-12.0
+3899,DE,Saxony-Anhalt,2020-04-04,-55,-14.0
+3900,DE,Saxony-Anhalt,2020-04-05,-51,-7.0
+3901,DE,Saxony-Anhalt,2020-04-06,-26,-2.0
+3902,DE,Saxony-Anhalt,2020-04-07,-30,-1.0
+3903,DE,Saxony-Anhalt,2020-04-08,-27,10.0
+3904,DE,Saxony-Anhalt,2020-04-09,-24,12.0
+3905,DE,Saxony-Anhalt,2020-04-10,-80,-93.0
+3906,DE,Saxony-Anhalt,2020-04-11,-44,7.0
+3907,DE,Saxony-Anhalt,2020-04-12,-51,-7.0
+3908,DE,Saxony-Anhalt,2020-04-13,-82,-94.0
+3909,DE,Saxony-Anhalt,2020-04-14,-31,0.0
+3910,DE,Saxony-Anhalt,2020-04-15,-32,-10.0
+3911,DE,Saxony-Anhalt,2020-04-16,-44,-2.0
+3912,DE,Saxony-Anhalt,2020-04-17,-45,-3.0
+3913,DE,Saxony-Anhalt,2020-04-18,-56,-9.0
+3914,DE,Saxony-Anhalt,2020-04-19,-50,-2.0
+3915,DE,Saxony-Anhalt,2020-04-20,-35,-4.0
+3916,DE,Saxony-Anhalt,2020-04-21,-40,-5.0
+3917,DE,Saxony-Anhalt,2020-04-22,-39,-2.0
+3918,DE,Saxony-Anhalt,2020-04-23,-45,-16.0
+3919,DE,Saxony-Anhalt,2020-04-24,-45,-13.0
+3920,DE,Saxony-Anhalt,2020-04-25,-56,-12.0
+3921,DE,Saxony-Anhalt,2020-04-26,-43,3.0
+3922,DE,Saxony-Anhalt,2020-04-27,-36,-11.0
+3923,DE,Saxony-Anhalt,2020-04-28,-40,-9.0
+3924,DE,Saxony-Anhalt,2020-04-29,-37,3.0
+3925,DE,Saxony-Anhalt,2020-04-30,-23,20.0
+3926,DE,Saxony-Anhalt,2020-05-01,-79,-92.0
+3927,DE,Saxony-Anhalt,2020-05-02,-39,9.0
+3928,DE,Saxony-Anhalt,2020-05-03,-52,-4.0
+3929,DE,Saxony-Anhalt,2020-05-04,-22,-2.0
+3930,DE,Saxony-Anhalt,2020-05-05,-27,-5.0
+3931,DE,Saxony-Anhalt,2020-05-06,-25,-5.0
+3932,DE,Saxony-Anhalt,2020-05-07,-23,-3.0
+3933,DE,Saxony-Anhalt,2020-05-08,-24,-3.0
+3934,DE,Saxony-Anhalt,2020-05-09,-33,0.0
+3935,DE,Saxony-Anhalt,2020-05-10,-41,21.0
+3936,DE,Saxony-Anhalt,2020-05-11,-27,-8.0
+3937,DE,Saxony-Anhalt,2020-05-12,-25,-3.0
+3938,DE,Saxony-Anhalt,2020-05-13,-24,-4.0
+3939,DE,Saxony-Anhalt,2020-05-14,-22,-2.0
+3940,DE,Saxony-Anhalt,2020-05-15,-22,-3.0
+3941,DE,Saxony-Anhalt,2020-05-16,-32,-4.0
+3942,DE,Saxony-Anhalt,2020-05-17,-34,18.0
+3943,DE,Saxony-Anhalt,2020-05-18,-5,2.0
+3944,DE,Saxony-Anhalt,2020-05-19,-11,6.0
+3945,DE,Saxony-Anhalt,2020-05-20,0,38.0
+3946,DE,Saxony-Anhalt,2020-05-21,-61,-89.0
+3947,DE,Saxony-Anhalt,2020-05-22,-18,-6.0
+3948,DE,Saxony-Anhalt,2020-05-23,-29,-6.0
+3949,DE,Saxony-Anhalt,2020-05-24,-37,-1.0
+3950,DE,Saxony-Anhalt,2020-05-25,-10,1.0
+3951,DE,Saxony-Anhalt,2020-05-26,-15,-6.0
+3952,DE,Saxony-Anhalt,2020-05-27,-14,-5.0
+3953,DE,Saxony-Anhalt,2020-05-28,-11,1.0
+3954,DE,Saxony-Anhalt,2020-05-29,-11,2.0
+3955,DE,Saxony-Anhalt,2020-05-30,-20,6.0
+3956,DE,Saxony-Anhalt,2020-05-31,2,37.0
+3957,DE,Saxony-Anhalt,2020-06-01,-46,-89.0
+3958,DE,Saxony-Anhalt,2020-06-02,-3,14.0
+3959,DE,Saxony-Anhalt,2020-06-03,-11,-1.0
+3960,DE,Saxony-Anhalt,2020-06-04,-13,0.0
+3961,DE,Saxony-Anhalt,2020-06-05,-12,-2.0
+3962,DE,Saxony-Anhalt,2020-06-06,-21,-3.0
+3963,DE,Saxony-Anhalt,2020-06-07,-14,16.0
+3964,DE,Saxony-Anhalt,2020-06-08,-4,-1.0
+3965,DE,Saxony-Anhalt,2020-06-09,-10,-3.0
+3966,DE,Saxony-Anhalt,2020-06-10,-7,-2.0
+3967,DE,Saxony-Anhalt,2020-06-11,-6,0.0
+3968,DE,Saxony-Anhalt,2020-06-12,-9,-4.0
+3969,DE,Saxony-Anhalt,2020-06-13,-27,-11.0
+3970,DE,Saxony-Anhalt,2020-06-14,-29,2.0
+3971,DE,Saxony-Anhalt,2020-06-15,-5,-1.0
+3972,DE,Saxony-Anhalt,2020-06-16,-8,-3.0
+3973,DE,Saxony-Anhalt,2020-06-17,-7,-4.0
+3974,DE,Saxony-Anhalt,2020-06-18,-10,-3.0
+3975,DE,Saxony-Anhalt,2020-06-19,-10,-4.0
+3976,DE,Saxony-Anhalt,2020-06-20,-20,-7.0
+3977,DE,Saxony-Anhalt,2020-06-21,0,24.0
+3978,DE,Saxony-Anhalt,2020-06-22,-5,-2.0
+3979,DE,Saxony-Anhalt,2020-06-23,-7,-4.0
+3980,DE,Saxony-Anhalt,2020-06-24,-8,-5.0
+3981,DE,Saxony-Anhalt,2020-06-25,-11,-4.0
+3982,DE,Saxony-Anhalt,2020-06-26,-13,-5.0
+3983,DE,Saxony-Anhalt,2020-06-27,-26,-9.0
+3984,DE,Saxony-Anhalt,2020-06-28,-10,15.0
+3985,DE,Saxony-Anhalt,2020-06-29,-1,2.0
+3986,DE,Saxony-Anhalt,2020-06-30,2,2.0
+3987,DE,Saxony-Anhalt,2020-07-01,1,0.0
+3988,DE,Saxony-Anhalt,2020-07-02,-1,-1.0
+3989,DE,Saxony-Anhalt,2020-07-03,-2,-2.0
+3990,DE,Saxony-Anhalt,2020-07-04,-13,-5.0
+3991,DE,Saxony-Anhalt,2020-07-05,2,22.0
+3992,DE,Saxony-Anhalt,2020-07-06,2,2.0
+3993,DE,Saxony-Anhalt,2020-07-07,0,-1.0
+3994,DE,Saxony-Anhalt,2020-07-08,-2,-3.0
+3995,DE,Saxony-Anhalt,2020-07-09,-4,-2.0
+3996,DE,Saxony-Anhalt,2020-07-10,-6,-4.0
+3997,DE,Saxony-Anhalt,2020-07-11,-11,-5.0
+3998,DE,Saxony-Anhalt,2020-07-12,16,29.0
+3999,DE,Saxony-Anhalt,2020-07-13,4,2.0
+4000,DE,Saxony-Anhalt,2020-07-14,1,-2.0
+4001,DE,Saxony-Anhalt,2020-07-15,3,-1.0
+4002,DE,Saxony-Anhalt,2020-07-16,0,-1.0
+4003,DE,Saxony-Anhalt,2020-07-17,-4,-5.0
+4004,DE,Saxony-Anhalt,2020-07-18,-15,-8.0
+4005,DE,Saxony-Anhalt,2020-07-19,12,30.0
+4006,DE,Saxony-Anhalt,2020-07-20,3,-2.0
+4007,DE,Saxony-Anhalt,2020-07-21,0,-6.0
+4008,DE,Saxony-Anhalt,2020-07-22,2,-7.0
+4009,DE,Saxony-Anhalt,2020-07-23,-2,-6.0
+4010,DE,Saxony-Anhalt,2020-07-24,-9,-9.0
+4011,DE,Saxony-Anhalt,2020-07-25,-17,-10.0
+4012,DE,Saxony-Anhalt,2020-07-26,-1,15.0
+4013,DE,Saxony-Anhalt,2020-07-27,2,-2.0
+4014,DE,Saxony-Anhalt,2020-07-28,-2,-7.0
+4015,DE,Saxony-Anhalt,2020-07-29,4,-5.0
+4016,DE,Saxony-Anhalt,2020-07-30,3,-3.0
+4017,DE,Saxony-Anhalt,2020-07-31,-3,-4.0
+4018,DE,Saxony-Anhalt,2020-08-01,-19,-9.0
+4019,DE,Saxony-Anhalt,2020-08-02,-4,12.0
+4020,DE,Saxony-Anhalt,2020-08-03,10,3.0
+4021,DE,Saxony-Anhalt,2020-08-04,5,-3.0
+4022,DE,Saxony-Anhalt,2020-08-05,3,-6.0
+4023,DE,Saxony-Anhalt,2020-08-06,-5,-6.0
+4024,DE,Saxony-Anhalt,2020-08-07,-13,-10.0
+4025,DE,Saxony-Anhalt,2020-08-08,-26,-13.0
+4026,DE,Saxony-Anhalt,2020-08-09,-5,13.0
+4027,DE,Saxony-Anhalt,2020-08-10,0,-1.0
+4028,DE,Saxony-Anhalt,2020-08-11,-6,-7.0
+4029,DE,Saxony-Anhalt,2020-08-12,-5,-9.0
+4030,DE,Saxony-Anhalt,2020-08-13,-6,-6.0
+4031,DE,Saxony-Anhalt,2020-08-14,-9,-10.0
+4032,DE,Saxony-Anhalt,2020-08-15,-17,-9.0
+4033,DE,Saxony-Anhalt,2020-08-16,11,26.0
+4034,DE,Saxony-Anhalt,2020-08-17,0,-2.0
+4035,DE,Saxony-Anhalt,2020-08-18,-3,-6.0
+4036,DE,Saxony-Anhalt,2020-08-19,2,-6.0
+4037,DE,Saxony-Anhalt,2020-08-20,-5,-8.0
+4038,DE,Saxony-Anhalt,2020-08-21,-16,-14.0
+4039,DE,Saxony-Anhalt,2020-08-22,-16,-7.0
+4040,DE,Saxony-Anhalt,2020-08-23,16,
+4041,DE,Saxony-Anhalt,2020-08-24,4,1.0
+4042,DE,Saxony-Anhalt,2020-08-25,2,-2.0
+4043,DE,Saxony-Anhalt,2020-08-26,-4,-5.0
+4044,DE,Saxony-Anhalt,2020-08-27,1,0.0
+4045,DE,Saxony-Anhalt,2020-08-28,1,-2.0
+4046,DE,Saxony-Anhalt,2020-08-29,-9,-8.0
+4047,DE,Saxony-Anhalt,2020-08-30,8,
+4048,DE,Saxony-Anhalt,2020-08-31,7,4.0
+4049,DE,Saxony-Anhalt,2020-09-01,2,0.0
+4050,DE,Saxony-Anhalt,2020-09-02,1,-4.0
+4051,DE,Saxony-Anhalt,2020-09-03,-1,-4.0
+4052,DE,Saxony-Anhalt,2020-09-04,-2,-5.0
+4053,DE,Saxony-Anhalt,2020-09-05,-8,-6.0
+4054,DE,Saxony-Anhalt,2020-09-06,24,
+4055,DE,Saxony-Anhalt,2020-09-07,1,-2.0
+4056,DE,Saxony-Anhalt,2020-09-08,-2,-5.0
+4057,DE,Saxony-Anhalt,2020-09-09,-1,-7.0
+4058,DE,Saxony-Anhalt,2020-09-10,-2,-4.0
+4059,DE,Saxony-Anhalt,2020-09-11,-1,-5.0
+4060,DE,Saxony-Anhalt,2020-09-12,-8,-6.0
+4061,DE,Saxony-Anhalt,2020-09-13,33,44.0
+4062,DE,Saxony-Anhalt,2020-09-14,0,-2.0
+4063,DE,Saxony-Anhalt,2020-09-15,-3,-5.0
+4064,DE,Saxony-Anhalt,2020-09-16,-2,-6.0
+4065,DE,Saxony-Anhalt,2020-09-17,-2,-4.0
+4066,DE,Saxony-Anhalt,2020-09-18,-3,-5.0
+4067,DE,Saxony-Anhalt,2020-09-19,-8,-6.0
+4068,DE,Saxony-Anhalt,2020-09-20,29,47.0
+4069,DE,Saxony-Anhalt,2020-09-21,0,-2.0
+4070,DE,Saxony-Anhalt,2020-09-22,-5,-5.0
+4071,DE,Saxony-Anhalt,2020-09-23,-5,-5.0
+4072,DE,Saxony-Anhalt,2020-09-24,-7,-4.0
+4073,DE,Saxony-Anhalt,2020-09-25,-7,-4.0
+4074,DE,Saxony-Anhalt,2020-09-26,-17,-9.0
+4075,DE,Saxony-Anhalt,2020-09-27,-4,8.0
+4076,DE,Saxony-Anhalt,2020-09-28,-2,2.0
+4077,DE,Saxony-Anhalt,2020-09-29,-5,0.0
+4078,DE,Saxony-Anhalt,2020-09-30,2,4.0
+4079,DE,Saxony-Anhalt,2020-10-01,-1,6.0
+4080,DE,Saxony-Anhalt,2020-10-02,3,20.0
+4081,DE,Saxony-Anhalt,2020-10-03,-41,-86.0
+4082,DE,Saxony-Anhalt,2020-10-04,16,38.0
+4083,DE,Saxony-Anhalt,2020-10-05,2,10.0
+4084,DE,Saxony-Anhalt,2020-10-06,-6,1.0
+4085,DE,Saxony-Anhalt,2020-10-07,-4,-1.0
+4086,DE,Saxony-Anhalt,2020-10-08,-7,0.0
+4087,DE,Saxony-Anhalt,2020-10-09,-5,-1.0
+4088,DE,Saxony-Anhalt,2020-10-10,-7,-5.0
+4089,DE,Saxony-Anhalt,2020-10-11,3,15.0
+4090,DE,Saxony-Anhalt,2020-10-12,-1,0.0
+4091,DE,Saxony-Anhalt,2020-10-13,-4,0.0
+4092,DE,Saxony-Anhalt,2020-10-14,-11,-7.0
+4093,DE,Saxony-Anhalt,2020-10-15,-7,3.0
+4094,DE,Saxony-Anhalt,2020-10-16,-5,1.0
+4095,DE,Saxony-Anhalt,2020-10-17,-13,-4.0
+4096,DE,Saxony-Anhalt,2020-10-18,-8,5.0
+4097,DE,Saxony-Anhalt,2020-10-19,2,1.0
+4098,DE,Saxony-Anhalt,2020-10-20,-5,-4.0
+4099,DE,Saxony-Anhalt,2020-10-21,-2,-6.0
+4100,DE,Saxony-Anhalt,2020-10-22,-4,-5.0
+4101,DE,Saxony-Anhalt,2020-10-23,-11,-7.0
+4102,DE,Saxony-Anhalt,2020-10-24,-14,-6.0
+4103,DE,Saxony-Anhalt,2020-10-25,1,17.0
+4104,DE,Saxony-Anhalt,2020-10-26,-8,0.0
+4105,DE,Saxony-Anhalt,2020-10-27,-9,-1.0
+4106,DE,Saxony-Anhalt,2020-10-28,-5,0.0
+4107,DE,Saxony-Anhalt,2020-10-29,-3,9.0
+4108,DE,Saxony-Anhalt,2020-10-30,0,20.0
+4109,DE,Saxony-Anhalt,2020-10-31,-57,-87.0
+4110,DE,Saxony-Anhalt,2020-11-01,-14,9.0
+4111,DE,Saxony-Anhalt,2020-11-02,-12,6.0
+4112,DE,Saxony-Anhalt,2020-11-03,-19,0.0
+4113,DE,Saxony-Anhalt,2020-11-04,-19,-3.0
+4114,DE,Saxony-Anhalt,2020-11-05,-20,0.0
+4115,DE,Saxony-Anhalt,2020-11-06,-21,-1.0
+4116,DE,Saxony-Anhalt,2020-11-07,-30,-6.0
+4117,DE,Saxony-Anhalt,2020-11-08,-41,-3.0
+4118,DE,Saxony-Anhalt,2020-11-09,-16,-1.0
+4119,DE,Saxony-Anhalt,2020-11-10,-20,-3.0
+4120,DE,Saxony-Anhalt,2020-11-11,-19,-4.0
+4121,DE,Saxony-Anhalt,2020-11-12,-21,-1.0
+4122,DE,Saxony-Anhalt,2020-11-13,-19,1.0
+4123,DE,Saxony-Anhalt,2020-11-14,-28,-3.0
+4124,DE,Saxony-Anhalt,2020-11-15,-40,0.0
+4125,DE,Schleswig-Holstein,2020-02-15,6,2.0
+4126,DE,Schleswig-Holstein,2020-02-16,-5,-19.0
+4127,DE,Schleswig-Holstein,2020-02-17,3,2.0
+4128,DE,Schleswig-Holstein,2020-02-18,3,2.0
+4129,DE,Schleswig-Holstein,2020-02-19,3,0.0
+4130,DE,Schleswig-Holstein,2020-02-20,1,1.0
+4131,DE,Schleswig-Holstein,2020-02-21,0,2.0
+4132,DE,Schleswig-Holstein,2020-02-22,-3,-3.0
+4133,DE,Schleswig-Holstein,2020-02-23,-8,-20.0
+4134,DE,Schleswig-Holstein,2020-02-24,-1,-3.0
+4135,DE,Schleswig-Holstein,2020-02-25,0,0.0
+4136,DE,Schleswig-Holstein,2020-02-26,5,2.0
+4137,DE,Schleswig-Holstein,2020-02-27,4,6.0
+4138,DE,Schleswig-Holstein,2020-02-28,6,15.0
+4139,DE,Schleswig-Holstein,2020-02-29,4,7.0
+4140,DE,Schleswig-Holstein,2020-03-01,13,39.0
+4141,DE,Schleswig-Holstein,2020-03-02,9,9.0
+4142,DE,Schleswig-Holstein,2020-03-03,7,6.0
+4143,DE,Schleswig-Holstein,2020-03-04,5,3.0
+4144,DE,Schleswig-Holstein,2020-03-05,6,3.0
+4145,DE,Schleswig-Holstein,2020-03-06,-2,2.0
+4146,DE,Schleswig-Holstein,2020-03-07,8,2.0
+4147,DE,Schleswig-Holstein,2020-03-08,11,9.0
+4148,DE,Schleswig-Holstein,2020-03-09,4,3.0
+4149,DE,Schleswig-Holstein,2020-03-10,-1,0.0
+4150,DE,Schleswig-Holstein,2020-03-11,9,5.0
+4151,DE,Schleswig-Holstein,2020-03-12,-4,7.0
+4152,DE,Schleswig-Holstein,2020-03-13,-8,21.0
+4153,DE,Schleswig-Holstein,2020-03-14,-10,12.0
+4154,DE,Schleswig-Holstein,2020-03-15,-21,24.0
+4155,DE,Schleswig-Holstein,2020-03-16,-9,17.0
+4156,DE,Schleswig-Holstein,2020-03-17,-20,9.0
+4157,DE,Schleswig-Holstein,2020-03-18,-41,1.0
+4158,DE,Schleswig-Holstein,2020-03-19,-46,-6.0
+4159,DE,Schleswig-Holstein,2020-03-20,-52,-7.0
+4160,DE,Schleswig-Holstein,2020-03-21,-63,-21.0
+4161,DE,Schleswig-Holstein,2020-03-22,-69,-38.0
+4162,DE,Schleswig-Holstein,2020-03-23,-51,-17.0
+4163,DE,Schleswig-Holstein,2020-03-24,-53,-18.0
+4164,DE,Schleswig-Holstein,2020-03-25,-52,-18.0
+4165,DE,Schleswig-Holstein,2020-03-26,-52,-15.0
+4166,DE,Schleswig-Holstein,2020-03-27,-54,-14.0
+4167,DE,Schleswig-Holstein,2020-03-28,-60,-18.0
+4168,DE,Schleswig-Holstein,2020-03-29,-70,-53.0
+4169,DE,Schleswig-Holstein,2020-03-30,-49,-15.0
+4170,DE,Schleswig-Holstein,2020-03-31,-45,-7.0
+4171,DE,Schleswig-Holstein,2020-04-01,-50,-14.0
+4172,DE,Schleswig-Holstein,2020-04-02,-50,-11.0
+4173,DE,Schleswig-Holstein,2020-04-03,-54,-10.0
+4174,DE,Schleswig-Holstein,2020-04-04,-59,-15.0
+4175,DE,Schleswig-Holstein,2020-04-05,-57,-32.0
+4176,DE,Schleswig-Holstein,2020-04-06,-37,-4.0
+4177,DE,Schleswig-Holstein,2020-04-07,-38,1.0
+4178,DE,Schleswig-Holstein,2020-04-08,-38,11.0
+4179,DE,Schleswig-Holstein,2020-04-09,-35,16.0
+4180,DE,Schleswig-Holstein,2020-04-10,-82,-93.0
+4181,DE,Schleswig-Holstein,2020-04-11,-51,6.0
+4182,DE,Schleswig-Holstein,2020-04-12,-61,-41.0
+4183,DE,Schleswig-Holstein,2020-04-13,-79,-93.0
+4184,DE,Schleswig-Holstein,2020-04-14,-39,3.0
+4185,DE,Schleswig-Holstein,2020-04-15,-42,-8.0
+4186,DE,Schleswig-Holstein,2020-04-16,-49,-3.0
+4187,DE,Schleswig-Holstein,2020-04-17,-52,-5.0
+4188,DE,Schleswig-Holstein,2020-04-18,-61,-11.0
+4189,DE,Schleswig-Holstein,2020-04-19,-57,-28.0
+4190,DE,Schleswig-Holstein,2020-04-20,-37,-7.0
+4191,DE,Schleswig-Holstein,2020-04-21,-41,-4.0
+4192,DE,Schleswig-Holstein,2020-04-22,-42,-6.0
+4193,DE,Schleswig-Holstein,2020-04-23,-42,-4.0
+4194,DE,Schleswig-Holstein,2020-04-24,-48,-6.0
+4195,DE,Schleswig-Holstein,2020-04-25,-53,-8.0
+4196,DE,Schleswig-Holstein,2020-04-26,-58,-27.0
+4197,DE,Schleswig-Holstein,2020-04-27,-37,-8.0
+4198,DE,Schleswig-Holstein,2020-04-28,-39,0.0
+4199,DE,Schleswig-Holstein,2020-04-29,-44,-1.0
+4200,DE,Schleswig-Holstein,2020-04-30,-30,19.0
+4201,DE,Schleswig-Holstein,2020-05-01,-82,-92.0
+4202,DE,Schleswig-Holstein,2020-05-02,-40,7.0
+4203,DE,Schleswig-Holstein,2020-05-03,-51,-4.0
+4204,DE,Schleswig-Holstein,2020-05-04,-25,-4.0
+4205,DE,Schleswig-Holstein,2020-05-05,-29,-2.0
+4206,DE,Schleswig-Holstein,2020-05-06,-30,-3.0
+4207,DE,Schleswig-Holstein,2020-05-07,-29,-1.0
+4208,DE,Schleswig-Holstein,2020-05-08,-33,-1.0
+4209,DE,Schleswig-Holstein,2020-05-09,-35,0.0
+4210,DE,Schleswig-Holstein,2020-05-10,-37,0.0
+4211,DE,Schleswig-Holstein,2020-05-11,-25,-4.0
+4212,DE,Schleswig-Holstein,2020-05-12,-30,-3.0
+4213,DE,Schleswig-Holstein,2020-05-13,-31,-5.0
+4214,DE,Schleswig-Holstein,2020-05-14,-25,-2.0
+4215,DE,Schleswig-Holstein,2020-05-15,-32,-3.0
+4216,DE,Schleswig-Holstein,2020-05-16,-34,-5.0
+4217,DE,Schleswig-Holstein,2020-05-17,-44,-11.0
+4218,DE,Schleswig-Holstein,2020-05-18,-9,0.0
+4219,DE,Schleswig-Holstein,2020-05-19,-5,7.0
+4220,DE,Schleswig-Holstein,2020-05-20,6,40.0
+4221,DE,Schleswig-Holstein,2020-05-21,-44,-80.0
+4222,DE,Schleswig-Holstein,2020-05-22,-9,7.0
+4223,DE,Schleswig-Holstein,2020-05-23,-16,-2.0
+4224,DE,Schleswig-Holstein,2020-05-24,-27,44.0
+4225,DE,Schleswig-Holstein,2020-05-25,-2,4.0
+4226,DE,Schleswig-Holstein,2020-05-26,-4,2.0
+4227,DE,Schleswig-Holstein,2020-05-27,-5,4.0
+4228,DE,Schleswig-Holstein,2020-05-28,-2,7.0
+4229,DE,Schleswig-Holstein,2020-05-29,-5,12.0
+4230,DE,Schleswig-Holstein,2020-05-30,-9,13.0
+4231,DE,Schleswig-Holstein,2020-05-31,7,112.0
+4232,DE,Schleswig-Holstein,2020-06-01,-32,-77.0
+4233,DE,Schleswig-Holstein,2020-06-02,12,26.0
+4234,DE,Schleswig-Holstein,2020-06-03,3,9.0
+4235,DE,Schleswig-Holstein,2020-06-04,-5,4.0
+4236,DE,Schleswig-Holstein,2020-06-05,-6,6.0
+4237,DE,Schleswig-Holstein,2020-06-06,-10,4.0
+4238,DE,Schleswig-Holstein,2020-06-07,-8,77.0
+4239,DE,Schleswig-Holstein,2020-06-08,8,4.0
+4240,DE,Schleswig-Holstein,2020-06-09,8,7.0
+4241,DE,Schleswig-Holstein,2020-06-10,7,7.0
+4242,DE,Schleswig-Holstein,2020-06-11,5,9.0
+4243,DE,Schleswig-Holstein,2020-06-12,-1,7.0
+4244,DE,Schleswig-Holstein,2020-06-13,-14,0.0
+4245,DE,Schleswig-Holstein,2020-06-14,6,103.0
+4246,DE,Schleswig-Holstein,2020-06-15,9,6.0
+4247,DE,Schleswig-Holstein,2020-06-16,12,12.0
+4248,DE,Schleswig-Holstein,2020-06-17,10,11.0
+4249,DE,Schleswig-Holstein,2020-06-18,7,10.0
+4250,DE,Schleswig-Holstein,2020-06-19,-3,9.0
+4251,DE,Schleswig-Holstein,2020-06-20,-5,6.0
+4252,DE,Schleswig-Holstein,2020-06-21,16,118.0
+4253,DE,Schleswig-Holstein,2020-06-22,13,9.0
+4254,DE,Schleswig-Holstein,2020-06-23,14,12.0
+4255,DE,Schleswig-Holstein,2020-06-24,11,11.0
+4256,DE,Schleswig-Holstein,2020-06-25,8,11.0
+4257,DE,Schleswig-Holstein,2020-06-26,-2,9.0
+4258,DE,Schleswig-Holstein,2020-06-27,-13,3.0
+4259,DE,Schleswig-Holstein,2020-06-28,4,123.0
+4260,DE,Schleswig-Holstein,2020-06-29,16,11.0
+4261,DE,Schleswig-Holstein,2020-06-30,20,17.0
+4262,DE,Schleswig-Holstein,2020-07-01,18,12.0
+4263,DE,Schleswig-Holstein,2020-07-02,13,10.0
+4264,DE,Schleswig-Holstein,2020-07-03,3,8.0
+4265,DE,Schleswig-Holstein,2020-07-04,-5,5.0
+4266,DE,Schleswig-Holstein,2020-07-05,6,123.0
+4267,DE,Schleswig-Holstein,2020-07-06,20,11.0
+4268,DE,Schleswig-Holstein,2020-07-07,20,11.0
+4269,DE,Schleswig-Holstein,2020-07-08,20,10.0
+4270,DE,Schleswig-Holstein,2020-07-09,10,7.0
+4271,DE,Schleswig-Holstein,2020-07-10,1,7.0
+4272,DE,Schleswig-Holstein,2020-07-11,-1,3.0
+4273,DE,Schleswig-Holstein,2020-07-12,28,148.0
+4274,DE,Schleswig-Holstein,2020-07-13,22,10.0
+4275,DE,Schleswig-Holstein,2020-07-14,21,13.0
+4276,DE,Schleswig-Holstein,2020-07-15,23,12.0
+4277,DE,Schleswig-Holstein,2020-07-16,18,9.0
+4278,DE,Schleswig-Holstein,2020-07-17,6,8.0
+4279,DE,Schleswig-Holstein,2020-07-18,-1,5.0
+4280,DE,Schleswig-Holstein,2020-07-19,33,170.0
+4281,DE,Schleswig-Holstein,2020-07-20,30,16.0
+4282,DE,Schleswig-Holstein,2020-07-21,30,15.0
+4283,DE,Schleswig-Holstein,2020-07-22,27,12.0
+4284,DE,Schleswig-Holstein,2020-07-23,22,11.0
+4285,DE,Schleswig-Holstein,2020-07-24,9,9.0
+4286,DE,Schleswig-Holstein,2020-07-25,1,5.0
+4287,DE,Schleswig-Holstein,2020-07-26,23,149.0
+4288,DE,Schleswig-Holstein,2020-07-27,28,14.0
+4289,DE,Schleswig-Holstein,2020-07-28,29,15.0
+4290,DE,Schleswig-Holstein,2020-07-29,30,17.0
+4291,DE,Schleswig-Holstein,2020-07-30,28,14.0
+4292,DE,Schleswig-Holstein,2020-07-31,12,12.0
+4293,DE,Schleswig-Holstein,2020-08-01,2,7.0
+4294,DE,Schleswig-Holstein,2020-08-02,36,179.0
+4295,DE,Schleswig-Holstein,2020-08-03,35,18.0
+4296,DE,Schleswig-Holstein,2020-08-04,36,19.0
+4297,DE,Schleswig-Holstein,2020-08-05,30,15.0
+4298,DE,Schleswig-Holstein,2020-08-06,19,13.0
+4299,DE,Schleswig-Holstein,2020-08-07,5,11.0
+4300,DE,Schleswig-Holstein,2020-08-08,-2,7.0
+4301,DE,Schleswig-Holstein,2020-08-09,28,161.0
+4302,DE,Schleswig-Holstein,2020-08-10,23,20.0
+4303,DE,Schleswig-Holstein,2020-08-11,27,21.0
+4304,DE,Schleswig-Holstein,2020-08-12,23,16.0
+4305,DE,Schleswig-Holstein,2020-08-13,20,14.0
+4306,DE,Schleswig-Holstein,2020-08-14,11,14.0
+4307,DE,Schleswig-Holstein,2020-08-15,1,7.0
+4308,DE,Schleswig-Holstein,2020-08-16,29,149.0
+4309,DE,Schleswig-Holstein,2020-08-17,16,13.0
+4310,DE,Schleswig-Holstein,2020-08-18,25,17.0
+4311,DE,Schleswig-Holstein,2020-08-19,20,12.0
+4312,DE,Schleswig-Holstein,2020-08-20,18,10.0
+4313,DE,Schleswig-Holstein,2020-08-21,4,7.0
+4314,DE,Schleswig-Holstein,2020-08-22,0,4.0
+4315,DE,Schleswig-Holstein,2020-08-23,16,
+4316,DE,Schleswig-Holstein,2020-08-24,13,8.0
+4317,DE,Schleswig-Holstein,2020-08-25,16,10.0
+4318,DE,Schleswig-Holstein,2020-08-26,7,5.0
+4319,DE,Schleswig-Holstein,2020-08-27,15,9.0
+4320,DE,Schleswig-Holstein,2020-08-28,7,10.0
+4321,DE,Schleswig-Holstein,2020-08-29,5,4.0
+4322,DE,Schleswig-Holstein,2020-08-30,34,
+4323,DE,Schleswig-Holstein,2020-08-31,20,13.0
+4324,DE,Schleswig-Holstein,2020-09-01,22,13.0
+4325,DE,Schleswig-Holstein,2020-09-02,20,10.0
+4326,DE,Schleswig-Holstein,2020-09-03,11,8.0
+4327,DE,Schleswig-Holstein,2020-09-04,8,9.0
+4328,DE,Schleswig-Holstein,2020-09-05,5,5.0
+4329,DE,Schleswig-Holstein,2020-09-06,25,
+4330,DE,Schleswig-Holstein,2020-09-07,17,8.0
+4331,DE,Schleswig-Holstein,2020-09-08,17,10.0
+4332,DE,Schleswig-Holstein,2020-09-09,12,6.0
+4333,DE,Schleswig-Holstein,2020-09-10,16,6.0
+4334,DE,Schleswig-Holstein,2020-09-11,8,7.0
+4335,DE,Schleswig-Holstein,2020-09-12,5,4.0
+4336,DE,Schleswig-Holstein,2020-09-13,34,140.0
+4337,DE,Schleswig-Holstein,2020-09-14,18,7.0
+4338,DE,Schleswig-Holstein,2020-09-15,20,9.0
+4339,DE,Schleswig-Holstein,2020-09-16,18,9.0
+4340,DE,Schleswig-Holstein,2020-09-17,16,7.0
+4341,DE,Schleswig-Holstein,2020-09-18,7,7.0
+4342,DE,Schleswig-Holstein,2020-09-19,5,3.0
+4343,DE,Schleswig-Holstein,2020-09-20,39,127.0
+4344,DE,Schleswig-Holstein,2020-09-21,15,6.0
+4345,DE,Schleswig-Holstein,2020-09-22,14,8.0
+4346,DE,Schleswig-Holstein,2020-09-23,10,8.0
+4347,DE,Schleswig-Holstein,2020-09-24,7,8.0
+4348,DE,Schleswig-Holstein,2020-09-25,0,9.0
+4349,DE,Schleswig-Holstein,2020-09-26,-3,4.0
+4350,DE,Schleswig-Holstein,2020-09-27,4,96.0
+4351,DE,Schleswig-Holstein,2020-09-28,6,10.0
+4352,DE,Schleswig-Holstein,2020-09-29,12,12.0
+4353,DE,Schleswig-Holstein,2020-09-30,13,15.0
+4354,DE,Schleswig-Holstein,2020-10-01,11,16.0
+4355,DE,Schleswig-Holstein,2020-10-02,6,37.0
+4356,DE,Schleswig-Holstein,2020-10-03,-42,-77.0
+4357,DE,Schleswig-Holstein,2020-10-04,27,168.0
+4358,DE,Schleswig-Holstein,2020-10-05,13,16.0
+4359,DE,Schleswig-Holstein,2020-10-06,11,10.0
+4360,DE,Schleswig-Holstein,2020-10-07,8,6.0
+4361,DE,Schleswig-Holstein,2020-10-08,-3,1.0
+4362,DE,Schleswig-Holstein,2020-10-09,-3,5.0
+4363,DE,Schleswig-Holstein,2020-10-10,-6,0.0
+4364,DE,Schleswig-Holstein,2020-10-11,5,111.0
+4365,DE,Schleswig-Holstein,2020-10-12,15,10.0
+4366,DE,Schleswig-Holstein,2020-10-13,19,11.0
+4367,DE,Schleswig-Holstein,2020-10-14,13,10.0
+4368,DE,Schleswig-Holstein,2020-10-15,12,13.0
+4369,DE,Schleswig-Holstein,2020-10-16,3,12.0
+4370,DE,Schleswig-Holstein,2020-10-17,-1,7.0
+4371,DE,Schleswig-Holstein,2020-10-18,9,115.0
+4372,DE,Schleswig-Holstein,2020-10-19,6,13.0
+4373,DE,Schleswig-Holstein,2020-10-20,4,13.0
+4374,DE,Schleswig-Holstein,2020-10-21,0,10.0
+4375,DE,Schleswig-Holstein,2020-10-22,3,11.0
+4376,DE,Schleswig-Holstein,2020-10-23,-4,12.0
+4377,DE,Schleswig-Holstein,2020-10-24,-10,4.0
+4378,DE,Schleswig-Holstein,2020-10-25,-16,71.0
+4379,DE,Schleswig-Holstein,2020-10-26,-5,8.0
+4380,DE,Schleswig-Holstein,2020-10-27,-4,10.0
+4381,DE,Schleswig-Holstein,2020-10-28,-3,11.0
+4382,DE,Schleswig-Holstein,2020-10-29,-3,16.0
+4383,DE,Schleswig-Holstein,2020-10-30,-5,36.0
+4384,DE,Schleswig-Holstein,2020-10-31,-56,-82.0
+4385,DE,Schleswig-Holstein,2020-11-01,-6,17.0
+4386,DE,Schleswig-Holstein,2020-11-02,-19,11.0
+4387,DE,Schleswig-Holstein,2020-11-03,-20,9.0
+4388,DE,Schleswig-Holstein,2020-11-04,-23,5.0
+4389,DE,Schleswig-Holstein,2020-11-05,-25,5.0
+4390,DE,Schleswig-Holstein,2020-11-06,-28,7.0
+4391,DE,Schleswig-Holstein,2020-11-07,-28,0.0
+4392,DE,Schleswig-Holstein,2020-11-08,-42,-18.0
+4393,DE,Schleswig-Holstein,2020-11-09,-22,3.0
+4394,DE,Schleswig-Holstein,2020-11-10,-22,5.0
+4395,DE,Schleswig-Holstein,2020-11-11,-24,4.0
+4396,DE,Schleswig-Holstein,2020-11-12,-26,4.0
+4397,DE,Schleswig-Holstein,2020-11-13,-27,8.0
+4398,DE,Schleswig-Holstein,2020-11-14,-29,1.0
+4399,DE,Schleswig-Holstein,2020-11-15,-41,-18.0
+4400,DE,Thuringia,2020-02-15,4,1.0
+4401,DE,Thuringia,2020-02-16,5,16.0
+4402,DE,Thuringia,2020-02-17,1,3.0
+4403,DE,Thuringia,2020-02-18,1,1.0
+4404,DE,Thuringia,2020-02-19,2,-1.0
+4405,DE,Thuringia,2020-02-20,0,0.0
+4406,DE,Thuringia,2020-02-21,0,1.0
+4407,DE,Thuringia,2020-02-22,3,1.0
+4408,DE,Thuringia,2020-02-23,-4,0.0
+4409,DE,Thuringia,2020-02-24,1,-1.0
+4410,DE,Thuringia,2020-02-25,-2,0.0
+4411,DE,Thuringia,2020-02-26,-4,-1.0
+4412,DE,Thuringia,2020-02-27,-3,4.0
+4413,DE,Thuringia,2020-02-28,1,8.0
+4414,DE,Thuringia,2020-02-29,1,5.0
+4415,DE,Thuringia,2020-03-01,13,10.0
+4416,DE,Thuringia,2020-03-02,6,5.0
+4417,DE,Thuringia,2020-03-03,0,2.0
+4418,DE,Thuringia,2020-03-04,2,1.0
+4419,DE,Thuringia,2020-03-05,0,0.0
+4420,DE,Thuringia,2020-03-06,-3,-2.0
+4421,DE,Thuringia,2020-03-07,3,0.0
+4422,DE,Thuringia,2020-03-08,19,14.0
+4423,DE,Thuringia,2020-03-09,1,-1.0
+4424,DE,Thuringia,2020-03-10,-5,-3.0
+4425,DE,Thuringia,2020-03-11,-2,-1.0
+4426,DE,Thuringia,2020-03-12,-2,3.0
+4427,DE,Thuringia,2020-03-13,-7,13.0
+4428,DE,Thuringia,2020-03-14,-9,10.0
+4429,DE,Thuringia,2020-03-15,-3,23.0
+4430,DE,Thuringia,2020-03-16,2,21.0
+4431,DE,Thuringia,2020-03-17,-10,9.0
+4432,DE,Thuringia,2020-03-18,-17,3.0
+4433,DE,Thuringia,2020-03-19,-25,-2.0
+4434,DE,Thuringia,2020-03-20,-48,-7.0
+4435,DE,Thuringia,2020-03-21,-63,-20.0
+4436,DE,Thuringia,2020-03-22,-64,-21.0
+4437,DE,Thuringia,2020-03-23,-48,-17.0
+4438,DE,Thuringia,2020-03-24,-50,-19.0
+4439,DE,Thuringia,2020-03-25,-49,-19.0
+4440,DE,Thuringia,2020-03-26,-50,-18.0
+4441,DE,Thuringia,2020-03-27,-50,-18.0
+4442,DE,Thuringia,2020-03-28,-57,-20.0
+4443,DE,Thuringia,2020-03-29,-75,-44.0
+4444,DE,Thuringia,2020-03-30,-44,-19.0
+4445,DE,Thuringia,2020-03-31,-44,-15.0
+4446,DE,Thuringia,2020-04-01,-40,-13.0
+4447,DE,Thuringia,2020-04-02,-40,-12.0
+4448,DE,Thuringia,2020-04-03,-47,-14.0
+4449,DE,Thuringia,2020-04-04,-54,-15.0
+4450,DE,Thuringia,2020-04-05,-46,5.0
+4451,DE,Thuringia,2020-04-06,-29,-7.0
+4452,DE,Thuringia,2020-04-07,-31,-3.0
+4453,DE,Thuringia,2020-04-08,-27,11.0
+4454,DE,Thuringia,2020-04-09,-26,12.0
+4455,DE,Thuringia,2020-04-10,-80,-93.0
+4456,DE,Thuringia,2020-04-11,-44,3.0
+4457,DE,Thuringia,2020-04-12,-50,-3.0
+4458,DE,Thuringia,2020-04-13,-82,-94.0
+4459,DE,Thuringia,2020-04-14,-32,-3.0
+4460,DE,Thuringia,2020-04-15,-32,-10.0
+4461,DE,Thuringia,2020-04-16,-42,-6.0
+4462,DE,Thuringia,2020-04-17,-46,-7.0
+4463,DE,Thuringia,2020-04-18,-56,-11.0
+4464,DE,Thuringia,2020-04-19,-50,6.0
+4465,DE,Thuringia,2020-04-20,-40,-9.0
+4466,DE,Thuringia,2020-04-21,-44,-9.0
+4467,DE,Thuringia,2020-04-22,-42,-8.0
+4468,DE,Thuringia,2020-04-23,-42,-1.0
+4469,DE,Thuringia,2020-04-24,-44,-17.0
+4470,DE,Thuringia,2020-04-25,-52,-15.0
+4471,DE,Thuringia,2020-04-26,-39,14.0
+4472,DE,Thuringia,2020-04-27,-34,-12.0
+4473,DE,Thuringia,2020-04-28,-39,-9.0
+4474,DE,Thuringia,2020-04-29,-34,4.0
+4475,DE,Thuringia,2020-04-30,-22,22.0
+4476,DE,Thuringia,2020-05-01,-81,-93.0
+4477,DE,Thuringia,2020-05-02,-39,6.0
+4478,DE,Thuringia,2020-05-03,-50,12.0
+4479,DE,Thuringia,2020-05-04,-25,-5.0
+4480,DE,Thuringia,2020-05-05,-28,-6.0
+4481,DE,Thuringia,2020-05-06,-25,-4.0
+4482,DE,Thuringia,2020-05-07,-24,-4.0
+4483,DE,Thuringia,2020-05-08,-26,-3.0
+4484,DE,Thuringia,2020-05-09,-31,1.0
+4485,DE,Thuringia,2020-05-10,-42,27.0
+4486,DE,Thuringia,2020-05-11,-32,-15.0
+4487,DE,Thuringia,2020-05-12,-25,-5.0
+4488,DE,Thuringia,2020-05-13,-23,-5.0
+4489,DE,Thuringia,2020-05-14,-23,-4.0
+4490,DE,Thuringia,2020-05-15,-20,-4.0
+4491,DE,Thuringia,2020-05-16,-27,-4.0
+4492,DE,Thuringia,2020-05-17,-21,33.0
+4493,DE,Thuringia,2020-05-18,-7,-1.0
+4494,DE,Thuringia,2020-05-19,-9,6.0
+4495,DE,Thuringia,2020-05-20,3,42.0
+4496,DE,Thuringia,2020-05-21,-51,-88.0
+4497,DE,Thuringia,2020-05-22,-18,-8.0
+4498,DE,Thuringia,2020-05-23,-28,-7.0
+4499,DE,Thuringia,2020-05-24,-31,13.0
+4500,DE,Thuringia,2020-05-25,-10,-2.0
+4501,DE,Thuringia,2020-05-26,-14,-6.0
+4502,DE,Thuringia,2020-05-27,-11,-4.0
+4503,DE,Thuringia,2020-05-28,-11,1.0
+4504,DE,Thuringia,2020-05-29,-12,2.0
+4505,DE,Thuringia,2020-05-30,-18,6.0
+4506,DE,Thuringia,2020-05-31,-3,37.0
+4507,DE,Thuringia,2020-06-01,-42,-88.0
+4508,DE,Thuringia,2020-06-02,-2,10.0
+4509,DE,Thuringia,2020-06-03,-10,-2.0
+4510,DE,Thuringia,2020-06-04,-15,-3.0
+4511,DE,Thuringia,2020-06-05,-16,-4.0
+4512,DE,Thuringia,2020-06-06,-21,-5.0
+4513,DE,Thuringia,2020-06-07,-18,24.0
+4514,DE,Thuringia,2020-06-08,-6,-6.0
+4515,DE,Thuringia,2020-06-09,-11,-6.0
+4516,DE,Thuringia,2020-06-10,-8,-1.0
+4517,DE,Thuringia,2020-06-11,-3,0.0
+4518,DE,Thuringia,2020-06-12,-9,-4.0
+4519,DE,Thuringia,2020-06-13,-23,-8.0
+4520,DE,Thuringia,2020-06-14,-29,5.0
+4521,DE,Thuringia,2020-06-15,-8,-5.0
+4522,DE,Thuringia,2020-06-16,-8,-5.0
+4523,DE,Thuringia,2020-06-17,-6,-4.0
+4524,DE,Thuringia,2020-06-18,-16,-6.0
+4525,DE,Thuringia,2020-06-19,-12,-5.0
+4526,DE,Thuringia,2020-06-20,-19,-6.0
+4527,DE,Thuringia,2020-06-21,5,35.0
+4528,DE,Thuringia,2020-06-22,-6,-5.0
+4529,DE,Thuringia,2020-06-23,-7,-5.0
+4530,DE,Thuringia,2020-06-24,-6,-3.0
+4531,DE,Thuringia,2020-06-25,-9,-3.0
+4532,DE,Thuringia,2020-06-26,-14,-5.0
+4533,DE,Thuringia,2020-06-27,-24,-7.0
+4534,DE,Thuringia,2020-06-28,-10,21.0
+4535,DE,Thuringia,2020-06-29,-4,-2.0
+4536,DE,Thuringia,2020-06-30,0,1.0
+4537,DE,Thuringia,2020-07-01,0,0.0
+4538,DE,Thuringia,2020-07-02,-5,-1.0
+4539,DE,Thuringia,2020-07-03,-6,-1.0
+4540,DE,Thuringia,2020-07-04,-13,-4.0
+4541,DE,Thuringia,2020-07-05,4,40.0
+4542,DE,Thuringia,2020-07-06,-2,-2.0
+4543,DE,Thuringia,2020-07-07,-2,-2.0
+4544,DE,Thuringia,2020-07-08,-6,-4.0
+4545,DE,Thuringia,2020-07-09,-6,-3.0
+4546,DE,Thuringia,2020-07-10,-9,-4.0
+4547,DE,Thuringia,2020-07-11,-12,-4.0
+4548,DE,Thuringia,2020-07-12,16,46.0
+4549,DE,Thuringia,2020-07-13,0,-2.0
+4550,DE,Thuringia,2020-07-14,-1,-2.0
+4551,DE,Thuringia,2020-07-15,-1,0.0
+4552,DE,Thuringia,2020-07-16,0,1.0
+4553,DE,Thuringia,2020-07-17,-1,-2.0
+4554,DE,Thuringia,2020-07-18,-12,-5.0
+4555,DE,Thuringia,2020-07-19,13,38.0
+4556,DE,Thuringia,2020-07-20,0,-4.0
+4557,DE,Thuringia,2020-07-21,1,-6.0
+4558,DE,Thuringia,2020-07-22,2,-5.0
+4559,DE,Thuringia,2020-07-23,-2,-5.0
+4560,DE,Thuringia,2020-07-24,-11,-8.0
+4561,DE,Thuringia,2020-07-25,-16,-7.0
+4562,DE,Thuringia,2020-07-26,0,34.0
+4563,DE,Thuringia,2020-07-27,-2,-4.0
+4564,DE,Thuringia,2020-07-28,-4,-7.0
+4565,DE,Thuringia,2020-07-29,2,-4.0
+4566,DE,Thuringia,2020-07-30,-1,-3.0
+4567,DE,Thuringia,2020-07-31,-8,-4.0
+4568,DE,Thuringia,2020-08-01,-20,-7.0
+4569,DE,Thuringia,2020-08-02,-3,25.0
+4570,DE,Thuringia,2020-08-03,6,1.0
+4571,DE,Thuringia,2020-08-04,5,-3.0
+4572,DE,Thuringia,2020-08-05,5,-5.0
+4573,DE,Thuringia,2020-08-06,-4,-6.0
+4574,DE,Thuringia,2020-08-07,-14,-10.0
+4575,DE,Thuringia,2020-08-08,-24,-11.0
+4576,DE,Thuringia,2020-08-09,-3,19.0
+4577,DE,Thuringia,2020-08-10,-3,-5.0
+4578,DE,Thuringia,2020-08-11,-5,-9.0
+4579,DE,Thuringia,2020-08-12,-4,-8.0
+4580,DE,Thuringia,2020-08-13,-6,-7.0
+4581,DE,Thuringia,2020-08-14,-11,-9.0
+4582,DE,Thuringia,2020-08-15,-16,-9.0
+4583,DE,Thuringia,2020-08-16,11,38.0
+4584,DE,Thuringia,2020-08-17,-4,-8.0
+4585,DE,Thuringia,2020-08-18,-1,-8.0
+4586,DE,Thuringia,2020-08-19,3,-7.0
+4587,DE,Thuringia,2020-08-20,-5,-10.0
+4588,DE,Thuringia,2020-08-21,-18,-15.0
+4589,DE,Thuringia,2020-08-22,-17,-8.0
+4590,DE,Thuringia,2020-08-23,14,
+4591,DE,Thuringia,2020-08-24,1,-5.0
+4592,DE,Thuringia,2020-08-25,1,-6.0
+4593,DE,Thuringia,2020-08-26,-1,-7.0
+4594,DE,Thuringia,2020-08-27,2,-3.0
+4595,DE,Thuringia,2020-08-28,-4,-4.0
+4596,DE,Thuringia,2020-08-29,-10,-8.0
+4597,DE,Thuringia,2020-08-30,-3,
+4598,DE,Thuringia,2020-08-31,5,2.0
+4599,DE,Thuringia,2020-09-01,1,-2.0
+4600,DE,Thuringia,2020-09-02,4,-3.0
+4601,DE,Thuringia,2020-09-03,-1,-4.0
+4602,DE,Thuringia,2020-09-04,-4,-6.0
+4603,DE,Thuringia,2020-09-05,-8,-7.0
+4604,DE,Thuringia,2020-09-06,24,
+4605,DE,Thuringia,2020-09-07,1,-5.0
+4606,DE,Thuringia,2020-09-08,0,-6.0
+4607,DE,Thuringia,2020-09-09,2,-7.0
+4608,DE,Thuringia,2020-09-10,-1,-4.0
+4609,DE,Thuringia,2020-09-11,-5,-6.0
+4610,DE,Thuringia,2020-09-12,-6,-6.0
+4611,DE,Thuringia,2020-09-13,33,69.0
+4612,DE,Thuringia,2020-09-14,-1,-6.0
+4613,DE,Thuringia,2020-09-15,-2,-5.0
+4614,DE,Thuringia,2020-09-16,1,-5.0
+4615,DE,Thuringia,2020-09-17,-1,-5.0
+4616,DE,Thuringia,2020-09-18,-5,-6.0
+4617,DE,Thuringia,2020-09-19,-5,-6.0
+4618,DE,Thuringia,2020-09-20,35,52.0
+4619,DE,Thuringia,2020-09-21,-2,-5.0
+4620,DE,Thuringia,2020-09-22,-4,-6.0
+4621,DE,Thuringia,2020-09-23,-4,-4.0
+4622,DE,Thuringia,2020-09-24,-7,-3.0
+4623,DE,Thuringia,2020-09-25,-11,-5.0
+4624,DE,Thuringia,2020-09-26,-18,-8.0
+4625,DE,Thuringia,2020-09-27,-5,29.0
+4626,DE,Thuringia,2020-09-28,-5,-1.0
+4627,DE,Thuringia,2020-09-29,-5,-2.0
+4628,DE,Thuringia,2020-09-30,1,4.0
+4629,DE,Thuringia,2020-10-01,-2,6.0
+4630,DE,Thuringia,2020-10-02,-2,21.0
+4631,DE,Thuringia,2020-10-03,-40,-85.0
+4632,DE,Thuringia,2020-10-04,21,66.0
+4633,DE,Thuringia,2020-10-05,-1,7.0
+4634,DE,Thuringia,2020-10-06,-6,1.0
+4635,DE,Thuringia,2020-10-07,-4,0.0
+4636,DE,Thuringia,2020-10-08,-6,1.0
+4637,DE,Thuringia,2020-10-09,-11,-2.0
+4638,DE,Thuringia,2020-10-10,-6,-4.0
+4639,DE,Thuringia,2020-10-11,7,45.0
+4640,DE,Thuringia,2020-10-12,-2,-2.0
+4641,DE,Thuringia,2020-10-13,-2,-2.0
+4642,DE,Thuringia,2020-10-14,-7,-6.0
+4643,DE,Thuringia,2020-10-15,-6,2.0
+4644,DE,Thuringia,2020-10-16,-8,0.0
+4645,DE,Thuringia,2020-10-17,-12,-4.0
+4646,DE,Thuringia,2020-10-18,-3,15.0
+4647,DE,Thuringia,2020-10-19,0,-3.0
+4648,DE,Thuringia,2020-10-20,-3,-6.0
+4649,DE,Thuringia,2020-10-21,0,-5.0
+4650,DE,Thuringia,2020-10-22,-2,-5.0
+4651,DE,Thuringia,2020-10-23,-14,-6.0
+4652,DE,Thuringia,2020-10-24,-16,-6.0
+4653,DE,Thuringia,2020-10-25,4,23.0
+4654,DE,Thuringia,2020-10-26,-8,-5.0
+4655,DE,Thuringia,2020-10-27,-7,-5.0
+4656,DE,Thuringia,2020-10-28,-4,-4.0
+4657,DE,Thuringia,2020-10-29,-3,4.0
+4658,DE,Thuringia,2020-10-30,-4,16.0
+4659,DE,Thuringia,2020-10-31,-54,-88.0
+4660,DE,Thuringia,2020-11-01,-14,6.0
+4661,DE,Thuringia,2020-11-02,-13,3.0
+4662,DE,Thuringia,2020-11-03,-19,-1.0
+4663,DE,Thuringia,2020-11-04,-18,-2.0
+4664,DE,Thuringia,2020-11-05,-20,-1.0
+4665,DE,Thuringia,2020-11-06,-23,-1.0
+4666,DE,Thuringia,2020-11-07,-31,-7.0
+4667,DE,Thuringia,2020-11-08,-40,20.0
+4668,DE,Thuringia,2020-11-09,-17,-5.0
+4669,DE,Thuringia,2020-11-10,-20,-4.0
+4670,DE,Thuringia,2020-11-11,-18,-3.0
+4671,DE,Thuringia,2020-11-12,-21,-2.0
+4672,DE,Thuringia,2020-11-13,-23,-1.0
+4673,DE,Thuringia,2020-11-14,-28,-4.0
+4674,DE,Thuringia,2020-11-15,-39,7.0
