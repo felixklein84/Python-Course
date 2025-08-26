@@ -1,54 +1,51 @@
 """
-Lernziel:
-Schnelles Verständnis für den grundsätzlichen Syntax von Python.
+Learning objective:
+Quickly understand the basic syntax of Python.
 
-Dauer:
-10 Minuten
+Duration:
+10 minutes
 """
 
-# Das ist eine Pythondatei. 
-# Sie endet typischerweise mit .py
-# Kommentare beginnen mit # und gelten bis zum Zeilenende
+# This is a Python file. 
+# It typically ends with .py.
+# Comments begin with # and apply until the end of the line.
 
-# Gebe einen Text aus aus
-print("Guten Abend, Mannheim!")
+# Output a text.
+print("Good evening, Mannheim!")
 
-# Benutze Python als Taschenrechner
+# Use Python as a calculator
 1 + 2
 2 * (15 / 3)
 
 
-# Verwende Variablen
+# Use variables
 x = 5
 y = 3
 z = x + y
-a = "Guten Abend"
+a = "Good evening"
 b = "Mannheim"
 
-# Hinweise:
-# - Variablen werden erzeugt zu den Zeitpunkt, 
-#   zu dem sie das erste Mal einen Wert zugewiesen bekommen
-# - Es gibt kein Kommando, um Variablen zu deklarieren
+# Notes:
+# - Variables are created when 
+#   they are assigned a value for the first time.
+# - There is no command to declare variables.
 
 
-# Einrückung von Text ist in Python entscheidend
+# Indentation of text is crucial in Python.
 
 if 1 > 0:
-    print("1>0 immer wahr, daher wird diese Zeile ausgegeben.")
+    print("1>0 is always true, so this line is printed.")
 
 if 0 > 1:
-    print("Diese Zeile wird nicht ausgegeben, da 0>1 immer falsch ist.")
+    print("This line is not printed because 0>1 is always false.")
 
-# Achtung 
+# Caution 
 if 0 > 1:
-print("Python wirft einen Einrückungsfehler, \
-    da es eine Anweisung für den if-Block erwartet.")
+    print("Python throws an indentation error because \
+      it expects a statement for the if block.")
 
-# Falls ihr nichts ausführen wollt, könnt ihr dies aber aktiv umgehen
+# If you don't want to execute anything, you can actively avoid this
 if 0 > 1:
     pass
-print("Jetzt entsteht kein Fehler. \
-    Dieser Text zählt aber nicht mehr zum if-Block dazu")
-
-
-
+print("Now there is no error. \
+    However, this text is no longer part of the if block")

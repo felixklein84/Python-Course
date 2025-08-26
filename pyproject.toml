@@ -1,18 +1,18 @@
 [tool.poetry]
-name = "pythonkurs2020_part1"
+name = "pythonkurs2025"
 version = "0.1.0"
 description = ""
-authors = ["Moritz Kern <moritz.kern@stads.de>"]
+authors = ["Felix Klein <felixklein84@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 ipykernel = "^5.3.4"
 nbconvert = "^6.0.6"
-numpy = "^1.19.2"
-pandas = "^1.1.3"
+numpy = "2.3.2"
+pandas = "2.3.1"
 xlrd = "^1.2.0"
 openpyxl = "^3.0.5"
-matplotlib = "^3.3.2"
+matplotlib = "3.10.3"
 seaborn = "^0.11.0"
 plotly = "^4.12.0"
 statsmodels = "^0.12.1"

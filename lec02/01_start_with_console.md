@@ -1,25 +1,29 @@
-# Start mit Python Console
+# Start with Python Console
 
-Nutze das in VS Code integrierte Terminal. Falls es nicht angezeigt wird, [öffne es](https://code.visualstudio.com/docs/editor/integrated-terminal) (`Terminal > New Terminal`). Bitte achte unter Windows darauf, `cmd` und nicht `powershell`zu benutzen.
+Use the integrated terminal in VS Code. If it's not visible, [open it](https://code.visualstudio.com/docs/editor/integrated-terminal) (`Terminal > New Terminal`). On Windows, make sure to use `cmd` and not `powershell`.
 
-Gebe im Terminal je nach Betriebssystem (ausprobieren) ein
+Depending on your operating system (try both), enter in the terminal:
 
 ```shell
 > where python
 ```
-oder
+
+or
+
 ```shell
 > which python
 ```
 
-Anschließend solltest du alle angezeigt bekommen, wo dein Betriebssystem eine Python-Installation findet. Falls die Liste leer ist, dann ist bei der Installation was schiefgelaufen.
+You should now see a list of locations where your OS finds a Python installation. If the list is empty, something went wrong during the installation.
 
-Wir checken nun, dass wir die richtige Python Version 3.8.5 installiert haben, indem wir ins Terminal eingeben
+Next, we'll check that we have the correct Python version 3.8.5 installed by entering into the terminal:
+
 ```shell
 bash> python --version
 Python 3.8.5
 ```
-Nun starten wir Python, indem wir `python` ins Terminal eingeben. Jetzt wird Python ausgeführt und du solltest folgenden (oder einen ähnlichen) Konsolenoutput erhalten.
+
+Now start Python by typing `python` into the terminal. Python should now run and you should see the following (or a similar) console output:
 
 ```shell
 bash> python
@@ -28,28 +32,29 @@ Python 3.8.5 (default, Aug 22 2020, 10:36:09)
 Type "help", "copyright", "credits" or "license" for more information.
 ```
 
-Fehlerbehandlung: Falls nicht die richtige Python-Version gefunden wird, dann muss in den Umgebungsvariablen unter Windows hinzugefügt werden in die PATH-Variable ganz oben `C:\Users\%username%\AppData\Local\Programs\Python-38-32\python.exe`. Anschließend abmelden und wieder neu anmelden.
+Error handling: If the correct Python version is not found, you need to add the following to the PATH variable in the environment variables on Windows: `C:\Users\%username%\AppData\Local\Programs\Python-38-32\python.exe`. Then log out and log back in again.
 
-# Python als Taschenrechner
+# Python as a Calculator
 
-Gebe nun in Python eine einfache Rechnung ein und du solltest folgenden Output erhalten.
+Now enter a simple calculation in Python and you should get the following output.
 
 ```python
 >>> 1+2
 3
 ```
 
-Führe nun folgende Rechnung in der Pythonkonsole aus
+Now execute the following calculation in the Python console:
 
-$$\left(\frac{1}{3} * 5 + 7.3 \right)^2$$
+$\left(\frac{1}{3} * 5 + 7.3 \right)^2$
+
 ```python
 >>> (1/3 * 5 + 7.3)**2
 80.4011111111111
 ```
 
-# Variablen in Python 
+# Variables in Python
 
-Variablen können per Gleichheitszeichen zugewiesen werden und mit ihnen gerechnet werden.
+Variables can be assigned using the equals sign and used in calculations.
 
 ```python
 >>> x = 1
@@ -59,7 +64,8 @@ Variablen können per Gleichheitszeichen zugewiesen werden und mit ihnen gerechn
 >>> x + y
 4
 ```
-Das ganze geht natürlich auch für Text.
+
+This also works for text.
 
 ```python
 >>> abc = "Dies ist ein Text"
@@ -67,7 +73,7 @@ Das ganze geht natürlich auch für Text.
 Dies ist ein Text
 ```
 
-und für boolsche Werte
+And for boolean values:
 
 ```python
 >>> is_weekday = True
@@ -75,21 +81,23 @@ und für boolsche Werte
 True
 ```
 
-Ein wenig **Hintergrundwissen** zu Variablen in Python:
+Some **background knowledge** about variables in Python:
 
-- Im Gegensatz zu anderen Programmiersprachen gibt es in Python kein Kommando um Variablen zu deklarieren. Eine Variable wird in dem Moment, in dem ihr der erste Wert zugewiesen wird, erzeugt. 
+* Unlike other programming languages, Python does not have a command to declare variables. A variable is created at the moment a value is assigned to it.
 
-- Variablen müssen nicht mit einem speziellen Typ deklariert werden, der Typ ergibt sich aus dem Wert, der ihr zugewiesen wird. Der Typ einer Variablen ist nicht fix und kann verändert werden.
+* Variables do not need to be declared with a specific type; the type is inferred from the assigned value. The type of a variable is not fixed and can be changed.
 
+How can we name variables?
 
-Wie dürfen wir Variablen benennen?
-- Variable muss mit Buchstabe oder Unterstrich beginnen.
-- Variable darf nicht mit Ziffer beginnen
-- Variablen dürfen sich nur aus alphanumerische Zeichen und Unterstrichen zusammensetzen
-- Variablen sind Groß- und Kleinschreibungs sensitiv
+* A variable must start with a letter or underscore.
+* A variable cannot start with a number.
+* Variables can only contain alphanumeric characters and underscores.
+* Variables are case-sensitive.
 
-# Python schließen
-Abschließend schließen wir die interaktive Pythoninstanz.
+# Closing Python
+
+Finally, we close the interactive Python instance.
+
 ```bash
 >>>exit()
 bash>

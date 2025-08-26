@@ -1,44 +1,52 @@
-# Poetry als Paket- und Dependency-Manager
 
-- Installiere [Poetry](https://python-poetry.org/docs/#installation). Folge dabei unbedingt den `osx / linux / bashonwindows install instructions` bzw. unter Windows den `windows powershell install instructions` auf der Webseite.
-- Führe nun die folgenden Befehle im Projekt als Working Directory (z.B. C:\...\pythonkurs2020) aus.
-    ```shell
-    shell> poetry config virtualenvs.in-project true
-    ````
-- Jetzt initialisiere das virtuelle Environment
-    ```shell
-    shell> poetry install
-    Creating virtualenv pythonkurs2020-part1 in /%path_to_folder%/pythonkurs2020_1_get_started/.venv
-    Installing dependencies from lock file
+# Poetry as a Package and Dependency Manager
 
-    No dependencies to install or update
-    ```
-    *(alternativ) Falls du alternativ ein neues Paket initialisiertst, verwende folgenden Befehl*
-    ```shell
-    shell> poetry init
-    ```
-- Nun wählen wir das erzeugte Environment als Python Interpreter für unser Projekt in VSCode. Dazu wähle in der [Kommandopalette](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_command-palette) *"Select Python Interpreter"* aus und wähle nun den Interpreter im Ordner `.venv` in deinem Projektverzeichnis.
-- Öffne nun im Terminal eine neue Session mit *"+"*. Das Terminal sollte jetzt im venv öffnen:
-    ```shell
-    (.venv)> waiting
-    ```
+* Install [Poetry](https://python-poetry.org/docs/#installation). Be sure to follow the `osx / linux / bashonwindows install instructions` or on Windows the `windows powershell install instructions` from the website.
+* Now run the following commands in your project as the working directory (e.g. `C:\...\pythonkurs2020`):
 
-# Installiere Dev-Dependencies
-Wir installieren jetzt
-* [pylint](https://www.pylint.org) zur statischen Code-Analyse
-* [Jupyter Notebook](https://jupyter.org) als interaktives Coding-Notizbuch.
-```
+  ```shell
+  shell> poetry config virtualenvs.in-project true
+  ```
+* Now initialize the virtual environment:
+
+  ```shell
+  shell> poetry install
+  Creating virtualenv pythonkurs2020-part1 in /%path_to_folder%/pythonkurs2020_1_get_started/.venv
+  Installing dependencies from lock file
+
+  No dependencies to install or update
+  ```
+
+  *(Alternatively) If you're initializing a new package, use the following command:*
+
+  ```shell
+  shell> poetry init
+  ```
+* Now we select the created environment as the Python interpreter for our project in VS Code. To do this, open the [Command Palette](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_command-palette), search for *"Select Python Interpreter"*, and choose the interpreter located in the `.venv` folder of your project directory.
+* Then open a new terminal session by clicking on the *"+"* button. The terminal should now open in the venv:
+
+  ```shell
+  (.venv)> waiting
+  ```
+
+# Install Dev Dependencies
+
+We now install:
+
+* [pylint](https://www.pylint.org) for static code analysis
+* [Jupyter Notebook](https://jupyter.org) as an interactive coding notebook
+
+```bash
 bash> poetry add pylint notebook jupyter_contrib_nbextensions --dev
 
-Using version ^2.6.0 for pylint
-Using version ^6.1.4 for notebook
+Using version ^2.6.0 for pylint  
+Using version ^6.1.4 for notebook  
 Using version ^0.5.1 for jupyter_contrib_nbextensions
 
-Updating dependencies
+Updating dependencies  
 Resolving dependencies... (3.0s)
 
 Writing lock file
-
 
 Package operations: 62 installs, 0 updates, 0 removals
 

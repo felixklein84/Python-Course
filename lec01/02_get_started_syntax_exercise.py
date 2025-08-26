@@ -1,30 +1,28 @@
 """
-Lernziel:
-Übung des grundlegenden Syntax von Python.
+Learning objective:
+Practice basic Python syntax.
 
-Dauer:
-5 Minuten Selbstbearbeitungszeit
-5 Minuten Besprechung
+Duration:
+5 minutes of independent work
+5 minutes of discussion
 """
-################################################################################
-# Aufgabe 1
-# - Definiere die Variablen a als 33 und b als 7
+######################################################### #######################
+# Task 1
+# - Define the variables a as 33 and b as 7
 
 
-# - Berechne die Summe von a und b
+# - Calculate the sum of a and b
 
 
-# - Berechne das Produkt von a und b
+# - Calculate the product of a and b
 
 
-# - Berechne den Quotienten von a und b
+# - Calculate the quotient of a and b
 
 
 
-################################################################################
-# Aufgabe 2
-# - Gebe "positiv" aus, falls a>0
+####################### #########################################################
+# Task 2
+# - Output "positive" if a>0
 
-# - Gebe "negativ" aus, falls a<0
-
-
+# - Output "negative" if a<0

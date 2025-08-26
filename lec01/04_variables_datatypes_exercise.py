@@ -1,57 +1,72 @@
 """
-Lernziel:
-Typische Variablennamen, ihre Typen und Eigenschaften vertiefen
+Learning Objective:
+Deepen understanding of typical variable names, their types, and properties
 
-Dauer:
-5 Minuten Selbstbearbeitungszeit
-5 Minuten Besprechung
+Duration:
+5 minutes self-study time
+5 minutes discussion
 """
 
 
 ################################################################################
-# Aufgabe 1
-# - Formattiere die folgenden Variablen so um, 
-#   dass sie gültige Variablennamen sind
+# Task 1
+# - Reformat the following variables so that they are valid variable names
 
-Name Universität = "Mannheim"
-heute-ist-dienstag = True
-2020 = "aktuelles Jahr"
-wertin% = 0.01
+name_university = "Mannheim"
+today_is_tuesday = True
+year_2020 = "current year"
+value_in_percent = 0.01
 
 
 
 
 ################################################################################
-# Aufgabe 2
-# - Weisen Sie der Variable x die Zahl 2020 als ganzzahligen Wert zu
+# Task 2
+# - Assign the number 2020 as an integer value to the variable x
 
+x = 2020
 
-# - Weisen Sie der Variable x die Zahl 2020 auf eine andere Art und Weise als 
-#   ganzzahligen Wert zu
+# - Assign the number 2020 to x in another way as an integer value
 
+x = int("2020")
 
-# - Geben Sie den Text "x ist vom int-Typ aus", falls der x vom Typ int.
+# - Output the text "x is of int type" if x is of type int
 
+if type(x) == int:
+    print("x is of int type")
 
-# - a ist wie folgt definiert. Definieren Sie b mit demselben Wert wie a 
-#   allerdings als Integer
+# - a is defined as follows. Define b with the same value as a 
+#   but as an integer
 a = "68131"
+b = int(a)
 
+# - Define c with the same value as a but as a float
 
-# - Definieren Sie c mitdemselben Wert wie a allerdings als float
+c = float(a)
 
 
 
 ################################################################################
-# Aufgabe 3
-# - Legen Sie eine Liste an mit den Gebäuden Schloss, A3, A5, B6 als Elementen.
+# Task 3
+# - Create a list with the buildings Schloss, A3, A5, B6 as elements
 
+buildings = ["Schloss", "A3", "A5", "B6"]
 
-# - Legen Sie ein Dictionary an, in dem Sie als Schlüssel die Noten 1.0, 2.0, 
-#   3.0, 4.0 verwenden und diese jeweils auf "sehr gut", "gut", "befriedigend",
-#   "ausreichend" mappen.
+# - Create a dictionary where the keys are the grades 1.0, 2.0, 
+#   3.0, 4.0 and map them to "very good", "good", "satisfactory",
+#   "sufficient"
 
-# - Geben Sie das erste Element der obigen Liste - also Schloss - aus.
+grades = {
+    1.0: "very good",
+    2.0: "good",
+    3.0: "satisfactory",
+    4.0: "sufficient"
+}
 
-# - Geben Sie die zu 4.0 zugehörige wörtliche Note aus.
+# - Output the first element of the above list – i.e., Schloss
 
+print(buildings[0])
+
+# - Output the verbal grade corresponding to 4.0
+
+print(grades[4.0])

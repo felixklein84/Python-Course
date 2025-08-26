@@ -1,29 +1,29 @@
 """
-Lernziel:
-Überblick über mögliche Variablennamen, ihre Typen und Eigenschaften
+Learning Objective:
+Overview of possible variable names, their types, and properties
 
-Dauer:
-20 Minuten
+Duration:
+20 minutes
 """
 
 ################################################################################
 
-# - Variablen kann man als Schubladen verstehen, 
-#   in denen Werte gespeichert werden
-# - Python kennt kein Kommando, um Variablen zu deklarieren
-# - Variablen werden, wenn sie einen Wert zugewiesen bekommen, erzeugt.
+# - Variables can be understood as drawers 
+#   in which values are stored
+# - Python does not have a command to declare variables
+# - Variables are created when they are assigned a value
 
 
-alter = 19
+age = 19
 name = "Max"
-print(alter)
+print(age)
 print(name)
 
 
-# Variablen werden nicht mit einem bestimmten Typ erzeugt und können 
-# ihren Typ auch noch ändern, nachdem er bereits definiert wurde
+# Variables are not created with a specific type and can 
+# change their type even after being defined
 
-alter = 20
+age = 20
 name = "Martina"
 
 name = 123
@@ -31,30 +31,31 @@ name = 123
 
 ################################################################################
 
-# Variablennamen
-# - Variablen sollten KURZE aber VERSTÄNDLICHE Namen erhalten
-# - Variablennamen müssen mit Buchstabe oder Unterstrich("_") beginnen
-# - Variablennamen dürfen nicht mit einer Zahl beginnen
-# - Variablennamen dürfen nur Buchstaben, Zahlen und Unterstriche beinhalten
-# - Variablennamen unterscheiden bzgl. Groß- und Kleinschreibung
+# Variable names
+# - Variables should have SHORT but MEANINGFUL names
+# - Variable names must begin with a letter or underscore ("_")
+# - Variable names must not begin with a number
+# - Variable names may only contain letters, numbers, and underscores
+# - Variable names are case-sensitive
 
-# Beispiele
+# Examples
 _ = 1
-_alter = 35
-hallo_das_ist_ein_langer_text = 5
-alter2 = 3
+_age = 35
+hello_this_is_a_long_text = 5
+age2 = 3
 
 
-# Was ist nicht erlaubt?
-2alter = 25
-preis€ = 5
-hallo-das-ist-ein-langer-text = 5
-vorname nachname = "Max Mustermann"
+# What is not allowed?
+"""
+2age = 25
+price€ = 5
+hello-this-is-a-long-text = 5
+first_name last_name = "Max Mustermann"
+"""
 
-
-# Mehrere Variablen gleichzeitig bennen
-x, y, z = 1,2,3
-print(x+y+z)
+# Assign multiple variables at once
+x, y, z = 1, 2, 3
+print(x + y + z)
 
 a = b = 5
 print(a)
@@ -64,65 +65,65 @@ print(b)
 
 ################################################################################
 
-# Variablen ausgeben
+# Output variables
 
-a = "Heute ist "
-b = "Dienstag"
-c = " und "
+a = "Today is "
+b = "Tuesday"
+c = " and "
 d = 19
 e = 20
-f = " Uhr"
+f = " o'clock"
 
-# String aneinenderhängen
-print(a+b)
-# Zahlen addieren
-print(d+e)
-# Unterschiedliche Typen gibt einen Error
-print(a+b+c+d+f)
+# Concatenate strings
+print(a + b)
+# Add numbers
+print(d + e)
+# Mixing types gives an error
+print(a + b + c + d + f)
 
-# Es gibt eber eine Lösung - fstrings
+# But there is a solution - fstrings
 print(f"{a}{b}{c}{d}{e}{f}")
 
 
 
 ###############################################################################
 
-# Variablentypen
+# Variable types
 
 """
-Übersicht über alle Datentypen.
-Die für uns am Anfang relevantesten sind mit * hervorgehoben.
+Overview of all data types.
+The most relevant ones for us at the beginning are marked with *
  - Text: 
     *- str (Strings)
- - Zahlen: 
-    *- int (ganze Zahlen)
-    *- float (Gleitkommazahlen)
-     - complex (komplexe Zahlen)
- - Logische Wahrheitswerte:
-    *- bool (wahr / falsch)
+ - Numbers: 
+    *- int (whole numbers)
+    *- float (floating point numbers)
+     - complex (complex numbers)
+ - Logical truth values:
+    *- bool (true / false)
 
- - Folgen
-    *- list (geordnete Menge von Elementen)
-     - tuple (geordnetes Menge von Elementen)
-     - range  (steigende Zahlenfolge mit gleichen Abständen)
- - Abbildungen
-    *- dict (Wörterbuch mit Abbildung name -> Beschreibung)
-     - set (ungeordnete Menge von Elementen)
-     - frozenset (ungeordnete Menge von Elementen)
+ - Sequences
+    *- list (ordered collection of elements)
+     - tuple (ordered collection of elements)
+     - range (increasing sequence of numbers with equal intervals)
+ - Mappings
+    *- dict (dictionary mapping name -> description)
+     - set (unordered collection of elements)
+     - frozenset (unordered collection of elements)
 
- - Binäre Datentypen
+ - Binary data types
      - bytes
      - bytearray
      - memoryview
 """
     
-# Beispiele für die *-Fälle
+# Examples for the *-cases
 
 # Text
-x = "Universität Mannheim"
+x = "University of Mannheim"
 type(x)
 
-# Zahlen
+# Numbers
 a = 3
 type(a)
 
@@ -132,7 +133,7 @@ type(b)
 c = 3.0
 type(c)
 
-# Casting zur expliziten Zuweisung
+# Casting for explicit assignment
 d = int(3.0)
 type(d)
 
@@ -146,36 +147,36 @@ g = str(3)
 type(g)
 
 
-# Logische Wahrheitswerte
+# Logical truth values
 
 w = True
 f = False
 type(w)
 print(bool(1))
 print(bool(0))
-# leere Texte, Klammern wie (), 0, None und False werden zu falsch
-# alles andere zu wahr
+# empty texts, brackets like (), 0, None and False evaluate to false
+# everything else evaluates to true
 print(bool("Text"))
 print(bool(None))
 
-# Liste
-wochentage = ["mo", "di", "mi", "do", "fr", "sa", "so"]
-type(wochentage)
-print(wochentage[0])
+# List
+weekdays = ["mo", "tu", "we", "th", "fr", "sa", "su"]
+type(weekdays)
+print(weekdays[0])
 
 
 
 # Dictionaries
-wochentage = {1: "Montag", 2: "Dienstag", 3: "Mittwoch", 4: "Donnerstag",
-              5: "Freitag", 6: "Samstag", 7: "Sonntag"}
+weekdays = {1: "Monday", 2: "Tuesday", 3: "Wednesday", 4: "Thursday",
+            5: "Friday", 6: "Saturday", 7: "Sunday"}
 
-print(wochentage[6])
+print(weekdays[6])
 
-studiengaenge = {
-   "Wifo": "Wirtschaftsinformatik", 
-   "Wima": "Wirtschaftsmathematik",
-   "BWL": "Betriebswirtschaftslehre",
+degree_programs = {
+   "Wifo": "Business Informatics", 
+   "Wima": "Business Mathematics",
+   "BWL": "Business Administration",
    "MMDS": "Mannheim Master in Data Science"
    }
 
-print(studiengaenge["BWL"])
+print(degree_programs["BWL"])
