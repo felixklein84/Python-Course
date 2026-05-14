@@ -1,21 +1,14 @@
-# Agenda 5. Kurstermin
+# Session 5 — Agenda
 
-## Einwahldaten
-* [Join Zoom Meeting](https://zoom.us/j/98180132551?pwd=bTF4eDQzVUV2VTkwOTFPMTEyOTk2QT09) 
-* Meeting-ID: 981 8013 2551
-* Passcode: 2020
+## Topics
 
-Die Kursunterlagen können wieder [als Assignment heruntergeladen](https://classroom.github.com/a/-LCPapN2) werden.
-
-## Themen 
-
-* Überblick zu [Seaborn](https://seaborn.pydata.org/index.html)
-* Beispiele zur Verwendung von Seaborn zur Erstellung von Plots
-    * [Verteilungsdiagramme](01_seaborn_verteilungsdiagramme.ipynb)
-    * [Kategorische Daten](02_seaborn_PlotsKategorischeDaten.ipynb)
-    * [Matrizen](03_seaborn_MatrixPlots.ipynb)
-    * [Gitter](04_seaborn_Grids.ipynb) *(fakultativ)* 
-    * [Regression](05_seaborn_RegressionPlots.ipynb)*(fakultativ)* 
-    * [Stil und Farbe](06_seaborn_StilUndFarbe.ipynb) *(fakultativ)* 
-* [Kurzeinführung in Plotly by Dash](07_plotly.ipynb)
-* Fragen, Ausblick (5 min)
+* Overview of [Seaborn](https://seaborn.pydata.org/index.html)
+* Seaborn examples:
+    * [Distribution plots](01_seaborn_distribution_plots.ipynb)
+    * [Categorical data plots](02_seaborn_categorical_plots.ipynb)
+    * [Matrix plots](03_seaborn_matrix_plots.ipynb)
+    * [Grids](04_seaborn_grids.ipynb) *(optional)*
+    * [Regression plots](05_seaborn_regression_plots.ipynb) *(optional)*
+    * [Style and color](06_seaborn_style_and_color.ipynb) *(optional)*
+* [Introduction to Plotly/Dash](07_plotly.ipynb)
+* Questions and preview (5 min)

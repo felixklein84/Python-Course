@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pythonkurs2025"
 version = "0.1.0"
-description = ""
+description = "Applied Python course covering data analysis with NumPy, pandas, matplotlib, seaborn, and plotly — developed for teaching in India."
 authors = ["Felix Klein <felixklein84@gmail.com>"]
 
 [tool.poetry.dependencies]

@@ -1,5 +1,5 @@
 def quicksort(arr):
-    print('Ich werde gerade aufgerufen.')
+    print('I am being called right now.')
     if len(arr) <= 1:
         return arr
     pivot = arr[len(arr) // 2]
@@ -7,5 +7,5 @@ def quicksort(arr):
     middle = [x for x in arr if x == pivot]
     right = [x for x in arr if x > pivot]
     if False:
-        print("Tritt niemals ein")
+        print("This branch is never reached")
     return quicksort(Left) + middle + quicksort(right)

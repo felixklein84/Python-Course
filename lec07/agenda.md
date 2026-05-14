@@ -1,17 +1,14 @@
-# Agenda 7. Kurstermin
+# Session 7 — Agenda
 
-## Einwahldaten
-* [Join Zoom Meeting](https://zoom.us/j/98180132551?pwd=bTF4eDQzVUV2VTkwOTFPMTEyOTk2QT09) 
-* Meeting-ID: 981 8013 2551
-* Passcode: 2020
+## Topics
 
-Die Kursunterlagen können wieder [als Assignment heruntergeladen](https://classroom.github.com/a/NKxqaYK3) werden.
+* Organisational notes *(10 min)*
+* [First dashboard with Plotly Dash](02_app.py)
+* [COVID-19 dashboard with Plotly Dash](03_app.py) — uses the [data file](data.pickle.gzip)
+* Questions and preview (5 min)
 
-## Themen 
+Install new packages before the session:
 
-* Organisatorisches *(10 min)*
-* [Erstes Dashboard mit Plotly](02_app.py)
-* [Corona-Dashboard mit Plotly](03_app.py) - dabei Verwendung des [Datenfiles](data.pickle.gzip).
-* Fragen, Ausblick (5 min)
-
-Bitte denkt dran, die neuen Pakete zu installieren `poetry add dash dash-bootstrap-components` bzw. `pip install dash dash-bootstrap-components`
+```shell
+poetry add dash dash-bootstrap-components
+```

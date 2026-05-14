@@ -1,17 +1,17 @@
-# Code Formattierung mit Black
+# Code Formatting with Black
 
-`black` ist ein automatische Code-Formattierer, der den Code nach einer Untermenge des PEP 8 Standards formattiert.
+`black` is an automatic code formatter that reformats code according to a subset of the PEP 8 standard.
 
-`black` kann wieder installiert werden via `poetry add black` oder `pip install black`.
+Install `black` via `poetry add black` or `pip install black`.
 
 
-## Beispiel
+## Example
 
-Folgenden Code speichern wir als `lec06/03_black_formatted.py`.
+We save the following code as `lec06/04_black_unformatted.py`:
 
 ```python
 """
-An diesem Beispiel kann man das Reformatting von Black sehen.
+This example demonstrates Black's code reformatting.
 """
 
 import pandas as pd; import numpy as np
@@ -21,25 +21,29 @@ def any_function(x):
     i=0
     
     while i<10:
-     print(f'Aktuelle Zahl: {i}')
+     print(f'Current number: {i}')
      i=i=1
 
 
-dictionary = {1: 'ein sehr langer string steht beispielsweise hier in diesem dictionary',
+dictionary = {1: 'a very long string stored as a value in this dictionary',
 2: np.array([[1,2,3,4,5,6], [10,11,12,13,14,15,16]]),
 3: lambda x: x**3}
 ```
-Wir führen die Formattierung mit Black aus
+
+We run Black on it:
+
 ```bash
-(.venv)> black lec06/05_black_formatted.py 
-reformatted lec06/05_black_formatted.py
+(.venv)> black lec06/04_black_unformatted.py
+reformatted lec06/04_black_unformatted.py
 All done! ✨ 🍰 ✨
 1 file reformatted.
 ```
-Unsere Datei wird mit dem formattierten Code überschrieben und sieht jetzt wie folgt aus:
+
+The file is overwritten with the formatted code:
+
 ```python
 """
-An diesem Beispiel kann man das Reformatting von Black sehen.
+This example demonstrates Black's code reformatting.
 """
 
 import pandas as pd
@@ -50,16 +54,15 @@ def any_function(x):
     i = 0
 
     while i < 10:
-        print(f"Aktuelle Zahl: {i}")
+        print(f"Current number: {i}")
         i = i = 1
 
 
 dictionary = {
-    1: "ein sehr langer string steht beispielsweise hier in diesem dictionary",
+    1: "a very long string stored as a value in this dictionary",
     2: np.array([[1, 2, 3, 4, 5, 6], [10, 11, 12, 13, 14, 15, 16]]),
     3: lambda x: x ** 3,
 }
 ```
 
-Black kann beispielsweise auch in VSCode als Formatter on Save eingestellt werden oder
-in Precommit integriert werden.
+Black can also be configured as a formatter-on-save in VS Code or integrated into pre-commit hooks.

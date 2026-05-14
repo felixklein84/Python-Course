@@ -1,4 +1,3 @@
-"""
 # Certificate Exam 24.11.
 
 * Exam Type: Open-Book Exam  
@@ -106,4 +105,3 @@ You will need the dataset `activity.csv` for this task.
 * Create a **scatterplot** with `date` on the x-axis and  
   `retail_and_recreation_percent_change_from_baseline` on the y-axis.  
   You may use any library (e.g. pandas, matplotlib, seaborn, plotly) *(5 points)*
-"""

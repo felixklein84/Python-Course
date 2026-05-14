@@ -68,9 +68,9 @@ Variables can be assigned using the equals sign and used in calculations.
 This also works for text.
 
 ```python
->>> abc = "Dies ist ein Text"
+>>> abc = "This is a text string"
 >>> print(abc)
-Dies ist ein Text
+This is a text string
 ```
 
 And for boolean values:

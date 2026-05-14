@@ -1,4 +1,4 @@
-# Run this app with `python leco08/03_app.py` and
+# Run this app with `python lec07/03_app.py` and
 # visit http://127.0.0.1:8050/ in your web browser.
 
 # Dash
@@ -7,7 +7,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 
-# Inputs und Outputs für Callbacks
+# Inputs and outputs for callbacks
 from dash.dependencies import Input, Output
 
 # Dash Bootstrap Comonents
@@ -51,7 +51,7 @@ def filter_geography(bundeslaender, landkreis):
 # Menu, extracted from app layout
 menu = dbc.FormGroup(
     [
-        html.H3("Bundesländer"),
+        html.H3("Federal States"),
         dbc.Checklist(
             id="bundesland",
             options=[
@@ -62,7 +62,7 @@ menu = dbc.FormGroup(
             switch=True,
         ),
         html.H3("Landkreis"),
-        html.P("Wähle einen Landkreis aus."),
+        html.P("Select a district."),
         dbc.Select(
             id="landkreis",
             options=[
@@ -108,9 +108,9 @@ app.layout = dbc.Container(
 )
 
 
-# App Callbacks, werden immer in diesem Format definiert
-# fuer einen Output darf maximal eine Funktion definiert werden
-# Funktionsnamen voellig irrelevant
+# App callbacks — always defined in this format
+# Each output may only be controlled by exactly one callback function
+# Function names are arbitrary
 @app.callback(Output("landkreis", "options"), [Input("bundesland", "value")])
 def update_landkreise(bundeslaender):
     df_temp = filter_geography(bundeslaender, [])

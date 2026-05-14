@@ -1,4 +1,3 @@
-"""
 # Get Started Part 1: Setting up development environment
 
 Steps 1–3 can be completed independently.
@@ -74,4 +73,3 @@ We’ve also prepared two videos where the installation process is explained and
     ```
 
 Congratulations, you've completed the setup and all technical requirements for the Python course are now in place! :)
-"""

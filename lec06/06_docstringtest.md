@@ -1,25 +1,24 @@
-# Doc Strings und Doc Tests
+# Docstrings and Doctests
 
-Docstrings sind zum dokumentieren von Funktionen und Modulen, Klassen und Methoden gedacht. 
-Auch diese sind wieder in den PEPs geregelt, genauer in [PEP 257](https://www.python.org/dev/peps/pep-0257/).
+Docstrings are used to document functions, modules, classes, and methods.
+They are governed by [PEP 257](https://www.python.org/dev/peps/pep-0257/).
 
-## Einzeiler
+## One-liner
 
 ```python
-def beispielfunktion():
-    """This function prints example.""""
+def example_function():
+    """This function prints example."""
     print("example")
 ```
 
-Hinweis: Dreifache Anführungszeichen werden auch bei Einzeilern verwendet.
+Note: triple quotes are used even for one-liners.
 
-Es gibt verschiedene Docstring Styles, wir werden hier die [Google Docstring Guide](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) vorstellen.
+There are different docstring styles — this course uses the [Google Docstring Guide](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
 
-## Ausführlichere Doku
+## Full Documentation
 
-Bei komplizierteren Funktionen oder Funktionen, die exportiert werden, 
-empfehlen wir euch eine Doku zu schreiben. Ihr findet diese Funktion auch direkt 
-als [Pythonfile](07_docstringtest.md).
+For more complex or exported functions, a detailed docstring is recommended.
+The following function is also available as a [Python file](07_docstring_test.py).
 
 ```python
 def dichte(x: float, mean: float = 0, variance: float = 1, log: bool = False):
@@ -73,9 +72,9 @@ def dichte(x: float, mean: float = 0, variance: float = 1, log: bool = False):
 ```
 
 
-### Docstrings Test
+## Doctest
 
-Die Beispiele in den Docstrings können wir direkt verwenden als Tests.
+The examples in docstrings can be used directly as tests:
 
 ```shell
 (.venv)> python -m doctest -v lec06/07_docstring_test.py

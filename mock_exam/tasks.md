@@ -1,4 +1,3 @@
-"""
 # Mock Exam
 
 * Exam Type: Open-Book Exam  
@@ -94,5 +93,3 @@ For this task, you will need the dataset [pendler.csv](pendler.csv).
 
 * Create a scatter plot with `Einpendler` on the x-axis and `Auspendler` on the y-axis.  
   You may use any package you prefer (e.g. pandas, matplotlib, seaborn, plotly). *(5 points)*
-
-"""

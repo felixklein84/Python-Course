@@ -136,3 +136,10 @@ dmypy.json
 
 exams/schluessel
 exams/zertifikat1/results/
+
+# Binary / serialized data (not course material)
+*.pickle.gzip
+*.pickle
+
+# Poetry virtual environment (if created in-project)
+.venv/

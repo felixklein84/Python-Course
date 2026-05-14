@@ -1,15 +1,12 @@
-# Agenda 1. Kurstermin
+# Session 1 — Agenda
 
-Bitte verwendet für den Kurstermin das [Github Assignment](https://classroom.github.com/a/eDXSZ89X). Ihr benötigt dazu einen Github-Account.
-
-* Organisatorisches (10 min)
-* Verwendung der [Online-IDE repl.it](https://repl.it) (5 min)
+* Organisational overview (10 min)
+* Using the online IDE [repl.it](https://repl.it) (5 min)
 * [Get Started with Syntax](01_get_started_syntax.py) (10 min)
-* [Übung](02_get_started_syntax_exercise.py) zu "Get Started with Syntax" (10 min)
-* [Variablen und Datentypen](03_variables_datatypes.py) (20 min)
-* [Übung](04_variables_datatypes_exercise.py) zu "Variablen und Datentypen" (10 min)
-* Ausblick auf kommende Woche und Einrichtung IDE (10 min)
-* Fragen 
+* [Exercise](02_get_started_syntax_exercise.py): Get Started with Syntax (10 min)
+* [Variables and Data Types](03_variables_datatypes.py) (20 min)
+* [Exercise](04_variables_datatypes_exercise.py): Variables and Data Types (10 min)
+* Preview of next session and IDE setup (10 min)
+* Questions
 
-
-Für die zweite Woche ist die [Einrichtung der IDE](../SetupIDE_Environment.md) erforderlich. Wir bieten Euch dazu zur Unterstützung Zoom-Sprechstunden an. Bitte vereinbart dazu [per Doodle](https://doodle.com/poll/7ubp8zdqabyq9rbm) einen Termin und loggt euch zum Termin in den [Zoom-Link]( https://zoom.us/j/91084266720?pwd=NVdmM3lpQVVwcVRiZmFwS1FDMFFlQT09) (Meeting-ID: 910 8426 6720, Code: 2020) ein.
+For session 2, complete the [IDE setup guide](../SetupIDE_Environment.md) in advance.
